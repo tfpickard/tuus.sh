@@ -56,6 +56,31 @@
           "title": "Functions",
           "type": "array"
         },
+        "context_terms": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Context Terms",
+          "type": "array"
+        },
+        "context_exclusions": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Context Exclusions",
+          "type": "array"
+        },
+        "usage_role": {
+          "default": "phrase",
+          "enum": [
+            "phrase",
+            "fragment",
+            "closing",
+            "address"
+          ],
+          "title": "Usage Role",
+          "type": "string"
+        },
         "examples": {
           "items": {
             "$ref": "#/$defs/Example"
@@ -206,9 +231,16 @@
           "type": "string"
         },
         "published": {
-          "minLength": 4,
-          "title": "Published",
-          "type": "string"
+          "anyOf": [
+            {
+              "minLength": 4,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Published"
         },
         "accessed": {
           "title": "Accessed",
