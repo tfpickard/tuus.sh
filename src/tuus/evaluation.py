@@ -106,6 +106,8 @@ def evaluate(root: Path, *, generate_only: bool = False, reviewed: bool = False)
     done = {row["id"] for row in final_rows}
     if len(done) != len(final_rows) or not done <= expected:
         raise ValueError("Final evaluation contains duplicate or unknown cases")
+    if any(bool(row.get("reviewer")) != reviewed for row in final_rows if "error" not in row):
+        raise ValueError("Cached scores use a different review mode; retain that mode or archive them before judging again")
     if reviewed:
         for row in final_rows:
             if "error" in row:

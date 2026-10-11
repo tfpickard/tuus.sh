@@ -59,7 +59,7 @@ temporal parameters are qualified in the underlying records.
 ```sh
 uv run tuus validate
 uv run tuus coverage
-uv run tuus evaluate
+uv run tuus evaluate --reviewed
 uv run pytest
 npm --prefix web test
 ```
@@ -73,6 +73,8 @@ The fixed evaluation grid contains 288 cases. Generation checkpoints include
 corpus, prompt, implementation and model-artifact fingerprints. Independent
 review artifacts are checked against the exact utterance before scoring with
 `tuus evaluate --reviewed`; `tuus evaluate` uses the local offline judge.
+Cached scores retain their original judging mode. Archive an existing evaluation
+before changing the prompt, corpus, implementation, or judging mode.
 
 Deployment configuration is supplied in `deploy/`. The runtime uses ordinary
 HTTP and immutable local artifacts; serving is independent of the hosting provider.

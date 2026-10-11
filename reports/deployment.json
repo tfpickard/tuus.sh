@@ -1,12 +1,69 @@
 {
-  "frontend_build": "single Vite build with relative asset paths",
-  "local_origins": [
-    "http://127.0.0.1:8000/",
-    "http://127.0.0.1:8000/tuus/"
+  "container_image": "sha256:136719714cc3c48347e9d174a2881dc2a57395dfd4f8986012f18d9c5a52a8e9",
+  "mounts": [
+    {
+      "url": "http://127.0.0.1:8002/",
+      "page_status": 200,
+      "health_status": 200,
+      "html_sha256": "67d91ad078a8db2ff1cad33fdaf957eaf33bbb057e62ca6b19a2ff00ddf1311e",
+      "assets": [
+        {
+          "path": "./assets/index-DYgc3Hlp.js",
+          "status": 200
+        },
+        {
+          "path": "./assets/index-rM6zE1km.css",
+          "status": 200
+        }
+      ],
+      "uid": 10001,
+      "generation": {
+        "status": 200,
+        "response": {
+          "utterance": "Morgan, got your ears on? Collect the printouts before 15:00."
+        },
+        "elapsed_ms": 20553.166983001574,
+        "retains_recipient_action_deadline": true
+      }
+    },
+    {
+      "url": "http://127.0.0.1:8003/tuus/",
+      "page_status": 200,
+      "health_status": 200,
+      "html_sha256": "67d91ad078a8db2ff1cad33fdaf957eaf33bbb057e62ca6b19a2ff00ddf1311e",
+      "assets": [
+        {
+          "path": "./assets/index-DYgc3Hlp.js",
+          "status": 200
+        },
+        {
+          "path": "./assets/index-rM6zE1km.css",
+          "status": 200
+        }
+      ],
+      "uid": 10001,
+      "generation": {
+        "status": 200,
+        "response": {
+          "utterance": "Morgan, got your ears on? Collect the printouts before 15:00."
+        },
+        "elapsed_ms": 17991.34821199914,
+        "retains_recipient_action_deadline": true
+      }
+    }
   ],
-  "container_image": "tuus:verification",
-  "container_health": "HTTP 200 at /tuus/api/health",
-  "container_page": "HTTP 200 at /tuus/",
-  "container_runs_as_uid": 10001,
-  "public_deployment": "Not performed; VPS and DNS access are not configured."
+  "public_deployment": "Not performed; VPS and DNS access are not configured.",
+  "checked_at": "2026-10-11T17:07:12.867524+00:00",
+  "generation_prior": {
+    "components": [
+      {
+        "mean": 1976,
+        "sigma": 0.5,
+        "weight": 1
+      }
+    ]
+  },
+  "generation_intent": "Ask Morgan to collect the printouts before 15:00.",
+  "identical_html": true,
+  "passed": true
 }
