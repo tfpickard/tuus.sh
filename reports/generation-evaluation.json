@@ -1,0 +1,126 @@
+{
+  "cases": 288,
+  "fingerprint": {
+    "generation_prompt": "a51b3c8e7fd315d63f905900251cd2b69806fe411bf9ff636b993021176526d6",
+    "judge_prompt": "f089a25ce417936d664d815e43d212074240767b4027ae94858af07ed94ffc6b",
+    "cases": "c3ccf83351affbc4aed33cf3e6a87cd26bbadc38126bcf0d5a8c0893433863e6",
+    "corpus": "db5f1bf48dafb8474c0f58f8e9b0bd47f2c7dfa15b2cd8f0b2ac464c2f4400f7",
+    "implementation": "49ac6cddb6c634e5ea260c41b3a935ee433e82594ca61251f4fe3c3ed41fd682",
+    "model_artifacts": "e41b5b2a9e5cccf6f99663ecfa1f19fdcc8d29e0d51ea6d3855fa6fccdf166ef"
+  },
+  "results_sha256": "d457e799ba2fa80831cfd00da209fb3e8428f2d5378df053a3d52bbfc92c9d38",
+  "scores": {
+    "intent": 0.75,
+    "fidelity": 0.8125,
+    "zero_jargon": 0.9236111111111112
+  },
+  "acceptance_targets": {
+    "intent": 0.95,
+    "fidelity": 0.95,
+    "zero_jargon": 1.0
+  },
+  "targets_met": {
+    "intent": false,
+    "fidelity": false,
+    "zero_jargon": false
+  },
+  "generation_errors": 21,
+  "successful_outputs_with_identified_jargon": 1,
+  "all_criteria": 187,
+  "per_prior": [
+    {
+      "prior": "cb",
+      "cases": 36,
+      "errors": 3,
+      "passes": {
+        "intent": 30,
+        "fidelity": 33,
+        "zero_jargon": 33
+      },
+      "all_criteria": 30
+    },
+    {
+      "prior": "valley",
+      "cases": 36,
+      "errors": 3,
+      "passes": {
+        "intent": 27,
+        "fidelity": 33,
+        "zero_jargon": 33
+      },
+      "all_criteria": 27
+    },
+    {
+      "prior": "internet",
+      "cases": 36,
+      "errors": 4,
+      "passes": {
+        "intent": 27,
+        "fidelity": 31,
+        "zero_jargon": 32
+      },
+      "all_criteria": 27
+    },
+    {
+      "prior": "data",
+      "cases": 36,
+      "errors": 8,
+      "passes": {
+        "intent": 25,
+        "fidelity": 14,
+        "zero_jargon": 27
+      },
+      "all_criteria": 12
+    },
+    {
+      "prior": "tail",
+      "cases": 36,
+      "errors": 2,
+      "passes": {
+        "intent": 22,
+        "fidelity": 25,
+        "zero_jargon": 34
+      },
+      "all_criteria": 14
+    },
+    {
+      "prior": "mixed",
+      "cases": 36,
+      "errors": 1,
+      "passes": {
+        "intent": 25,
+        "fidelity": 32,
+        "zero_jargon": 35
+      },
+      "all_criteria": 23
+    },
+    {
+      "prior": "recent",
+      "cases": 36,
+      "errors": 0,
+      "passes": {
+        "intent": 30,
+        "fidelity": 33,
+        "zero_jargon": 36
+      },
+      "all_criteria": 27
+    },
+    {
+      "prior": "uncovered",
+      "cases": 36,
+      "errors": 0,
+      "passes": {
+        "intent": 30,
+        "fidelity": 33,
+        "zero_jargon": 36
+      },
+      "all_criteria": 27
+    }
+  ],
+  "judge_limitation": "Model-assisted offline judgments are not independent human validation.",
+  "previous_evaluated_baseline": {
+    "intent": 0.5381944444444444,
+    "fidelity": 0.7013888888888888,
+    "zero_jargon": 0.9722222222222222
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "schema_version": 1,
+  "id": "era_1980_valley_girl",
+  "name": "National Valley Girl lexical fad",
+  "window": {
+    "start": 1978,
+    "end": 1987
+  },
+  "description": "Ephemeral lexical formulas circulated through the 1982 Valley Girl recording, press coverage, merchandising, and associated adolescent imitation.",
+  "cause_of_death": "Rapid internal replacement and immediate caricature are documented in 1982. The national merchandising-wave fade is estimated; persistent discourse features are excluded.",
+  "sources": [
+    {
+      "id": "valley_time_one",
+      "title": "Living: How Toe-dully Max Is Their Valley, page 1",
+      "url": "https://content.time.com/time/subscriber/article/0,33009,925750,00.html",
+      "published": "1982-09-27",
+      "accessed": "2026-10-11",
+      "note": "Contemporaneous Michael Demarest article inspected. Documents national merchandising, the Zappa single, and journalistic imitation of the register."
+    },
+    {
+      "id": "valley_time_two",
+      "title": "Living: How Toe-dully Max Is Their Valley, page 2",
+      "url": "https://content.time.com/time/subscriber/article/0,33009,925750-2,00.html",
+      "published": "1982-09-27",
+      "accessed": "2026-10-11",
+      "note": "Contemporaneous article inspected. Calls the vocabulary ephemeral and explicitly identifies bitchen and tubular as already displaced Valley staples."
+    },
+    {
+      "id": "valley_wikipedia",
+      "title": "Valley girl: source text",
+      "url": "https://en.wikipedia.org/w/index.php?title=Valley_girl&action=raw",
+      "published": "continuously revised",
+      "accessed": "2026-10-11",
+      "note": "Source text inspected. Identifies the 1982 single as popularizing grody to the max and gag me with a spoon; notes continuing mainstream features, which are excluded here."
+    },
+    {
+      "id": "valley_zappa_release",
+      "title": "Ship Arriving Too Late to Save a Drowning Witch",
+      "url": "https://www.zappa.com/releases/ship-arriving-too-late-save-drowning-witch/",
+      "published": null,
+      "accessed": "2026-10-11",
+      "note": "Official release page inspected. Documents the album release on 1982-05-03, the Valley Girl track, and Moon Zappa vocal credit. The webpage publication date is unknown; the album date does not supply term-frequency measurements."
+    }
+  ],
+  "entries": [
+    {
+      "id": "valley_fer_shurr",
+      "surface": "fer shurr",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An emphatic affirmative in phonetic Valley spelling.",
+      "functions": [
+        "praising",
+        "informing",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Fer shurr, I can collect the printouts before the meeting.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'fer shurr' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_maximum_brilliant",
+      "surface": "maximum brilliant",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Intensified admiration or praise.",
+      "functions": [
+        "praising",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "maximum brilliant",
+          "kind": "attested",
+          "source_id": "valley_time_one"
+        },
+        {
+          "text": "Your help covering my shift was maximum brilliant.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'maximum brilliant' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_major_cool",
+      "surface": "major cool",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Intensified approval of a person or activity.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "major cool calendars",
+          "kind": "attested",
+          "source_id": "valley_time_one"
+        },
+        {
+          "text": "That was major cool of you to collect the printouts.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'major cool' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_mondo_cool",
+      "surface": "mondo cool",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Extravagant approval or enthusiasm.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "mondo cool stores",
+          "kind": "attested",
+          "source_id": "valley_time_one"
+        },
+        {
+          "text": "Your presentation was mondo cool; thank you for preparing it.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'mondo cool' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_rilly_killer",
+      "surface": "rilly killer",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Strong admiration with phonetic intensification.",
+      "functions": [
+        "praising",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "rilly killer bedroom",
+          "kind": "attested",
+          "source_id": "valley_time_one"
+        },
+        {
+          "text": "That revised presentation is rilly killer.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'rilly killer' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_kiss_my_tuna",
+      "surface": "kiss my tuna",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An incredulous dismissal of a proposition.",
+      "functions": [
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "Kiss my tuna!",
+          "kind": "attested",
+          "source_id": "valley_time_one"
+        },
+        {
+          "text": "Kiss my tuna! I cannot take another shift this weekend.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'kiss my tuna' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. Explicit politeness or respectfulness cues exclude this dismissive, sarcastic or disgust formula from retrieval; a refusal using it cannot be assumed to preserve a requested courteous speech act.",
+      "source_ids": [
+        "valley_time_one",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted",
+      "context_exclusions": [
+        "polite",
+        "politely",
+        "respectful",
+        "respectfully",
+        "courteous",
+        "courteously"
+      ]
+    },
+    {
+      "id": "valley_im_shurr",
+      "surface": "I'm shurr",
+      "variants": [
+        "I'm sure"
+      ],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Sarcastic incredulity or rejection rather than literal certainty.",
+      "functions": [
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "I'm shurr; I cannot fit another meeting into tomorrow.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests \"I'm shurr\" in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. Explicit politeness or respectfulness cues exclude this dismissive, sarcastic or disgust formula from retrieval; a refusal using it cannot be assumed to preserve a requested courteous speech act.",
+      "source_ids": [
+        "valley_time_two",
+        "valley_time_one"
+      ],
+      "review_status": "accepted",
+      "context_exclusions": [
+        "polite",
+        "politely",
+        "respectful",
+        "respectfully",
+        "courteous",
+        "courteously"
+      ]
+    },
+    {
+      "id": "valley_joanie",
+      "surface": "Joanie",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Label something as already out of fashion.",
+      "functions": [
+        "declining",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "That look is Joanie; it is already out of fashion.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'Joanie' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. Retrieval requires an actual outdatedness, fashion or trend context. An ordinary room, timetable or location change does not license a claim that something is out of fashion.",
+      "source_ids": [
+        "valley_time_two",
+        "valley_time_one"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "outdated",
+        "outmoded",
+        "obsolete",
+        "unfashionable",
+        "old-fashioned",
+        "out of fashion",
+        "out of style",
+        "fashion",
+        "fashions",
+        "trend",
+        "trends"
+      ]
+    },
+    {
+      "id": "valley_bitchen",
+      "surface": "bitchen",
+      "variants": [
+        "bitchin'"
+      ],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1978,
+        "peak": 1981,
+        "fade": 1984,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Surf-derived adjective of emphatic approval in the Valley fad.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "That was bitchen of you to cover my shift.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'bitchen' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. TIME already calls this an outdated Valley staple in 1982; peak 1981 and fade 1984 are conservative estimates. Subsequent surf and entertainment reuse is a separate moment. The inspected Wikipedia source text directly attests the related bitchin' spelling with an excellent sense; that current secondary form is distinguished from TIME's 1982 bitchen spelling. The unsupported no-apostrophe editorial variant is not stored.",
+      "source_ids": [
+        "valley_time_two",
+        "valley_time_one",
+        "valley_wikipedia"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_tubular",
+      "surface": "tubular",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1978,
+        "peak": 1981,
+        "fade": 1984,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Surf-derived adjective of emphatic approval appropriated by the Valley fad.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Tubular work on the presentation; thank you for preparing it.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1982 TIME account attests 'tubular' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. TIME already calls this an outdated Valley staple in 1982; peak 1981 and fade 1984 are conservative estimates. Subsequent surf and entertainment reuse is a separate moment.",
+      "source_ids": [
+        "valley_time_two",
+        "valley_time_one"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "valley_grody_max",
+      "surface": "grody to the max",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Strong negative evaluation or disgust.",
+      "functions": [
+        "declining",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "That timing is grody to the max; could we meet tomorrow instead?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected Valley girl source text attests 'grody to the max' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. Secondary source identifies popularization by the 1982 Zappa single; the official album page independently confirms its May 1982 release, but the precise lexical fade remains inferred. Explicit politeness or respectfulness cues exclude this dismissive, sarcastic or disgust formula from retrieval; a refusal using it cannot be assumed to preserve a requested courteous speech act.",
+      "source_ids": [
+        "valley_wikipedia",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted",
+      "context_exclusions": [
+        "polite",
+        "politely",
+        "respectful",
+        "respectfully",
+        "courteous",
+        "courteously"
+      ]
+    },
+    {
+      "id": "valley_gag_spoon",
+      "surface": "gag me with a spoon",
+      "variants": [],
+      "kairolexica": [
+        "era_1980_valley_girl"
+      ],
+      "signature": {
+        "onset": 1981,
+        "peak": 1982.7,
+        "fade": 1987,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Ritual expression of exaggerated distaste.",
+      "functions": [
+        "declining",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Gag me with a spoon; I cannot cover another shift this week.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected Valley girl source text attests 'gag me with a spoon' in the national Valley Girl moment. TIME explicitly describes rapidly changing, ephemeral vocabulary and the register's national merchandising in September 1982. Parameters describe this particular appropriation, not the invention of older surf language; onset and fade are estimated without annual frequency measurements. Secondary source identifies popularization by the 1982 Zappa single; the official album page independently confirms its May 1982 release, but the precise lexical fade remains inferred. Explicit politeness or respectfulness cues exclude this dismissive, sarcastic or disgust formula from retrieval; a refusal using it cannot be assumed to preserve a requested courteous speech act.",
+      "source_ids": [
+        "valley_wikipedia",
+        "valley_time_two",
+        "valley_zappa_release"
+      ],
+      "review_status": "accepted",
+      "context_exclusions": [
+        "polite",
+        "politely",
+        "respectful",
+        "respectfully",
+        "courteous",
+        "courteously"
+      ]
+    }
+  ]
+}

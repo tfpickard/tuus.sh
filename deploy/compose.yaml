@@ -1,0 +1,50 @@
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    environment:
+      TUUS_MODEL_URL: http://synthesis:8081/v1
+      TUUS_BASE_PATH: ${TUUS_BASE_PATH:-}
+    volumes:
+      - ../models/e5-small-v2:/app/models/e5-small-v2:ro
+    depends_on:
+      - synthesis
+    restart: unless-stopped
+  synthesis:
+    image: ghcr.io/ggml-org/llama.cpp:server@sha256:fc9b506e89c1a1cfdd7bc056480f54dc657c1c04d76839a08642dc280b8ed2f6
+    command:
+      - -m
+      - /models/Qwen3-4B-Instruct-2507-Q4_K_M.gguf
+      - --alias
+      - Qwen3-4B-Instruct-2507
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8081"
+      - -c
+      - "4096"
+      - -t
+      - "2"
+      - -tb
+      - "2"
+    volumes:
+      - ../models:/models:ro
+    restart: unless-stopped
+  proxy:
+    image: caddy:2@sha256:f2a1290d0463aad60660d4ec134943f183ee2a5f6c3eb7bf32dd984f2f020772
+    environment:
+      TUUS_DOMAIN: ${TUUS_DOMAIN:-tuus.sh}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - api
+    restart: unless-stopped
+volumes:
+  caddy_data:
+  caddy_config:

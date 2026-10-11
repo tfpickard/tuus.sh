@@ -1,0 +1,203 @@
+{
+  "hardware": {
+    "logical_cpus": 3,
+    "architecture": "x86_64",
+    "processor": "",
+    "cgroup_limits": {
+      "cpu.max": "200000 100000",
+      "memory.max": "8589934592"
+    },
+    "memory_total_kib": 10207516
+  },
+  "runtime_model": "Qwen3-4B-Instruct-2507",
+  "quantization": "Q4_K_M",
+  "samples": 5,
+  "runtime_load_ms": 265.7245509999484,
+  "retrieval_p50_ms": 7.280408999577048,
+  "total_p50_ms": 17993.39216899989,
+  "total_p95_ms": 19349.47365059943,
+  "successful_requests": 3,
+  "subsecond_target_met": false,
+  "concurrency": "One request at a time; no evaluation or browser synthesis workload.",
+  "network": "Loopback model endpoint; no hosted-model network excluded.",
+  "results": [
+    {
+      "utterance": "Morgan, GM; could you collect the printouts before 15:00?",
+      "material": [
+        {
+          "id": "information_superhighway",
+          "surface": "information superhighway",
+          "variants": [],
+          "kairolexicon": "era_1990_information_highway",
+          "meaning": "An expansive network presented as a new route to information.",
+          "examples": [
+            "Could you send those notes down the information superhighway?"
+          ]
+        },
+        {
+          "id": "nft_gm",
+          "surface": "GM",
+          "variants": [],
+          "kairolexicon": "nft_community_ritual",
+          "meaning": "A community greeting expressing morning goodwill and group affiliation.",
+          "examples": [
+            "GM; please send the revised schedule before noon."
+          ]
+        },
+        {
+          "id": "workplace_wizard",
+          "surface": "wizard",
+          "variants": [],
+          "kairolexicon": "era_2010_workplace_titles",
+          "meaning": "A workplace label casting ordinary expertise as magical problem-solving ability.",
+          "examples": [
+            "You are a printout wizard; thank you for bringing every page.",
+            "Numbers Wizard"
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 1993.2297366254256,
+          "resolved_year": 1993.2297366254256,
+          "kairolexicon": "era_1990_information_highway",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2021.134917514991,
+          "resolved_year": 2021.134917514991,
+          "kairolexicon": "nft_community_ritual",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2009.7306450050944,
+          "resolved_year": 2009.7306450050944,
+          "kairolexicon": "era_2010_workplace_titles",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 8.559433000300487,
+        "total": 17324.16997600012
+      },
+      "seed": 11
+    },
+    {
+      "utterance": "Morgan, could you assist in harnessing collective intelligence by collecting the printouts before 15:00?",
+      "material": [
+        {
+          "id": "harness_collective",
+          "surface": "harnessing collective intelligence",
+          "variants": [],
+          "kairolexicon": "era_2005_web_participation",
+          "meaning": "A promotional appeal to pooling user contributions into superior collective results.",
+          "examples": [
+            "Could you assist in harnessing collective intelligence by arranging coverage for Friday?",
+            "Harnessing Collective Intelligence"
+          ]
+        },
+        {
+          "id": "rise_and_grind",
+          "surface": "rise and grind",
+          "variants": [
+            "rise-and-grind"
+          ],
+          "kairolexicon": "hustle_aspiration",
+          "meaning": "An exhortation to begin the day with relentless productive effort.",
+          "examples": [
+            "Rise and grind: please send the completed figures before lunch."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2004.8048596103376,
+          "resolved_year": 2004.8048596103376,
+          "kairolexicon": "era_2005_web_participation",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2017.9083784667137,
+          "resolved_year": 2017.9083784667137,
+          "kairolexicon": "hustle_aspiration",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2004.76112544661,
+          "resolved_year": 2004.76112544661,
+          "kairolexicon": "era_2005_web_participation",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 6.97467699956178,
+        "total": 17993.39216899989
+      },
+      "seed": 29
+    },
+    {
+      "error": "ModelUnavailable: Synthesis exceeded curated lexical material",
+      "timing_ms": {
+        "total": 19655.332204999468
+      },
+      "seed": 47
+    },
+    {
+      "utterance": "Morgan, Got your ears on? I need you to collect the printouts before 15:00.",
+      "material": [
+        {
+          "id": "cybercommerce",
+          "surface": "cybercommerce",
+          "variants": [],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Online commercial exchange framed as futuristic activity.",
+          "examples": [
+            "Let us bring this ordering process into cybercommerce."
+          ]
+        },
+        {
+          "id": "cb_ears",
+          "surface": "got your ears on?",
+          "variants": [],
+          "kairolexicon": "era_1970_cb_craze",
+          "meaning": "Ask whether a recipient is listening.",
+          "examples": [
+            "Got your ears on?"
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2000.542234879506,
+          "resolved_year": 2000.542234879506,
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1976.3869457253306,
+          "resolved_year": 1976.3869457253306,
+          "kairolexicon": "era_1970_cb_craze",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1980.8821820129272,
+          "resolved_year": 1980.8821820129272,
+          "kairolexicon": "era_1970_cb_craze",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 7.280408999577048,
+        "total": 10367.302965999443
+      },
+      "seed": 83
+    },
+    {
+      "error": "ModelUnavailable: Synthesis exceeded curated lexical material",
+      "timing_ms": {
+        "total": 18126.039432999278
+      },
+      "seed": 101
+    }
+  ]
+}

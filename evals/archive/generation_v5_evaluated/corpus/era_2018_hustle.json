@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "id": "hustle_aspiration",
+  "name": "Platform-mediated hustle aspiration",
+  "window": {
+    "start": 2015,
+    "end": 2025.5
+  },
+  "description": "Late-2010s social-platform exhortations that presented unremitting work as a visible professional identity.",
+  "cause_of_death": "Contemporary burnout criticism intensified into pandemic-era rejection of overwork as an aspirational status marker; continued use remains documented.",
+  "sources": [
+    {
+      "id": "bbc_hustle_2019",
+      "title": "Rise and grind",
+      "url": "https://www.bbc.com/worklife/article/20190719-rise-and-grind",
+      "published": "2019-07-22",
+      "accessed": "2026-10-11",
+      "note": "Contemporary BBC account identifies rise and grind, hustle harder, and hustle culture as conspicuous worker rhetoric and critiques the burnout beneath it."
+    },
+    {
+      "id": "psych_hustle_2019",
+      "title": "The 'Rise and Grind' of Hustle Culture",
+      "url": "https://www.psychologytoday.com/us/blog/the-right-mindset/201910/the-rise-and-grind-hustle-culture",
+      "published": "2019-10-02",
+      "accessed": "2026-10-11",
+      "note": "Contemporary account criticizes the glorification of overwork; it provides backlash evidence, not annual phrase-frequency measurements."
+    },
+    {
+      "id": "bbc_hustle_2023",
+      "title": "Hustle culture: Is this the end of rise-and-grind?",
+      "url": "https://www.bbc.com/worklife/article/20230417-hustle-culture-is-this-the-end-of-rise-and-grind",
+      "published": "2023-04-20",
+      "accessed": "2026-10-11",
+      "note": "Reports diminished cultural aspiration after pandemic reprioritization; explicitly says the culture has not entirely faded and attests grindset."
+    }
+  ],
+  "entries": [
+    {
+      "id": "rise_and_grind",
+      "surface": "rise and grind",
+      "variants": [
+        "rise-and-grind"
+      ],
+      "kairolexica": [
+        "hustle_aspiration"
+      ],
+      "signature": {
+        "onset": 2015,
+        "peak": 2018.5,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An exhortation to begin the day with relentless productive effort.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Rise and grind: please send the completed figures before lunch.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The 2019 BBC headline and body directly attest the slogan. BBC reports in 2019 establish conspicuous promotional use and contemporary criticism; the 2023 account documents rejection and displacement while acknowledging continued use. The onset, peak and fade are estimated bounds for this promotional moment, not measured first use or extinction.",
+      "source_ids": [
+        "bbc_hustle_2019",
+        "psych_hustle_2019",
+        "bbc_hustle_2023"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "hustle_harder",
+      "surface": "hustle harder",
+      "variants": [],
+      "kairolexica": [
+        "hustle_aspiration"
+      ],
+      "signature": {
+        "onset": 2015,
+        "peak": 2018.5,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An exhortation to increase effort and continue working despite fatigue.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Please hustle harder and finish the presentation today.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The 2019 BBC account directly uses the phrase in its wake-work-sleep cycle. BBC reports in 2019 establish conspicuous promotional use and contemporary criticism; the 2023 account documents rejection and displacement while acknowledging continued use. The onset, peak and fade are estimated bounds for this promotional moment, not measured first use or extinction.",
+      "source_ids": [
+        "bbc_hustle_2019",
+        "psych_hustle_2019",
+        "bbc_hustle_2023"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "hustle_culture",
+      "surface": "hustle culture",
+      "variants": [],
+      "kairolexica": [
+        "hustle_aspiration"
+      ],
+      "signature": {
+        "onset": 2016,
+        "peak": 2019,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional ethos that treats continuous overwork as evidence of ambition.",
+      "functions": [
+        "hyping",
+        "informing",
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "Thank you for completing the draft; your commitment to hustle culture is evident.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Contemporary 2019 BBC and Psychology Today discussions attest the named ethos. BBC reports in 2019 establish conspicuous promotional use and contemporary criticism; the 2023 account documents rejection and displacement while acknowledging continued use. The onset, peak and fade are estimated bounds for this promotional moment, not measured first use or extinction.",
+      "source_ids": [
+        "bbc_hustle_2019",
+        "psych_hustle_2019",
+        "bbc_hustle_2023"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    }
+  ]
+}

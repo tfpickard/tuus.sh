@@ -1,0 +1,320 @@
+{
+  "hardware": {
+    "logical_cpus": 3,
+    "architecture": "x86_64",
+    "processor": "",
+    "cgroup_limits": {
+      "cpu.max": "200000 100000",
+      "memory.max": "8589934592"
+    },
+    "memory_total_kib": 10207516
+  },
+  "runtime_model": "Qwen3-4B-Instruct-2507",
+  "quantization": "Q4_K_M",
+  "samples": 5,
+  "fingerprint": {
+    "corpus": "db5f1bf48dafb8474c0f58f8e9b0bd47f2c7dfa15b2cd8f0b2ac464c2f4400f7",
+    "prompt": "a51b3c8e7fd315d63f905900251cd2b69806fe411bf9ff636b993021176526d6",
+    "implementation": "49ac6cddb6c634e5ea260c41b3a935ee433e82594ca61251f4fe3c3ed41fd682"
+  },
+  "runtime_load_ms": 240.13891700087697,
+  "retrieval_p50_ms": 9.021527999721002,
+  "total_p50_ms": 15516.857683000126,
+  "total_p95_ms": 21855.360586597817,
+  "successful_requests": 5,
+  "subsecond_target_met": false,
+  "concurrency": "One request at a time; no evaluation or browser synthesis workload.",
+  "network": "Loopback model endpoint; no hosted-model network excluded.",
+  "results": [
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00. All that and a bag of chips, wizard. GM",
+      "material": [
+        {
+          "id": "all_that_bag_chips",
+          "surface": "all that and a bag of chips",
+          "variants": [],
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "meaning": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+          "usage_role": "phrase",
+          "examples": [
+            "I’m all that and a bag of chips.",
+            "Thank you for covering my shift; you are all that and a bag of chips.",
+            "Could you collect the printouts? You would be all that and a bag of chips."
+          ]
+        },
+        {
+          "id": "nft_gm",
+          "surface": "GM",
+          "variants": [],
+          "kairolexicon": "nft_community_ritual",
+          "meaning": "A community greeting expressing morning goodwill and group affiliation.",
+          "usage_role": "phrase",
+          "examples": [
+            "GM; please send the revised schedule before noon."
+          ]
+        },
+        {
+          "id": "workplace_wizard",
+          "surface": "wizard",
+          "variants": [],
+          "kairolexicon": "era_2010_workplace_titles",
+          "meaning": "A workplace label casting ordinary expertise as magical problem-solving ability. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+          "usage_role": "address",
+          "examples": [
+            "Numbers Wizard",
+            "You are a wizard."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 1993.2297366254256,
+          "resolved_year": 1993.2297366254256,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2021.134917514991,
+          "resolved_year": 2021.134917514991,
+          "kairolexicon": "nft_community_ritual",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2009.7306450050944,
+          "resolved_year": 2009.7306450050944,
+          "kairolexicon": "era_2010_workplace_titles",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 9.021527999721002,
+        "total": 23378.38500199723
+      },
+      "seed": 11
+    },
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00. I'm all that and a bag of chips. Rise and grind.",
+      "material": [
+        {
+          "id": "all_that_bag_chips",
+          "surface": "all that and a bag of chips",
+          "variants": [],
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "meaning": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+          "usage_role": "phrase",
+          "examples": [
+            "I’m all that and a bag of chips.",
+            "Thank you for covering my shift; you are all that and a bag of chips.",
+            "Could you collect the printouts? You would be all that and a bag of chips."
+          ]
+        },
+        {
+          "id": "rise_and_grind",
+          "surface": "rise and grind",
+          "variants": [
+            "rise-and-grind"
+          ],
+          "kairolexicon": "hustle_aspiration",
+          "meaning": "An exhortation to begin the day with relentless productive effort.",
+          "usage_role": "phrase",
+          "examples": [
+            "Rise and grind: please send the completed figures before lunch."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2004.8048596103376,
+          "resolved_year": 2001.999999,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": true
+        },
+        {
+          "sampled_year": 2017.9083784667137,
+          "resolved_year": 2017.9083784667137,
+          "kairolexicon": "hustle_aspiration",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2004.76112544661,
+          "resolved_year": 2001.999999,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": true
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 9.744070997840026,
+        "total": 14696.913140996912
+      },
+      "seed": 29
+    },
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00. I'm all that and a bag of chips. Guru, you're on it.",
+      "material": [
+        {
+          "id": "all_that_bag_chips",
+          "surface": "all that and a bag of chips",
+          "variants": [],
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "meaning": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+          "usage_role": "phrase",
+          "examples": [
+            "I’m all that and a bag of chips.",
+            "Thank you for covering my shift; you are all that and a bag of chips.",
+            "Could you collect the printouts? You would be all that and a bag of chips."
+          ]
+        },
+        {
+          "id": "workplace_guru",
+          "surface": "guru",
+          "variants": [
+            "gurus"
+          ],
+          "kairolexicon": "era_2010_workplace_titles",
+          "meaning": "An inflated occupational label claiming authoritative professional mastery. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+          "usage_role": "address",
+          "examples": [
+            "social media gurus",
+            "You are a guru."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 1990.6273569995055,
+          "resolved_year": 1991.000001,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": true
+        },
+        {
+          "sampled_year": 1988.8184005980415,
+          "resolved_year": 1991.000001,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": true
+        },
+        {
+          "sampled_year": 2005.791430904235,
+          "resolved_year": 2008.000001,
+          "kairolexicon": "era_2010_workplace_titles",
+          "fallback": true
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 7.934525001473958,
+        "total": 15763.262925000163
+      },
+      "seed": 47
+    },
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00. All that and a bag of chips. Got your ears on?",
+      "material": [
+        {
+          "id": "all_that_bag_chips",
+          "surface": "all that and a bag of chips",
+          "variants": [],
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "meaning": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+          "usage_role": "phrase",
+          "examples": [
+            "I’m all that and a bag of chips.",
+            "Thank you for covering my shift; you are all that and a bag of chips.",
+            "Could you collect the printouts? You would be all that and a bag of chips."
+          ]
+        },
+        {
+          "id": "cb_ears",
+          "surface": "got your ears on?",
+          "variants": [],
+          "kairolexicon": "era_1970_cb_craze",
+          "meaning": "Ask whether a recipient is listening.",
+          "usage_role": "phrase",
+          "examples": [
+            "Got your ears on?"
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2000.542234879506,
+          "resolved_year": 2000.542234879506,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1976.3869457253306,
+          "resolved_year": 1976.3869457253306,
+          "kairolexicon": "era_1970_cb_craze",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1980.8821820129272,
+          "resolved_year": 1980.8821820129272,
+          "kairolexicon": "era_1970_cb_craze",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 9.138438002992189,
+        "total": 13886.890049001522
+      },
+      "seed": 83
+    },
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00. I'm all that and a bag of chips. Micro-moment.",
+      "material": [
+        {
+          "id": "all_that_bag_chips",
+          "surface": "all that and a bag of chips",
+          "variants": [],
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "meaning": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+          "usage_role": "phrase",
+          "examples": [
+            "I’m all that and a bag of chips.",
+            "Thank you for covering my shift; you are all that and a bag of chips.",
+            "Could you collect the printouts? You would be all that and a bag of chips."
+          ]
+        },
+        {
+          "id": "micro_moment",
+          "surface": "micro-moment",
+          "variants": [
+            "micro-moments"
+          ],
+          "kairolexicon": "tuus_2026",
+          "meaning": "A brief intent-bearing interaction treated as a discrete marketing opportunity.",
+          "usage_role": "fragment",
+          "examples": [
+            "Micro-moments occur when people reflexively turn to a device—increasingly a smartphone—to act on a need to learn something, do something, discover something, watch something, or buy something.",
+            "A micro-moment: please confirm receipt."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2001.0990916964724,
+          "resolved_year": 2001.0990916964724,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2028.5344732653327,
+          "resolved_year": 2027.999999,
+          "kairolexicon": "tuus_2026",
+          "fallback": true
+        },
+        {
+          "sampled_year": 1995.3976096434717,
+          "resolved_year": 1995.3976096434717,
+          "kairolexicon": "era_1990_mass_cultural_formulas",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 7.828787001926685,
+        "total": 15516.857683000126
+      },
+      "seed": 101
+    }
+  ]
+}

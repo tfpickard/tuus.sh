@@ -1,0 +1,421 @@
+{
+  "schema_version": 1,
+  "id": "tuus_2026",
+  "name": "Micro-formulation discourse",
+  "window": {
+    "start": 2024,
+    "end": 2028
+  },
+  "description": "A contemporary naming register organizing methods, content, and interactions into formally specified small units.",
+  "cause_of_death": null,
+  "sources": [
+    {
+      "id": "tuus_readme",
+      "title": "TμUS project README",
+      "url": "https://github.com/tfpickard/tuus.sh/blob/master/README.md",
+      "published": "2026-10-11",
+      "accessed": "2026-10-11",
+      "note": "Primary project wording; adoption and future fade are unobserved, and the signature is a bounded curation estimate."
+    },
+    {
+      "id": "google_moments",
+      "title": "How Micro-Moments Are Changing the Rules",
+      "url": "https://www.thinkwithgoogle.com/_qs/documents/56/how-micromoments-are-changing-rules.pdf",
+      "published": "2015-04",
+      "accessed": "2026-10-11",
+      "note": "Primary Google PDF inspected; page 2 defines micro-moments. This attests the 2015 formulation, not a later peak or backlash. The contemporary reuse window is an explicitly estimated signature."
+    }
+  ],
+  "entries": [
+    {
+      "id": "tuus_name",
+      "surface": "TμUS",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "A telechronistic synthesis instrument.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this TμUS to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tuus_full_name",
+      "surface": "Telechronistic μ-Utterance Synthesizer",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "A named instrument for temporally calibrated utterance synthesis.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this Telechronistic μ-Utterance Synthesizer to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "telechronistic",
+      "surface": "telechronistic",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "Reaching across temporal distance in synthesis.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this telechronistic to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "time",
+        "temporal",
+        "year",
+        "years",
+        "era",
+        "eras",
+        "historical"
+      ]
+    },
+    {
+      "id": "greek_utterance",
+      "surface": "μ-utterance",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "One unit of synthesized communicative output.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this μ-utterance to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "sentence",
+        "phrase",
+        "utterance",
+        "message",
+        "wording",
+        "text",
+        "language"
+      ]
+    },
+    {
+      "id": "micro_utterance",
+      "surface": "micro-utterance",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "One small synthesized communicative output.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this micro-utterance to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "sentence",
+        "phrase",
+        "utterance",
+        "message",
+        "wording",
+        "text",
+        "language"
+      ]
+    },
+    {
+      "id": "temporal_prior",
+      "surface": "temporal prior",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "A user-defined distribution over temporal positions.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this temporal prior to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "distribution",
+        "probability",
+        "timeline",
+        "prior",
+        "temporal",
+        "year",
+        "years"
+      ]
+    },
+    {
+      "id": "kairolexica",
+      "surface": "kairolexica",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "Curated lexical corpora associated with charged cultural moments.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Please calibrate this kairolexica to the present intent.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "vocabulary",
+        "lexicon",
+        "lexica",
+        "corpus",
+        "corpora",
+        "language",
+        "lexical"
+      ]
+    },
+    {
+      "id": "tuus_opening",
+      "surface": "TμUS synthesizes telechronistic micro-utterances calibrated to user-defined temporal priors over attested kairolexica.",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "A formal statement of temporally calibrated synthesis.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "TμUS synthesizes telechronistic micro-utterances calibrated to user-defined temporal priors over attested kairolexica.",
+          "kind": "attested",
+          "source_id": "tuus_readme"
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tuus_description",
+      "surface": "Telechronistic micro-utterance synthesis from user-defined temporal priors over curated kairolexica.",
+      "variants": [],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "An abstract-like statement of a synthesis procedure.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Telechronistic micro-utterance synthesis from user-defined temporal priors over curated kairolexica.",
+          "kind": "attested",
+          "source_id": "tuus_readme"
+        }
+      ],
+      "rationale": "Primary project vocabulary is attested in 2026 project copy. Onset 2024 and fade 2028 are low-confidence bounded estimates for the selected naming moment; no historical frequency or observed decline is claimed.",
+      "source_ids": [
+        "tuus_readme"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "micro_moment",
+      "surface": "micro-moment",
+      "variants": [
+        "micro-moments"
+      ],
+      "kairolexica": [
+        "tuus_2026"
+      ],
+      "signature": {
+        "onset": 2024,
+        "peak": 2026,
+        "fade": 2028,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "A brief intent-bearing interaction treated as a discrete marketing opportunity.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Micro-moments occur when people reflexively turn to a device—increasingly a smartphone—to act on a need to learn something, do something, discover something, watch something, or buy something.",
+          "kind": "attested",
+          "source_id": "google_moments"
+        },
+        {
+          "text": "Please resolve this micro-moment before the next meeting.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This surface is selected as a contemporary micro-X formulation; its 2024–2028 reuse window is an explicitly low-confidence estimate, not an observed first-use or frequency claim.",
+      "source_ids": [
+        "google_moments"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "cases": 288,
+  "fingerprint": {
+    "generation_prompt": "a51b3c8e7fd315d63f905900251cd2b69806fe411bf9ff636b993021176526d6",
+    "judge_prompt": "f089a25ce417936d664d815e43d212074240767b4027ae94858af07ed94ffc6b",
+    "cases": "c3ccf83351affbc4aed33cf3e6a87cd26bbadc38126bcf0d5a8c0893433863e6",
+    "corpus": "db5f1bf48dafb8474c0f58f8e9b0bd47f2c7dfa15b2cd8f0b2ac464c2f4400f7",
+    "implementation": "49ac6cddb6c634e5ea260c41b3a935ee433e82594ca61251f4fe3c3ed41fd682",
+    "model_artifacts": "e41b5b2a9e5cccf6f99663ecfa1f19fdcc8d29e0d51ea6d3855fa6fccdf166ef"
+  },
+  "scores": {
+    "intent": 0.75,
+    "fidelity": 0.8125,
+    "zero_jargon": 0.9236111111111112
+  },
+  "generation_model": "Qwen3-4B-Instruct-2507",
+  "judge_model": "Independent research-agent review",
+  "judge_limitation": "Model-assisted offline judgments are not independent human validation.",
+  "errors": 21,
+  "elapsed_this_run_seconds": 0.32539398199878633,
+  "acceptance_targets": {
+    "intent": 0.95,
+    "fidelity": 0.95,
+    "zero_jargon": 1.0
+  }
+}

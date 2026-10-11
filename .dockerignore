@@ -1,0 +1,13 @@
+.git
+.venv
+models
+node_modules
+web/node_modules
+web/dist
+reports
+evals
+research
+test-results
+__pycache__
+*.log
+.env

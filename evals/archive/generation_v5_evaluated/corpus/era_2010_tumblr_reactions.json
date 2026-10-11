@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "id": "era_2010_tumblr_reactions",
+  "name": "Early Tumblr reaction captions",
+  "window": {
+    "start": 2008,
+    "end": 2017
+  },
+  "description": "A concentrated register of fragmented reactions, emotional nouns, and exaggerated captions in early Tumblr circulation.",
+  "cause_of_death": "Contemporary parody and mainstream saturation eroded distinctiveness; the ending is an estimated register boundary.",
+  "sources": [
+    {
+      "id": "tumblr_guide",
+      "title": "A sincere guide to Tumblr slang",
+      "url": "https://dailydot.com/sincere-guide-tumblr-slang",
+      "published": "2012-07-05",
+      "accessed": "2026-10-11",
+      "note": "Contemporary guide expressly distinguishes its definitions from an earlier parody guide and documents pervasive expressions."
+    },
+    {
+      "id": "tumblr_even",
+      "title": "I Can't Even",
+      "url": "https://knowyourmeme.com/memes/i-cant-even",
+      "published": "undated retrospective chronology; accessed 2026-10-11",
+      "accessed": "2026-10-11",
+      "note": "Chronology includes a July 2010 Tumblr-specific definition and mainstream saturation in the early 2010s; page subsequently updated."
+    },
+    {
+      "id": "tumblr_feels",
+      "title": "Feels",
+      "url": "https://knowyourmeme.com/memes/feels",
+      "published": "undated retrospective chronology; accessed 2026-10-11",
+      "accessed": "2026-10-11",
+      "note": "Chronology documents 2010 precursor and 2012 definitions, captions, and uptake."
+    },
+    {
+      "id": "tumblr_all",
+      "title": "All the Things",
+      "url": "https://knowyourmeme.com/memes/all-the-things",
+      "published": "undated retrospective chronology; accessed 2026-10-11",
+      "accessed": "2026-10-11",
+      "note": "Dates the source comic to June 17, 2010 and remixes spreading in 2011."
+    }
+  ],
+  "entries": [
+    {
+      "id": "tumblr_cant_even",
+      "surface": "I can't even",
+      "variants": [
+        "I can’t even",
+        "I just can't",
+        "I can’t",
+        "I can't"
+      ],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2013,
+        "fade": 2017,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A fragmented declaration of being overwhelmed by admiration, surprise, or distress.",
+      "functions": [
+        "thanking",
+        "praising",
+        "apologizing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You covered my shift; I can't even. Thank you.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "I can’t even",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "source_ids": [
+        "tumblr_guide",
+        "tumblr_even"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tumblr_what_air",
+      "surface": "what is air?",
+      "variants": [
+        "What is air?"
+      ],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2012,
+        "fade": 2016,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An exaggerated expression of breathless excitement or laughter.",
+      "functions": [
+        "praising",
+        "thanking",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You brought every printout. What is air? Thank you.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "What is air?",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "source_ids": [
+        "tumblr_guide"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tumblr_gpoy",
+      "surface": "GPOY",
+      "variants": [
+        "gratuitous picture of yourself"
+      ],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2008,
+        "peak": 2012,
+        "fade": 2016,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A self-identifying caption extended from self-portraits to anything expressing one's mood.",
+      "functions": [
+        "informing",
+        "apologizing",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "GPOY: still waiting for the printouts. Could we begin at two?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "GPOY",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
+      "source_ids": [
+        "tumblr_guide"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "describe myself",
+        "describe me",
+        "self-description",
+        "selfie",
+        "selfies",
+        "self-portrait",
+        "my mood",
+        "my feelings",
+        "how I feel",
+        "I am",
+        "I'm",
+        "relatable",
+        "me when"
+      ]
+    },
+    {
+      "id": "tumblr_keysmash",
+      "surface": ";alksjdf;lksfd",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2012,
+        "fade": 2016,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A conventional keyboard-smash expression of overwhelming excitement in early Tumblr captions.",
+      "functions": [
+        "thanking",
+        "praising",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": ";alksjdf;lksfd thank you for covering my shift!",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": ";alksjdf;lksfd",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "source_ids": [
+        "tumblr_guide"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tumblr_feels_entry",
+      "surface": "feels",
+      "variants": [
+        "all the feels",
+        "that feel",
+        "right in the feels",
+        "I know that feel"
+      ],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2012,
+        "fade": 2017,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A stylized noun for an intense emotional response or sympathetic recognition.",
+      "functions": [
+        "thanking",
+        "praising",
+        "apologizing",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "All the feels. Thank you for covering my shift.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "all the feels",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "source_ids": [
+        "tumblr_guide",
+        "tumblr_feels"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tumblr_life_ruiner",
+      "surface": "life ruiner",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2012,
+        "fade": 2016,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An exaggerated admiring label for an idol whose perfection overwhelms the admirer.",
+      "functions": [
+        "praising",
+        "thanking",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a life ruiner with those perfect printouts; thank you.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Life ruiner",
+          "kind": "attested",
+          "source_id": "tumblr_guide"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
+      "source_ids": [
+        "tumblr_guide"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "admire",
+        "admired",
+        "admiration",
+        "idol",
+        "idols",
+        "celebrity",
+        "celebrities",
+        "actor",
+        "actress",
+        "singer",
+        "band",
+        "artist",
+        "crush",
+        "favorite person",
+        "favourite person"
+      ]
+    },
+    {
+      "id": "tumblr_all_things",
+      "surface": "all the things",
+      "variants": [
+        "ALL THE THINGS"
+      ],
+      "kairolexica": [
+        "era_2010_tumblr_reactions"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2011,
+        "fade": 2015,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A hyperbolic snowclone for enthusiastically attempting an entire category of tasks.",
+      "functions": [
+        "requesting",
+        "hyping",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Collect all the things! Could you bring the printouts to the meeting?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "clean all the things?",
+          "kind": "attested",
+          "source_id": "tumblr_all"
+        }
+      ],
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "source_ids": [
+        "tumblr_all"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

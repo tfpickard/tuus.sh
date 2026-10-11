@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_mass_cultural_formulas",
+  "name": "Mass-mediated evaluative and dismissive formulas",
+  "window": {
+    "start": 1991,
+    "end": 2003
+  },
+  "description": "Briefly saturated evaluative and dismissive formulas diffused from youth vernacular through American television, film and newspapers.",
+  "cause_of_death": "Mainstream saturation produced contemporary 1997-1998 banishment nominations and subsequent parody or retrospective staleness; later uses persist as references or residual speech.",
+  "sources": [
+    {
+      "id": "lssu_formula_banishments",
+      "title": "Banished Words Listed By Year 1976 - 2022",
+      "url": "https://www.lssu.edu/resources/about-lssu/traditions/banishedwords/year/",
+      "published": null,
+      "accessed": "2026-10-11",
+      "note": "Institutional archive reproduces original annual lists: as if in 1997; da bomb and talk to the hand in 1998. Annual headings date the backlash evidence; the archive page itself is undated. Banishment is evidence of contemporary rejection, not a measured end of all use."
+    },
+    {
+      "id": "sony_da_bomb",
+      "title": "Da Bomb - Kris Kross",
+      "url": "https://music.apple.com/us/album/da-bomb/169702139",
+      "published": "1993",
+      "accessed": "2026-10-11",
+      "note": "Label-supplied album title and Sony copyright year attest public branding in 1993. The modern catalog gives June 30, a day that differs from other release histories; only the uncontested year is used."
+    },
+    {
+      "id": "lat_da_bomb",
+      "title": "A Battle Over Loss, Love and Loyalties",
+      "url": "https://www.latimes.com/archives/la-xpm-1997-dec-27-mn-2554-story.html",
+      "published": "1997-12-27",
+      "accessed": "2026-10-11",
+      "note": "Contemporary reporting quotes Brieana Jones replacing the wording on a birthday invitation with da bomb in summer 1997; the article supplies an actual enthusiastic usage."
+    },
+    {
+      "id": "lat_as_if",
+      "title": "Trying to Get Clued In to the Lingo Loco",
+      "url": "https://www.latimes.com/archives/la-xpm-1995-07-30-ca-29333-story.html",
+      "published": "1995-07-30",
+      "accessed": "2026-10-11",
+      "note": "Contemporary reporting on Clueless uses the standalone dismissal and discusses the film research, teen speech and mass-media diffusion. It does not establish that the film invented the expression."
+    },
+    {
+      "id": "lat_all_that",
+      "title": "Mixed Reviews for a Star Behind Bars",
+      "url": "https://www.latimes.com/archives/la-xpm-1998-mar-15-me-29165-story.html",
+      "published": "1998-03-15",
+      "accessed": "2026-10-11",
+      "note": "Contemporary article quotes a January 1998 inmate letter reporting Robert Downey Jr. using the full formula in an imitation; the retained example is an exact nine-word sentence fragment."
+    },
+    {
+      "id": "taste_all_that",
+      "title": "All That and a Bag of Chips",
+      "url": "https://tastecooking.com/all-that-and-a-bag-of-chips/",
+      "published": "2019-06-14",
+      "accessed": "2026-10-11",
+      "note": "Researched retrospective identifies a syndicated August 1991 newspaper attestation and February 1, 1993 Fresh Prince episode, subsequent mainstream diffusion and 1999 Austin Powers parody; explicitly describes saturation followed by staleness. Original newspaper scans could not be directly inspected."
+    },
+    {
+      "id": "popik_all_that",
+      "title": "All that and a bag of chips: historical citations",
+      "url": "https://barrypopik.com/blog/all_that_and_a_bag_of_chips",
+      "published": "2019-11-08",
+      "accessed": "2026-10-11",
+      "note": "Lexicographer transcribes J. D. Considine in The Sun, Baltimore, August 19, 1991, pages 1C and 3C, and a December 12, 1994 People usage. Linked newspaper scans were inaccessible; the transcriptions support onset but are not presented as independently inspected scans."
+    },
+    {
+      "id": "zwicky_talk_hand",
+      "title": "Talking to the hand",
+      "url": "https://arnoldzwicky.org/2017/11/29/talking-to-the-hand/",
+      "published": "2017-11-29",
+      "accessed": "2026-10-11",
+      "note": "Linguist discusses the mid-1990s formula, transcribing an August 1995 Indianapolis Monthly item and 1996-1998 newspaper references. The early originals were not directly inspected; later film uses show persistence after initial rejection."
+    },
+    {
+      "id": "phrasefinder_talk_hand",
+      "title": "Talk to the hand: meaning and origin",
+      "url": "https://www.phrases.org.uk/meanings/talk-to-the-hand.html",
+      "published": null,
+      "accessed": "2026-10-11",
+      "note": "Researcher identifies an October 1996 Pinedale Roundup advertisement, May 1998 British uptake and a May 1998 Syracuse Herald Journal complaint. Publication date of the present web page is unavailable; these newspaper dates are secondary-reported evidence."
+    }
+  ],
+  "entries": [
+    {
+      "id": "all_that_bag_chips",
+      "surface": "all that and a bag of chips",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_mass_cultural_formulas"
+      ],
+      "signature": {
+        "onset": 1991,
+        "peak": 1995.5,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An emphatic appraisal of someone or something as excellent, with an additional increment of merit.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "context_terms": [],
+      "examples": [
+        {
+          "text": "I’m all that and a bag of chips.",
+          "kind": "attested",
+          "source_id": "lat_all_that"
+        },
+        {
+          "text": "Thank you for covering my shift; you are all that and a bag of chips.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Could you collect the printouts? You would be all that and a bag of chips.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The expanded formula, rather than the older and continuing all that, is documented in a syndicated August 1991 article transcribed by Popik and discussed by TASTE. The February 1993 prime-time usage preceded broader publication and a 1999 film parody. An independently inspected March 1998 newspaper article supplies an exact attested example. TASTE explicitly documents diffusion, saturation and subsequent staleness, satisfying inclusion beyond mere age. The 1995.5 peak is an inferred midpoint of mainstream adoption, not a measured frequency maximum; the 2002 fade is an estimated end of the initial mass-cultural moment, not a claim that later speakers ceased using it. Praise can accompany gratitude or an anticipatory request without requiring a technical topic.",
+      "source_ids": [
+        "popik_all_that",
+        "taste_all_that",
+        "lat_all_that"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "da_bomb",
+      "surface": "da bomb",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_mass_cultural_formulas"
+      ],
+      "signature": {
+        "onset": 1993,
+        "peak": 1996,
+        "fade": 2001,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An emphatic assertion that a person, favor, object or event is excellent.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "context_terms": [],
+      "examples": [
+        {
+          "text": "It’s going to be Da Bomb!",
+          "kind": "attested",
+          "source_id": "lat_da_bomb"
+        },
+        {
+          "text": "Thank you for covering my shift; you are da bomb.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Could you collect the printouts? That would be da bomb.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The specific da bomb formula, rather than the continuing bare adjective bomb, appears as the title of the 1993 Kris Kross album in the label catalog. Contemporary reporting records actual enthusiastic speech in summer 1997. The original 1998 LSSU list records explicit contemporary rejection of the superlative usage, establishing backlash rather than simply present-day datedness. The 1996 peak interpolates between early public branding and documented saturation; no annual frequency series is available. The 2001 fade estimates the end of the initial mass-mediated novelty and does not assert disappearance from later speech. Appraisal of a favor can accompany a request or thanks without changing the formula’s sense.",
+      "source_ids": [
+        "sony_da_bomb",
+        "lat_da_bomb",
+        "lssu_formula_banishments"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "as_if_formula",
+      "surface": "as if",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_mass_cultural_formulas"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1996,
+        "fade": 2000,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A standalone skeptical dismissal or rejection, distinct from the ordinary conditional conjunction.",
+      "functions": [
+        "declining"
+      ],
+      "context_terms": [],
+      "examples": [
+        {
+          "text": "As if!",
+          "kind": "attested",
+          "source_id": "lat_as_if"
+        },
+        {
+          "text": "As if! I cannot take on another shift.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This record covers the standalone dismissive exclamation, not the ordinary grammatical conjunction. A July 1995 newspaper feature on Clueless uses the formula directly and discusses contemporary teen speech and film-mediated uptake; the original 1997 LSSU list then singles it out for banishment. This short documented adoption-to-rejection interval supports the bounded mainstream moment without claiming that the film coined it. The 1996 peak is inferred between those observations, and the 2000 fade is an estimate; retrospective recognition and later quotation do not imply continued novelty. Its function is dismissal or refusal, not praise or an agreement framed with an unrelated conditional clause.",
+      "source_ids": [
+        "lat_as_if",
+        "lssu_formula_banishments"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "talk_to_hand",
+      "surface": "talk to the hand",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_mass_cultural_formulas"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1996.5,
+        "fade": 2003,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A dismissive imperative refusing to hear further argument or explanation.",
+      "functions": [
+        "declining"
+      ],
+      "context_terms": [],
+      "examples": [
+        {
+          "text": "Talk to the hand, ‘cuz the face don’t want to hear it.",
+          "kind": "attested",
+          "source_id": "lssu_formula_banishments"
+        },
+        {
+          "text": "Talk to the hand; I am not taking on another shift.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Zwicky transcribes an August 1995 Indianapolis Monthly attestation, while Phrase Finder reports an October 1996 newspaper advertisement; these early originals were not directly inspected. The original 1998 LSSU list supplies an independently inspected period formula and widespread nominations for rejection, with a separate May 1998 newspaper complaint transcribed by Phrase Finder. The 1996.5 peak is inferred from rapid uptake preceding backlash, not measured annual frequency. The 2003 fade is an estimated end of the original mainstream novelty; Zwicky documents later film uses, so banishment is not represented as literal extinction. The imperative expresses refusal to engage, and is not assigned to neutral information, gratitude, or generic praise.",
+      "source_ids": [
+        "zwicky_talk_hand",
+        "phrasefinder_talk_hand",
+        "lssu_formula_banishments"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

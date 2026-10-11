@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_dotcom_valuation",
+  "name": "Dot-com valuation and commercial exceptionalism",
+  "window": {
+    "start": 1994,
+    "end": 2004
+  },
+  "description": "Speculative promotion of internet businesses through audience metrics and transformational commercial claims.",
+  "cause_of_death": "The dot-com collapse undermined exceptionalist valuation claims; contemporaneous satire and later empirical critiques challenged the rhetoric.",
+  "sources": [
+    {
+      "id": "crain_dotcom",
+      "title": "Profit over Privacy, chapter 4: The Dot-com Bubble",
+      "url": "https://manifold.umn.edu/read/profit-over-privacy/section/ee270b37-d3d9-4312-b318-57ea01c2328f",
+      "published": "2021",
+      "accessed": "2026-10-11",
+      "note": "University of Minnesota Press history anchors the speculative vocabulary to the 1995–2000 expansion and collapse."
+    },
+    {
+      "id": "wired_bingo",
+      "title": "Brand of the Free: Infomediary Bingo",
+      "url": "https://www.wired.com/1998/10/neweconomy/",
+      "published": "1998-10-01",
+      "accessed": "2026-10-11",
+      "note": "Contemporary new-economy bingo card explicitly mocks commercial internet rhetoric."
+    },
+    {
+      "id": "wadhwa_eyeballs",
+      "title": "Why Bitcoin Is the Most Dangerous Global Scam in 20 Years",
+      "url": "https://www.inc.com/linkedin/vivek-wadhwa/why-bitcoin-largest-ponzi-scheme-human-history-vivek-wadhwa.html",
+      "published": "2018-01-03",
+      "accessed": "2026-10-11",
+      "note": "Retrospective explicitly connects audience-valuation slogans to the late-1990s bubble and subsequent losses; page date inspected as January 3, 2018."
+    },
+    {
+      "id": "steinfield_hype",
+      "title": "Dispelling Common Misperceptions About the Effects of Electronic Commerce on Market Structure",
+      "url": "https://www.researchgate.net/publication/285621012_Dispelling_Common_Misperceptions_About_the_Effects_of_Electronic_Commerce_on_Market_Structure",
+      "published": "2004",
+      "accessed": "2026-10-11",
+      "note": "Author-uploaded academic chapter critiques claims of frictionless commerce, disintermediation, and distance elimination."
+    }
+  ],
+  "entries": [
+    {
+      "id": "new_economy",
+      "surface": "new economy",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1999,
+        "fade": 2003,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Internet-led commerce presented as exemption from established business rules.",
+      "functions": [
+        "hyping",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "This scheduling process is ready for the new economy.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The dot-com boom and collapse bound this exceptionalist sense; a 1999 peak and 2003 terminal fade are inferred.",
+      "source_ids": [
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "economy",
+        "economic",
+        "business",
+        "businesses",
+        "company",
+        "companies",
+        "startup",
+        "startups",
+        "market",
+        "markets",
+        "commerce",
+        "commercial",
+        "internet",
+        "digital",
+        "online",
+        "investment",
+        "investments",
+        "investor",
+        "investors"
+      ]
+    },
+    {
+      "id": "get_big_fast",
+      "surface": "get big fast",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1994,
+        "peak": 1999,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Prioritize rapid expansion before profitability.",
+      "functions": [
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Let us get big fast: could you circulate the announcement today?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The press history traces this slogan through the bubble. Peak and fade delimit its pre-collapse promotional use.",
+      "source_ids": [
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "business",
+        "businesses",
+        "company",
+        "companies",
+        "startup",
+        "startups",
+        "growth",
+        "grow",
+        "growing",
+        "scale",
+        "scaling",
+        "expand",
+        "expanding",
+        "expansion",
+        "market share",
+        "acquire customers",
+        "customer acquisition",
+        "investment",
+        "investments",
+        "investor",
+        "investors"
+      ]
+    },
+    {
+      "id": "mind_share",
+      "surface": "mind share",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1999,
+        "fade": 2003,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Audience attention treated as the central basis of commercial value.",
+      "functions": [
+        "hyping",
+        "praising",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "That announcement secured the mind share we needed; thank you.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This entry isolates speculative valuation rhetoric rather than every later marketing use; dates are bounded curation estimates.",
+      "source_ids": [
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "attention",
+        "awareness",
+        "brand",
+        "brands",
+        "branding",
+        "marketing",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "campaign",
+        "campaigns",
+        "promotion",
+        "publicity",
+        "visibility",
+        "recognition"
+      ]
+    },
+    {
+      "id": "monetizing_eyeballs",
+      "surface": "monetizing eyeballs",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1996,
+        "peak": 1999,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Convert online audience attention into assumed future revenue.",
+      "functions": [
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Let us start monetizing eyeballs with the updated announcement.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Wadhwa explicitly identifies the late-1990s phrase as a discredited valuation rationale; annual parameters are inferred from the bubble.",
+      "source_ids": [
+        "wadhwa_eyeballs",
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "traffic",
+        "visitors",
+        "website",
+        "websites",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "marketing",
+        "monetize",
+        "monetizing",
+        "monetization",
+        "revenue",
+        "revenues",
+        "income",
+        "profit",
+        "profits",
+        "valuation",
+        "valuations"
+      ]
+    },
+    {
+      "id": "eyeballs",
+      "surface": "eyeballs",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1999,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Audience counts promoted as a substitute for ordinary business valuation.",
+      "functions": [
+        "hyping",
+        "informing",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Your announcement brought in the eyeballs we needed.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The bounded sense is audience-as-valuation, not the anatomical noun or all modern marketing counts; the crash anchors estimated decline.",
+      "source_ids": [
+        "wadhwa_eyeballs",
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "traffic",
+        "visitors",
+        "website",
+        "websites",
+        "views",
+        "viewers",
+        "readers",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "marketing",
+        "monetization",
+        "valuation",
+        "valuations"
+      ]
+    },
+    {
+      "id": "stickiness",
+      "surface": "stickiness",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1996,
+        "peak": 1999,
+        "fade": 2003,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Visitor retention promoted as justification for speculative internet valuations.",
+      "functions": [
+        "praising",
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Could you revise the announcement to increase its stickiness?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Retrospective criticism names the speculative metric; this curve concerns bubble promotion rather than every subsequent retention measure.",
+      "source_ids": [
+        "wadhwa_eyeballs",
+        "crain_dotcom"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "retention",
+        "retain",
+        "retaining",
+        "returning users",
+        "returning visitors",
+        "repeat visits",
+        "repeat customers",
+        "engagement",
+        "engaged",
+        "website",
+        "websites",
+        "visitor",
+        "visitors",
+        "subscriber",
+        "subscribers",
+        "subscription",
+        "subscriptions",
+        "customer loyalty",
+        "user loyalty"
+      ]
+    },
+    {
+      "id": "friction_free",
+      "surface": "friction free",
+      "variants": [
+        "frictionless commerce"
+      ],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1998,
+        "fade": 2004,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Network commerce promised to eliminate coordination and transaction obstacles.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Could you make the handoff friction free by sending the notes today?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "A 1998 satirical card attests saturation; the 2004 critique challenges the claim. Annual peak and fade remain estimated.",
+      "source_ids": [
+        "wired_bingo",
+        "steinfield_hype"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "commercial",
+        "market",
+        "markets",
+        "transaction",
+        "transactions",
+        "purchase",
+        "purchases",
+        "buying",
+        "selling",
+        "supply chain",
+        "suppliers",
+        "customer",
+        "customers",
+        "workflow",
+        "workflows",
+        "process",
+        "processes",
+        "coordination",
+        "handoff",
+        "handoffs",
+        "integration",
+        "ordering"
+      ]
+    },
+    {
+      "id": "death_of_distance",
+      "surface": "death of distance",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1998,
+        "fade": 2004,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Network communication promised to abolish the practical importance of location.",
+      "functions": [
+        "hyping",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "With the death of distance, we can schedule the meeting across offices.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Contemporary bingo attestation and subsequent scholarly critique bound this internet-commercial claim; the phrase itself has older antecedents.",
+      "source_ids": [
+        "wired_bingo",
+        "steinfield_hype"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "distance",
+        "remote",
+        "remotely",
+        "distributed",
+        "location",
+        "locations",
+        "office",
+        "offices",
+        "international",
+        "global",
+        "geographic",
+        "geographical",
+        "online",
+        "network",
+        "networks",
+        "networked",
+        "internet",
+        "virtual",
+        "video call",
+        "video meeting"
+      ]
+    },
+    {
+      "id": "disintermediation",
+      "surface": "disintermediation",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_dotcom_valuation"
+      ],
+      "signature": {
+        "onset": 1995,
+        "peak": 1999,
+        "fade": 2004,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Internet commerce promised to remove established intermediaries.",
+      "functions": [
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Could we pursue disintermediation by sending the document directly?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The curve concerns sweeping internet-era promises, not the established technical term; satire and empirical critique support inclusion.",
+      "source_ids": [
+        "wired_bingo",
+        "steinfield_hype"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "intermediary",
+        "intermediaries",
+        "middleman",
+        "middlemen",
+        "broker",
+        "brokers",
+        "brokerage",
+        "bypass",
+        "bypassing",
+        "direct sales",
+        "direct selling",
+        "direct purchase",
+        "direct purchasing",
+        "direct transaction",
+        "direct transactions",
+        "directly",
+        "supplier",
+        "suppliers",
+        "distribution",
+        "supply chain"
+      ]
+    }
+  ]
+}

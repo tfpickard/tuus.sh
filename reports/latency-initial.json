@@ -1,0 +1,445 @@
+{
+  "hardware": {
+    "logical_cpus": 3,
+    "architecture": "x86_64",
+    "processor": "",
+    "memory_total_kib": 10207516
+  },
+  "runtime_model": "Qwen3-4B-Instruct-2507",
+  "quantization": "Q4_K_M",
+  "samples": 5,
+  "runtime_load_ms": 293.9356440001575,
+  "retrieval_p50_ms": 12.162271000306646,
+  "total_p50_ms": 41396.81007100035,
+  "total_p95_ms": 48550.7599986001,
+  "subsecond_target_met": false,
+  "network": "Loopback model endpoint; no hosted-model network excluded.",
+  "results": [
+    {
+      "utterance": "Morgan, please collect the printouts before 15:00.",
+      "material": [
+        {
+          "id": "cyberworld",
+          "surface": "cyberworld",
+          "variants": [
+            "cyber-world"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Online activity represented as a separate virtual world.",
+          "examples": [
+            "Please circulate the announcement across the cyberworld."
+          ]
+        },
+        {
+          "id": "cybersurf",
+          "surface": "cybersurf",
+          "variants": [
+            "cyber-surf",
+            "cybersurfing"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Browse online under a futuristic surfing description.",
+          "examples": [
+            "Could you cybersurf for the revised opening hours?"
+          ]
+        },
+        {
+          "id": "nft_gm",
+          "surface": "GM",
+          "variants": [],
+          "kairolexicon": "nft_community_ritual",
+          "meaning": "A community greeting expressing morning goodwill and group affiliation.",
+          "examples": [
+            "GM; please send the revised schedule before noon."
+          ]
+        },
+        {
+          "id": "nft_wen_moon",
+          "surface": "wen moon",
+          "variants": [],
+          "kairolexicon": "nft_community_ritual",
+          "meaning": "A compressed question asking when a hoped-for dramatic improvement will occur.",
+          "examples": [
+            "Wen moon for the revised presentation? Please send it by noon."
+          ]
+        },
+        {
+          "id": "tumblr_gpoy",
+          "surface": "GPOY",
+          "variants": [
+            "gratuitous picture of yourself"
+          ],
+          "kairolexicon": "era_2010_tumblr_reactions",
+          "meaning": "A self-identifying caption extended from self-portraits to anything expressing one's mood.",
+          "examples": [
+            "GPOY: still waiting for the printouts. Could we begin at two?",
+            "GPOY"
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 1993.2297366254256,
+          "resolved_year": 1993.2297366254256,
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2021.134917514991,
+          "resolved_year": 2021.134917514991,
+          "kairolexicon": "nft_community_ritual",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2009.7306450050944,
+          "resolved_year": 2009.7306450050944,
+          "kairolexicon": "era_2010_tumblr_reactions",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 7.738606999737385,
+        "total": 33401.889184999614
+      }
+    },
+    {
+      "utterance": "Morgan, rise and grind—collect the printouts before 15:00.",
+      "material": [
+        {
+          "id": "harness_collective",
+          "surface": "harnessing collective intelligence",
+          "variants": [
+            "harness collective intelligence"
+          ],
+          "kairolexicon": "era_2005_web_participation",
+          "meaning": "A promotional appeal to pooling user contributions into superior collective results.",
+          "examples": [
+            "Let us harness collective intelligence and arrange coverage for Friday.",
+            "Harnessing Collective Intelligence"
+          ]
+        },
+        {
+          "id": "tagging_not_taxonomy",
+          "surface": "tagging not taxonomy",
+          "variants": [],
+          "kairolexicon": "era_2005_web_participation",
+          "meaning": "A Web 2.0 promotional preference for user tags over centrally imposed classifications.",
+          "examples": [
+            "Tagging not taxonomy: could you label these printouts for the team?",
+            "Tagging not taxonomy."
+          ]
+        },
+        {
+          "id": "rise_and_grind",
+          "surface": "rise and grind",
+          "variants": [
+            "rise-and-grind"
+          ],
+          "kairolexicon": "hustle_aspiration",
+          "meaning": "An exhortation to begin the day with relentless productive effort.",
+          "examples": [
+            "Rise and grind: please send the completed figures before lunch."
+          ]
+        },
+        {
+          "id": "hustle_harder",
+          "surface": "hustle harder",
+          "variants": [],
+          "kairolexicon": "hustle_aspiration",
+          "meaning": "An exhortation to increase effort and continue working despite fatigue.",
+          "examples": [
+            "Please hustle harder and finish the presentation today."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2004.8048596103376,
+          "resolved_year": 2004.8048596103376,
+          "kairolexicon": "era_2005_web_participation",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2017.9083784667137,
+          "resolved_year": 2017.9083784667137,
+          "kairolexicon": "hustle_aspiration",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2004.76112544661,
+          "resolved_year": 2004.76112544661,
+          "kairolexicon": "era_2005_web_participation",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 7.371132000116631,
+        "total": 44376.889788999964
+      }
+    },
+    {
+      "utterance": "Morgan, could you collect the printouts before 15:00? Tagging not taxonomy — just label them for the team.",
+      "material": [
+        {
+          "id": "yuppie_label",
+          "surface": "yuppie",
+          "variants": [
+            "yuppies",
+            "young urban professional",
+            "young upwardly mobile professional"
+          ],
+          "kairolexicon": "era_1980_yuppie",
+          "meaning": "A fashionable label for an ambitious urban professional associated with material consumption.",
+          "examples": [
+            "Let us give the yuppies a presentation they will remember."
+          ]
+        },
+        {
+          "id": "harness_collective",
+          "surface": "harnessing collective intelligence",
+          "variants": [
+            "harness collective intelligence"
+          ],
+          "kairolexicon": "era_2005_web_participation",
+          "meaning": "A promotional appeal to pooling user contributions into superior collective results.",
+          "examples": [
+            "Let us harness collective intelligence and arrange coverage for Friday.",
+            "Harnessing Collective Intelligence"
+          ]
+        },
+        {
+          "id": "tagging_not_taxonomy",
+          "surface": "tagging not taxonomy",
+          "variants": [],
+          "kairolexicon": "era_2005_web_participation",
+          "meaning": "A Web 2.0 promotional preference for user tags over centrally imposed classifications.",
+          "examples": [
+            "Tagging not taxonomy: could you label these printouts for the team?",
+            "Tagging not taxonomy."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 1990.6273569995055,
+          "resolved_year": 1990.6273569995055,
+          "kairolexicon": "era_1980_yuppie",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1988.8184005980415,
+          "resolved_year": 1988.8184005980415,
+          "kairolexicon": "era_1980_yuppie",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2005.791430904235,
+          "resolved_year": 2005.791430904235,
+          "kairolexicon": "era_2005_web_participation",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 26.44639600021037,
+        "total": 36616.835144000106
+      }
+    },
+    {
+      "utterance": "Break for a short: could you collect the printouts from Morgan before 15:00?",
+      "material": [
+        {
+          "id": "cybersurf",
+          "surface": "cybersurf",
+          "variants": [
+            "cyber-surf",
+            "cybersurfing"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Browse online under a futuristic surfing description.",
+          "examples": [
+            "Could you cybersurf for the revised opening hours?"
+          ]
+        },
+        {
+          "id": "cybercommerce",
+          "surface": "cybercommerce",
+          "variants": [
+            "cyber-commerce"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Online commercial exchange framed as futuristic activity.",
+          "examples": [
+            "Let us bring this ordering process into cybercommerce."
+          ]
+        },
+        {
+          "id": "cb_break_for_a_short",
+          "surface": "break for a short",
+          "variants": [],
+          "kairolexicon": "era_1970_cb_craze",
+          "meaning": "Request a brief turn in a conversation.",
+          "examples": [
+            "Break for a short: could you collect the printouts?"
+          ]
+        },
+        {
+          "id": "cb_eyeball",
+          "surface": "eyeball",
+          "variants": [
+            "having an eyeball"
+          ],
+          "kairolexicon": "era_1970_cb_craze",
+          "meaning": "Meet or inspect something in person.",
+          "examples": [
+            "Let us have an eyeball at noon to review the printouts."
+          ]
+        },
+        {
+          "id": "valley_tubular",
+          "surface": "tubular",
+          "variants": [],
+          "kairolexicon": "era_1980_valley_girl",
+          "meaning": "Surf-derived adjective of emphatic approval appropriated by the Valley fad.",
+          "examples": [
+            "Tubular work on the presentation; thank you for preparing it."
+          ]
+        },
+        {
+          "id": "valley_bitchen",
+          "surface": "bitchen",
+          "variants": [
+            "bitchin'",
+            "bitchin"
+          ],
+          "kairolexicon": "era_1980_valley_girl",
+          "meaning": "Surf-derived adjective of emphatic approval in the Valley fad.",
+          "examples": [
+            "That was bitchen of you to cover my shift."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2000.542234879506,
+          "resolved_year": 2000.542234879506,
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1976.3869457253306,
+          "resolved_year": 1976.3869457253306,
+          "kairolexicon": "era_1970_cb_craze",
+          "fallback": false
+        },
+        {
+          "sampled_year": 1980.8821820129272,
+          "resolved_year": 1980.8821820129272,
+          "kairolexicon": "era_1980_valley_girl",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 12.162271000306646,
+        "total": 41396.81007100035
+      }
+    },
+    {
+      "utterance": "Morgan, could you collect the printouts by 15:00?",
+      "material": [
+        {
+          "id": "stickiness",
+          "surface": "stickiness",
+          "variants": [],
+          "kairolexicon": "era_1990_dotcom_valuation",
+          "meaning": "Visitor retention promoted as justification for speculative internet valuations.",
+          "examples": [
+            "Could you revise the announcement to increase its stickiness?"
+          ]
+        },
+        {
+          "id": "friction_free",
+          "surface": "friction free",
+          "variants": [
+            "friction-free",
+            "frictionless commerce"
+          ],
+          "kairolexicon": "era_1990_dotcom_valuation",
+          "meaning": "Network commerce promised to eliminate coordination and transaction obstacles.",
+          "examples": [
+            "Could you make the handoff friction free by sending the notes today?"
+          ]
+        },
+        {
+          "id": "tuus_opening",
+          "surface": "TμUS synthesizes telechronistic micro-utterances calibrated to user-defined temporal priors over attested kairolexica.",
+          "variants": [],
+          "kairolexicon": "tuus_2026",
+          "meaning": "A formal statement of temporally calibrated synthesis.",
+          "examples": [
+            "TμUS synthesizes telechronistic micro-utterances calibrated to user-defined temporal priors over attested kairolexica."
+          ]
+        },
+        {
+          "id": "tuus_description",
+          "surface": "Telechronistic micro-utterance synthesis from user-defined temporal priors over curated kairolexica.",
+          "variants": [],
+          "kairolexicon": "tuus_2026",
+          "meaning": "An abstract-like statement of a synthesis procedure.",
+          "examples": [
+            "Telechronistic micro-utterance synthesis from user-defined temporal priors over curated kairolexica."
+          ]
+        },
+        {
+          "id": "cybersurf",
+          "surface": "cybersurf",
+          "variants": [
+            "cyber-surf",
+            "cybersurfing"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Browse online under a futuristic surfing description.",
+          "examples": [
+            "Could you cybersurf for the revised opening hours?"
+          ]
+        },
+        {
+          "id": "cybercommerce",
+          "surface": "cybercommerce",
+          "variants": [
+            "cyber-commerce"
+          ],
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "meaning": "Online commercial exchange framed as futuristic activity.",
+          "examples": [
+            "Let us bring this ordering process into cybercommerce."
+          ]
+        }
+      ],
+      "selections": [
+        {
+          "sampled_year": 2001.0990916964724,
+          "resolved_year": 2001.0990916964724,
+          "kairolexicon": "era_1990_dotcom_valuation",
+          "fallback": false
+        },
+        {
+          "sampled_year": 2028.5344732653327,
+          "resolved_year": 2027.999999,
+          "kairolexicon": "tuus_2026",
+          "fallback": true
+        },
+        {
+          "sampled_year": 1995.3976096434717,
+          "resolved_year": 1995.3976096434717,
+          "kairolexicon": "era_1990_affirmative_cyber",
+          "fallback": false
+        }
+      ],
+      "timing_ms": {
+        "retrieval": 17.45486300023913,
+        "total": 49594.227551000135
+      }
+    }
+  ],
+  "measurement_note": "Initial prompt; browser generation requests overlapped this run, so totals include queue contention."
+}

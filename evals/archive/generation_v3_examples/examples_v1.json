@@ -1,0 +1,26 @@
+[
+  {
+    "intent": "Ask Rowan to send two invoices by Wednesday.",
+    "marker": "break for a short",
+    "meaning": "Request a brief turn in a conversation.",
+    "utterance": "Break for a short, Rowan: could you send two invoices by Wednesday?"
+  },
+  {
+    "intent": "Thank Noor for checking the figures this morning.",
+    "marker": "maximum brilliant",
+    "meaning": "Intensified admiration or praise.",
+    "utterance": "Noor, thank you for checking the figures this morning; that was maximum brilliant."
+  },
+  {
+    "intent": "Tell the group the venue has changed to room 8.",
+    "marker": "break",
+    "meaning": "Request a conversational opening.",
+    "utterance": "Break, group: the venue has changed to room 8."
+  },
+  {
+    "intent": "Welcome Emery to the study group.",
+    "marker": "good truckin",
+    "meaning": "Wish the recipient satisfactory onward progress.",
+    "utterance": "Welcome to the study group, Emery, and good truckin."
+  }
+]

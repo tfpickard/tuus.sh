@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "id": "era_2010_workplace_titles",
+  "name": "Promotional workplace title inflation",
+  "window": {
+    "start": 2008,
+    "end": 2020
+  },
+  "description": "Recruitment and workplace praise borrowing celebrity, magic, and franchise terminology to imply exceptional competence.",
+  "cause_of_death": "Recruitment-search friction and explicit professional backlash; several terms resurged, so terminal fades remain estimates.",
+  "sources": [
+    {
+      "id": "jobs_onrec",
+      "title": "May the 4th Be With You: Jedi and Other Weird Job Titles on Indeed",
+      "url": "https://www.onrec.com/news/news-archive/may-the-4th-be-with-you-jedi-and-other-weird-job-titles-indeed",
+      "published": "2016-05-04",
+      "accessed": "2026-10-11",
+      "note": "Reports Indeed data: guru decline after July 2012, oscillating wizard use, slight rockstar decline, and renewed ninja/Jedi growth."
+    },
+    {
+      "id": "jobs_conversation",
+      "title": "Calling all Time Ninjas: let's put a stop to ludicrous job titles",
+      "url": "https://theconversation.com/calling-all-time-ninjas-lets-put-a-stop-to-ludicrous-job-titles-79544",
+      "published": "2017-06-27",
+      "accessed": "2026-10-11",
+      "note": "Contemporary critique of alienating and infantilizing job-title suffixes; not evidence of complete extinction."
+    },
+    {
+      "id": "jobs_headhunters",
+      "title": "Are you really looking for a Guru, Rock Star or Ninja?",
+      "url": "https://www.theheadhunters.ca/blog/are-you-really-looking-for-a-guru-rock-star-or-ninja/",
+      "published": "2013-01-25",
+      "accessed": "2026-10-11",
+      "note": "Contemporary recruitment criticism; HTML datePublished metadata directly confirms publication on 2013-01-25 although the visible page does not display it."
+    },
+    {
+      "id": "jobs_dive",
+      "title": "Ninja sneaks up on competition in Indeed's Weird Job Titles 2018 report",
+      "url": "https://www.hrdive.com/news/ninja-sneaks-up-on-competition-in-indeeds-weird-job-titles-2018-report/544453/",
+      "published": "2018-12-17",
+      "accessed": "2026-10-11",
+      "note": "Counterevidence: ninja and rockstar grew in 2018; wizard and hero declined. Prevents a false 2016-extinction claim."
+    }
+  ],
+  "entries": [
+    {
+      "id": "workplace_rockstar",
+      "surface": "rockstar",
+      "variants": [
+        "rock star"
+      ],
+      "kairolexica": [
+        "era_2010_workplace_titles"
+      ],
+      "signature": {
+        "onset": 2009,
+        "peak": 2015,
+        "fade": 2020,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A recruitment and workplace compliment casting ordinary professional competence as celebrity performance. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a rockstar.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Inside Sales Rockstar",
+          "kind": "attested",
+          "source_id": "jobs_headhunters"
+        }
+      ],
+      "rationale": "The 2013 recruitment critique attests the label; Indeed reports slight decline in May 2016 but 17% growth in 2018. The estimated 2015 peak and 2020 fade delimit the initial promotional/backlash register, not a monotonic measured history or extinction.",
+      "source_ids": [
+        "jobs_onrec",
+        "jobs_conversation",
+        "jobs_headhunters",
+        "jobs_dive"
+      ],
+      "review_status": "accepted",
+      "usage_role": "address"
+    },
+    {
+      "id": "workplace_ninja",
+      "surface": "ninja",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_workplace_titles"
+      ],
+      "signature": {
+        "onset": 2009,
+        "peak": 2014,
+        "fade": 2020,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A recruitment and workplace label for supposedly exceptional speed and covert proficiency. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a ninja.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "guitar building ninja",
+          "kind": "attested",
+          "source_id": "jobs_onrec"
+        }
+      ],
+      "rationale": "A 2013 critique and 2016 Indeed report establish the register and a second-half-2015 decline. Ninja rebounded and grew 90% in 2018, so the peak/fade are an estimated first-wave register envelope rather than a measured single historical maximum.",
+      "source_ids": [
+        "jobs_onrec",
+        "jobs_conversation",
+        "jobs_headhunters",
+        "jobs_dive"
+      ],
+      "review_status": "accepted",
+      "usage_role": "address"
+    },
+    {
+      "id": "workplace_guru",
+      "surface": "guru",
+      "variants": [
+        "gurus"
+      ],
+      "kairolexica": [
+        "era_2010_workplace_titles"
+      ],
+      "signature": {
+        "onset": 2008,
+        "peak": 2012,
+        "fade": 2018,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An inflated occupational label claiming authoritative professional mastery. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a guru.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "social media gurus",
+          "kind": "attested",
+          "source_id": "jobs_onrec"
+        }
+      ],
+      "rationale": "Indeed's May 2016 report specifically dates high keyword popularity until July 2012 followed by steep decline. The onset and terminal fade are estimated; persistent and later job advertisements are explicitly acknowledged.",
+      "source_ids": [
+        "jobs_onrec",
+        "jobs_conversation",
+        "jobs_headhunters",
+        "jobs_dive"
+      ],
+      "review_status": "accepted",
+      "usage_role": "address"
+    },
+    {
+      "id": "workplace_wizard",
+      "surface": "wizard",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_workplace_titles"
+      ],
+      "signature": {
+        "onset": 2009,
+        "peak": 2011,
+        "fade": 2019,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A workplace label casting ordinary expertise as magical problem-solving ability. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a wizard.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Numbers Wizard",
+          "kind": "attested",
+          "source_id": "jobs_headhunters"
+        }
+      ],
+      "rationale": "Indeed ties oscillation to the last Harry Potter movie in 2011; 2013 recruitment criticism attests Numbers Wizard, and HR Dive reports a 17% drop in 2018. Boundaries interpolate these observations and do not establish a complete measured disappearance.",
+      "source_ids": [
+        "jobs_onrec",
+        "jobs_conversation",
+        "jobs_headhunters",
+        "jobs_dive"
+      ],
+      "review_status": "accepted",
+      "usage_role": "address"
+    },
+    {
+      "id": "workplace_jedi",
+      "surface": "Jedi",
+      "variants": [
+        "jedi"
+      ],
+      "kairolexica": [
+        "era_2010_workplace_titles"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2016,
+        "fade": 2020,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A branded recruitment metaphor for exceptional technical or professional ability. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "You are a Jedi.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Jedi",
+          "kind": "attested",
+          "source_id": "jobs_onrec"
+        }
+      ],
+      "rationale": "The 2016 Indeed report observes 328% growth after the previous year's Star Wars release and recommends factual titles. This is an explicitly estimated release-linked flare, with an inferred 2020 fade rather than an observed last use.",
+      "source_ids": [
+        "jobs_onrec",
+        "jobs_conversation",
+        "jobs_headhunters",
+        "jobs_dive"
+      ],
+      "review_status": "accepted",
+      "usage_role": "address"
+    }
+  ]
+}

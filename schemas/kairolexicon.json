@@ -1,0 +1,354 @@
+{
+  "$defs": {
+    "Entry": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "pattern": "^[a-z][a-z0-9_]*$",
+          "title": "Id",
+          "type": "string"
+        },
+        "surface": {
+          "minLength": 2,
+          "title": "Surface",
+          "type": "string"
+        },
+        "variants": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Variants",
+          "type": "array"
+        },
+        "kairolexica": {
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "title": "Kairolexica",
+          "type": "array"
+        },
+        "signature": {
+          "$ref": "#/$defs/Signature"
+        },
+        "gloss": {
+          "minLength": 10,
+          "title": "Gloss",
+          "type": "string"
+        },
+        "functions": {
+          "items": {
+            "enum": [
+              "requesting",
+              "thanking",
+              "praising",
+              "deferring",
+              "scheduling",
+              "declining",
+              "hyping",
+              "apologizing",
+              "informing",
+              "greeting"
+            ],
+            "type": "string"
+          },
+          "minItems": 1,
+          "title": "Functions",
+          "type": "array"
+        },
+        "context_terms": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Context Terms",
+          "type": "array"
+        },
+        "context_exclusions": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Context Exclusions",
+          "type": "array"
+        },
+        "usage_role": {
+          "default": "phrase",
+          "enum": [
+            "phrase",
+            "fragment",
+            "closing",
+            "address"
+          ],
+          "title": "Usage Role",
+          "type": "string"
+        },
+        "examples": {
+          "items": {
+            "$ref": "#/$defs/Example"
+          },
+          "minItems": 1,
+          "title": "Examples",
+          "type": "array"
+        },
+        "rationale": {
+          "minLength": 30,
+          "title": "Rationale",
+          "type": "string"
+        },
+        "source_ids": {
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "title": "Source Ids",
+          "type": "array"
+        },
+        "review_status": {
+          "enum": [
+            "accepted",
+            "candidate"
+          ],
+          "title": "Review Status",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "surface",
+        "variants",
+        "kairolexica",
+        "signature",
+        "gloss",
+        "functions",
+        "examples",
+        "rationale",
+        "source_ids",
+        "review_status"
+      ],
+      "title": "Entry",
+      "type": "object"
+    },
+    "Example": {
+      "additionalProperties": false,
+      "properties": {
+        "text": {
+          "minLength": 3,
+          "title": "Text",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "attested",
+            "constructed"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "source_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Source Id"
+        }
+      },
+      "required": [
+        "text",
+        "kind"
+      ],
+      "title": "Example",
+      "type": "object"
+    },
+    "Signature": {
+      "additionalProperties": false,
+      "properties": {
+        "onset": {
+          "maximum": 2030,
+          "minimum": 1970,
+          "title": "Onset",
+          "type": "number"
+        },
+        "peak": {
+          "maximum": 2030,
+          "minimum": 1970,
+          "title": "Peak",
+          "type": "number"
+        },
+        "fade": {
+          "maximum": 2030,
+          "minimum": 1970,
+          "title": "Fade",
+          "type": "number"
+        },
+        "fade_status": {
+          "enum": [
+            "observed",
+            "estimated"
+          ],
+          "title": "Fade Status",
+          "type": "string"
+        },
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "title": "Confidence",
+          "type": "string"
+        }
+      },
+      "required": [
+        "onset",
+        "peak",
+        "fade",
+        "fade_status",
+        "confidence"
+      ],
+      "title": "Signature",
+      "type": "object"
+    },
+    "Source": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "pattern": "^[a-z][a-z0-9_]*$",
+          "title": "Id",
+          "type": "string"
+        },
+        "title": {
+          "minLength": 3,
+          "title": "Title",
+          "type": "string"
+        },
+        "url": {
+          "pattern": "^https?://",
+          "title": "Url",
+          "type": "string"
+        },
+        "published": {
+          "anyOf": [
+            {
+              "minLength": 4,
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Published"
+        },
+        "accessed": {
+          "title": "Accessed",
+          "type": "string"
+        },
+        "note": {
+          "minLength": 12,
+          "title": "Note",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "url",
+        "published",
+        "accessed",
+        "note"
+      ],
+      "title": "Source",
+      "type": "object"
+    },
+    "Window": {
+      "additionalProperties": false,
+      "properties": {
+        "start": {
+          "maximum": 2030,
+          "minimum": 1970,
+          "title": "Start",
+          "type": "number"
+        },
+        "end": {
+          "maximum": 2030,
+          "minimum": 1970,
+          "title": "End",
+          "type": "number"
+        }
+      },
+      "required": [
+        "start",
+        "end"
+      ],
+      "title": "Window",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1,
+      "default": 1,
+      "title": "Schema Version",
+      "type": "integer"
+    },
+    "id": {
+      "pattern": "^[a-z][a-z0-9_]*$",
+      "title": "Id",
+      "type": "string"
+    },
+    "name": {
+      "title": "Name",
+      "type": "string"
+    },
+    "window": {
+      "$ref": "#/$defs/Window"
+    },
+    "description": {
+      "minLength": 20,
+      "title": "Description",
+      "type": "string"
+    },
+    "cause_of_death": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Cause Of Death"
+    },
+    "sources": {
+      "items": {
+        "$ref": "#/$defs/Source"
+      },
+      "minItems": 1,
+      "title": "Sources",
+      "type": "array"
+    },
+    "entries": {
+      "items": {
+        "$ref": "#/$defs/Entry"
+      },
+      "minItems": 1,
+      "title": "Entries",
+      "type": "array"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "window",
+    "description",
+    "cause_of_death",
+    "sources",
+    "entries"
+  ],
+  "title": "Kairolexicon",
+  "type": "object"
+}

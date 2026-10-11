@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "seeds": [17, 43, 91],
+  "intents": [
+    {"id": "request", "text": "Ask Morgan to collect the printouts before 15:00."},
+    {"id": "thanks", "text": "Thank Sam for covering my shift yesterday."},
+    {"id": "praise", "text": "Praise Alex for finishing the quarterly report on time."},
+    {"id": "defer", "text": "Defer the budget discussion until Tuesday."},
+    {"id": "schedule", "text": "Ask Priya to meet at 10:00 on Friday."},
+    {"id": "decline", "text": "Politely decline the invitation to speak at Monday's event."},
+    {"id": "promote", "text": "Announce that our new workshop opens next Thursday."},
+    {"id": "apology", "text": "Apologize to Jordan for missing yesterday's deadline."},
+    {"id": "inform", "text": "Tell the team the meeting room has changed to room 4."},
+    {"id": "negation", "text": "Ask Lee not to publish the draft before approval."},
+    {"id": "quantity", "text": "Ask Casey to bring exactly three copies of the agenda."},
+    {"id": "greeting", "text": "Welcome Taylor to the project team."}
+  ],
+  "priors": [
+    {"id": "cb", "components": [{"mean": 1976, "sigma": 0.5, "weight": 1}]},
+    {"id": "valley", "components": [{"mean": 1982, "sigma": 0.5, "weight": 1}]},
+    {"id": "internet", "components": [{"mean": 1996, "sigma": 3, "weight": 1}]},
+    {"id": "data", "components": [{"mean": 2012, "sigma": 0.5, "weight": 1}]},
+    {"id": "tail", "components": [{"mean": 2012, "sigma": 8, "weight": 1}]},
+    {"id": "mixed", "components": [{"mean": 1998, "sigma": 4, "weight": 2}, {"mean": 2007, "sigma": 0.5, "weight": 1}]},
+    {"id": "recent", "components": [{"mean": 2026, "sigma": 0.5, "weight": 1}]},
+    {"id": "uncovered", "components": [{"mean": 2030, "sigma": 0.5, "weight": 1}]}
+  ]
+}

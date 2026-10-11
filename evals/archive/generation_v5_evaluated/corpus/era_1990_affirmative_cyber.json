@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_affirmative_cyber",
+  "name": "Affirmative cyber formations",
+  "window": {
+    "start": 1991,
+    "end": 2002
+  },
+  "description": "Short-lived futuristic formations applied to ordinary commercial and social network activity.",
+  "cause_of_death": "Affirmative formations were displaced by e- forms and ordinary online descriptions; security vocabulary remained productive.",
+  "sources": [
+    {
+      "id": "oup_cyber",
+      "title": "Where does the word cyber come from?",
+      "url": "https://blog.oup.com/2015/03/cyber-word-origins/",
+      "published": "2015-03-28",
+      "accessed": "2026-10-11",
+      "note": "Oxford Dictionaries retrospective distinguishes displaced affirmative formations from continuing security terminology."
+    },
+    {
+      "id": "stefanowitsch_cyber",
+      "title": "Cyberwoerter",
+      "url": "https://scilogs.spektrum.de/sprachlog/cyberw-rter/",
+      "published": "2011-02-10",
+      "accessed": "2026-10-11",
+      "note": "Linguist Anatol Stefanowitsch supplies OED attestation years; these establish onset evidence, not measured peaks."
+    }
+  ],
+  "entries": [
+    {
+      "id": "cybermall",
+      "surface": "cybermall",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_affirmative_cyber"
+      ],
+      "signature": {
+        "onset": 1993,
+        "peak": 1996,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A collection of online shops presented as a virtual shopping destination.",
+      "functions": [
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Could you check the cybermall for a replacement cartridge?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
+      "source_ids": [
+        "stefanowitsch_cyber",
+        "oup_cyber"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "purchase",
+        "purchases",
+        "buy",
+        "buying",
+        "shop",
+        "shops",
+        "shopping",
+        "store",
+        "stores",
+        "retail",
+        "retailer",
+        "retailers",
+        "order",
+        "ordering",
+        "supplies",
+        "supplier",
+        "suppliers"
+      ]
+    },
+    {
+      "id": "cybercommerce",
+      "surface": "cybercommerce",
+      "variants": [],
+      "kairolexica": [
+        "era_1990_affirmative_cyber"
+      ],
+      "signature": {
+        "onset": 1993,
+        "peak": 1996,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Online commercial exchange framed as futuristic activity.",
+      "functions": [
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Let us bring this ordering process into cybercommerce.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Oxford documents displacement of affirmative cyber formations. The onset is inferred from the prefix boom; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
+      "source_ids": [
+        "oup_cyber"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "commercial",
+        "purchase",
+        "purchases",
+        "buy",
+        "buying",
+        "shop",
+        "shops",
+        "shopping",
+        "store",
+        "stores",
+        "retail",
+        "retailer",
+        "retailers",
+        "sales",
+        "selling",
+        "order",
+        "ordering",
+        "transaction",
+        "transactions"
+      ]
+    }
+  ]
+}

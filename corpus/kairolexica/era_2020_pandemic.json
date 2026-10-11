@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "id": "pandemic_messaging",
+  "name": "Pandemic institutional messaging",
+  "window": {
+    "start": 2020,
+    "end": 2023.5
+  },
+  "description": "The concentrated 2020–2021 repertoire of institutional reassurance, procedural qualification, and remote-meeting intervention.",
+  "cause_of_death": "Public nominations and contemporary linguistic criticism documented fatigue with repeated reassurance and operational catchalls; the routine vocabulary remained available.",
+  "sources": [
+    {
+      "id": "lssu_2021",
+      "title": "COVID-19 Terminology Tops Lake Superior State University Annual Banished Words List",
+      "url": "https://www.lssu.edu/wp-content/uploads/2022/12/banished-words-2021_for-website-archive.pdf",
+      "published": "2020-12-31",
+      "accessed": "2026-10-11",
+      "note": "Inspected original press-release PDF. Records 1,450-plus nominations, including pandemic phrases, and explains criticism of excessive corporate and public messaging."
+    },
+    {
+      "id": "lssu_2022",
+      "title": "Lake Superior State University Banishes Familiar but Problematic Words and Terms for 2022",
+      "url": "https://www.lssu.edu/wp-content/uploads/2022/12/banished-words-2022-for-website.pdf",
+      "published": "2021-12-31",
+      "accessed": "2026-10-11",
+      "note": "Inspected original press-release PDF. Identifies new normal, you are on mute, and supply-chain explanations as pandemic-linked overuse."
+    },
+    {
+      "id": "wilx_2022",
+      "title": "LSSU releases 2022 Banished Words list",
+      "url": "https://www.wilx.com/2021/12/31/lssu-releases-2022-banished-words-list/",
+      "published": "2021-12-31",
+      "accessed": "2026-10-11",
+      "note": "Independent contemporary coverage corroborates the university list and its publication date."
+    }
+  ],
+  "entries": [
+    {
+      "id": "all_in_together",
+      "surface": "we're all in this together",
+      "variants": [
+        "we are all in this together"
+      ],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2020.5,
+        "fade": 2022,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A solidarity formula used to frame a shared burden or collective effort.",
+      "functions": [
+        "thanking",
+        "praising",
+        "requesting",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "We're all in this together; thank you for covering my shift.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "abundance_caution",
+      "surface": "in an abundance of caution",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2020.6,
+        "fade": 2022.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A procedural justification for postponement, restrictions, or precautionary action.",
+      "functions": [
+        "deferring",
+        "declining",
+        "scheduling",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "In an abundance of caution, please follow the safety procedure.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "risk",
+        "risks",
+        "safety",
+        "safe",
+        "precaution",
+        "precautions",
+        "caution",
+        "health",
+        "infection",
+        "hazard",
+        "hazards",
+        "unsafe",
+        "danger",
+        "emergency",
+        "protect",
+        "protection",
+        "contamination",
+        "preventive",
+        "preventative"
+      ]
+    },
+    {
+      "id": "uncertain_times",
+      "surface": "in these uncertain times",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2020.5,
+        "fade": 2022,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A generalized preface for reassurance or altered arrangements.",
+      "functions": [
+        "thanking",
+        "apologizing",
+        "deferring",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "In these uncertain times, thank you for keeping the schedule intact.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "pandemic_pivot",
+      "surface": "pivot",
+      "variants": [
+        "pivoting"
+      ],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2020.75,
+        "fade": 2023,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Adapt a plan or working arrangement to changed circumstances.",
+      "functions": [
+        "requesting",
+        "deferring",
+        "scheduling",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Please pivot to the revised schedule and send the printouts tomorrow.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "pandemic_unprecedented",
+      "surface": "unprecedented",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2020.5,
+        "fade": 2022.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Present a disruption or achievement as beyond prior experience.",
+      "functions": [
+        "apologizing",
+        "informing",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Thank you for your support during this unprecedented scheduling disruption.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "pandemic_new_normal",
+      "surface": "new normal",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2021,
+        "fade": 2023,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A formula for treating altered routines as the prevailing working arrangement.",
+      "functions": [
+        "informing",
+        "requesting",
+        "scheduling",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "Under the new normal, please send the printouts before the remote meeting.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2021",
+        "lssu_2022"
+      ],
+      "review_status": "accepted",
+      "context_terms": []
+    },
+    {
+      "id": "on_mute",
+      "surface": "you're on mute",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020,
+        "peak": 2021,
+        "fade": 2023,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A remote-meeting intervention requesting activation of another participant microphone.",
+      "functions": [
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "You're on mute; please repeat the proposed meeting time.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2022"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "mute",
+        "muted",
+        "unmute",
+        "microphone",
+        "mic",
+        "audio",
+        "cannot hear",
+        "can't hear",
+        "no sound"
+      ]
+    },
+    {
+      "id": "supply_chain_issues",
+      "surface": "supply chain issues",
+      "variants": [],
+      "kairolexica": [
+        "pandemic_messaging"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.5,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A generalized operational explanation for delay or unavailable materials.",
+      "functions": [
+        "apologizing",
+        "deferring",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Due to supply chain issues, the printouts will be available tomorrow.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "This is the pandemic messaging sense of an older expression, not a claim of lexical invention in 2020. LSSU documents concentrated adoption and backlash in 2020–2021. The peak and fade are explicitly estimated cultural-salience parameters; a banishment nomination does not establish extinction. The source specifically criticizes this phrase or its listed base expression.",
+      "source_ids": [
+        "lssu_2022"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "supply",
+        "supplier",
+        "suppliers",
+        "shortage",
+        "shortages",
+        "delivery",
+        "deliveries",
+        "shipping",
+        "shipment",
+        "shipments",
+        "stock",
+        "inventory",
+        "goods",
+        "logistics"
+      ]
+    }
+  ]
+}
