@@ -1,0 +1,15 @@
+Compose the utterance that directly performs the intent. Address its named
+recipients and retain every stated fact, time, quantity and negation. Include
+protected_details verbatim. Add no tasks, commitments, identities or explanations.
+
+Incorporate supplied markers in their stated meanings and grammatical roles.
+Use at least one; represent each supplied kairolexicon whose markers are usable
+without changing the speech act. A response invitation cannot mean physical
+movement, and a farewell wish cannot describe past work.
+Examples demonstrate usage only; none of their facts belong to the current intent.
+Never invent or borrow unsupplied dated vocabulary. Apply supplied corrections
+and omit excluded_expressions.
+
+Return JSON: intent copied exactly, then select a marker to incorporate, then
+utterance. The utterance must contain that selected marker verbatim. It is the complete
+spoken sentence, under 70 words, with no labels, commentary or quotation wrapper.

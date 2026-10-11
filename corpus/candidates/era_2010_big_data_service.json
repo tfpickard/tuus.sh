@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "era_2010_big_data",
+  "name": "Big-data promotional saturation",
+  "window": {
+    "start": 2011,
+    "end": 2018
+  },
+  "description": "The brief period in which big data became a ubiquitous promise in boardrooms, marketing conferences, and service pitches.",
+  "cause_of_death": "2013 misuse backlash, 2014 disillusionment, and retirement from the 2015 emerging-technologies hype chart; technical use continued.",
+  "sources": [
+    {
+      "id": "bigdata_guardian",
+      "title": "Big data: 4 predictions for 2014",
+      "url": "https://www.theguardian.com/technology/datablog/2014/jan/14/big-data-4-predictions-for-2014",
+      "published": "2014-01-14",
+      "accessed": "2026-10-11",
+      "note": "Calls 2013 the awareness breakthrough and records widespread backlash; also documents late-2013 big-data-as-a-service rhetoric."
+    },
+    {
+      "id": "bigdata_hype",
+      "title": "Gartner 2015 Hype Cycle: Big Data is Out, Machine Learning is in",
+      "url": "https://www.kdnuggets.com/2015/08/gartner-2015-hype-cycle-big-data-is-out-machine-learning-is-in.html",
+      "published": "2015-08-28",
+      "accessed": "2026-10-11",
+      "note": "Reports disappearance from the 2015 emerging-technologies chart after 2014 disillusionment; retirement does not imply technical abandonment."
+    },
+    {
+      "id": "bigdata_mock",
+      "title": "Big Data is an over-used buzzword, and this Twitter bot proves it",
+      "url": "https://siliconangle.com/2015/10/26/big-data-is-an-over-used-buzzword-and-this-twitter-bot-proves-it/",
+      "published": "2015-10-26",
+      "accessed": "2026-10-11",
+      "note": "Contemporary evidence of indiscriminate marketing use and explicit ridicule."
+    }
+  ],
+  "entries": [
+    {
+      "id": "big_data_service",
+      "surface": "big data-as-a-service",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_big_data"
+      ],
+      "signature": {
+        "onset": 2013,
+        "peak": 2014,
+        "fade": 2018,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional promise of outsourced big-data capability as an accessible service.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Let us provision these printouts as big data-as-a-service for the review.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Big data-as-a-service will become a big deal",
+          "kind": "attested",
+          "source_id": "bigdata_guardian"
+        }
+      ],
+      "rationale": "The Guardian says the idea began to creep into the latter parts of 2013 and forecasts expansion in 2014. The peak and fade are estimated within the broader big-data promotional cluster; the service concept continues and this does not establish an independent annual frequency series. Staged for further review: its independent rapid decline or backlash is not established by the wider cluster evidence, and a forecast of expansion does not demonstrate a completed flare-and-die cycle.",
+      "source_ids": [
+        "bigdata_guardian",
+        "bigdata_hype"
+      ],
+      "review_status": "candidate"
+    }
+  ]
+}

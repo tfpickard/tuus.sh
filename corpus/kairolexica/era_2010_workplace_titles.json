@@ -31,7 +31,7 @@
       "url": "https://www.theheadhunters.ca/blog/are-you-really-looking-for-a-guru-rock-star-or-ninja/",
       "published": "2013-01-25",
       "accessed": "2026-10-11",
-      "note": "Contemporary recruitment criticism; page has no displayed date, adjacent post and search index support 2013 chronology."
+      "note": "Contemporary recruitment criticism; HTML datePublished metadata directly confirms publication on 2013-01-25 although the visible page does not display it."
     },
     {
       "id": "jobs_dive",
@@ -47,8 +47,7 @@
       "id": "workplace_rockstar",
       "surface": "rockstar",
       "variants": [
-        "rock star",
-        "rock-star"
+        "rock star"
       ],
       "kairolexica": [
         "era_2010_workplace_titles"
@@ -60,7 +59,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A recruitment and workplace compliment casting ordinary professional competence as celebrity performance.",
+      "gloss": "A recruitment and workplace compliment casting ordinary professional competence as celebrity performance. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
       "functions": [
         "praising",
         "thanking",
@@ -69,7 +68,7 @@
       ],
       "examples": [
         {
-          "text": "You are a rockstar for covering my shift; thank you.",
+          "text": "You are a rockstar.",
           "kind": "constructed",
           "source_id": null
         },
@@ -86,7 +85,8 @@
         "jobs_headhunters",
         "jobs_dive"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     },
     {
       "id": "workplace_ninja",
@@ -102,7 +102,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A recruitment and workplace label for supposedly exceptional speed and covert proficiency.",
+      "gloss": "A recruitment and workplace label for supposedly exceptional speed and covert proficiency. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
       "functions": [
         "praising",
         "thanking",
@@ -111,7 +111,7 @@
       ],
       "examples": [
         {
-          "text": "Could you be a printout ninja and bring those pages to the meeting?",
+          "text": "You are a ninja.",
           "kind": "constructed",
           "source_id": null
         },
@@ -128,12 +128,15 @@
         "jobs_headhunters",
         "jobs_dive"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     },
     {
       "id": "workplace_guru",
       "surface": "guru",
-      "variants": [],
+      "variants": [
+        "gurus"
+      ],
       "kairolexica": [
         "era_2010_workplace_titles"
       ],
@@ -144,7 +147,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "An inflated occupational label claiming authoritative professional mastery.",
+      "gloss": "An inflated occupational label claiming authoritative professional mastery. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
       "functions": [
         "praising",
         "thanking",
@@ -153,7 +156,7 @@
       ],
       "examples": [
         {
-          "text": "Thank you, scheduling guru, for covering my shift.",
+          "text": "You are a guru.",
           "kind": "constructed",
           "source_id": null
         },
@@ -170,7 +173,8 @@
         "jobs_headhunters",
         "jobs_dive"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     },
     {
       "id": "workplace_wizard",
@@ -186,7 +190,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A workplace label casting ordinary expertise as magical problem-solving ability.",
+      "gloss": "A workplace label casting ordinary expertise as magical problem-solving ability. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
       "functions": [
         "praising",
         "thanking",
@@ -195,7 +199,7 @@
       ],
       "examples": [
         {
-          "text": "You are a printout wizard; thank you for bringing every page.",
+          "text": "You are a wizard.",
           "kind": "constructed",
           "source_id": null
         },
@@ -212,7 +216,8 @@
         "jobs_headhunters",
         "jobs_dive"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     },
     {
       "id": "workplace_jedi",
@@ -230,7 +235,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A branded recruitment metaphor for exceptional technical or professional ability.",
+      "gloss": "A branded recruitment metaphor for exceptional technical or professional ability. Use as a noun in conventional direct address or an expertise appraisal, not exclusively as a vocative and not as a technical procedure.",
       "functions": [
         "praising",
         "thanking",
@@ -239,7 +244,7 @@
       ],
       "examples": [
         {
-          "text": "Could you apply your scheduling Jedi skills and arrange Friday coverage?",
+          "text": "You are a Jedi.",
           "kind": "constructed",
           "source_id": null
         },
@@ -256,7 +261,8 @@
         "jobs_headhunters",
         "jobs_dive"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     }
   ]
 }

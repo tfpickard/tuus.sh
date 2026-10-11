@@ -12,7 +12,9 @@ def main():
     parser = argparse.ArgumentParser(prog="tuus", description="Telechronistic micro-utterance synthesis.")
     parser.add_argument("--root", type=Path, default=ROOT)
     commands = parser.add_subparsers(dest="command", required=True)
-    for name in ("validate", "build", "coverage"):
+    validation = commands.add_parser("validate")
+    validation.add_argument("--candidates", action="store_true")
+    for name in ("build", "coverage"):
         commands.add_parser(name)
     evaluation = commands.add_parser("evaluate")
     evaluation.add_argument("--generate-only", action="store_true")
@@ -20,7 +22,7 @@ def main():
     args = parser.parse_args()
     try:
         if args.command == "validate":
-            corpora = load_corpus(args.root)
+            corpora = load_corpus(args.root, candidates=args.candidates)
             print(f"Validated {len(entries_of(corpora))} entries in {len(corpora)} kairolexica; zero errors.")
         elif args.command == "build":
             from .offline import build

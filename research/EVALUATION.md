@@ -22,6 +22,12 @@ marker presence. Record concise evidence for each decision. Review artifacts are
 model-assisted judgments, not human certification. Ambiguous judgments remain
 visible for subsequent human calibration.
 
+The evaluated runtime includes neutral recipient restoration: when a direct
+speech act names one recipient and synthesis omits that name, it prefixes a
+salutation using the exact input name. Existing names and actor inversions are
+not rewritten. This repair adds no tasks, facts or dated vocabulary. Semantic
+review still evaluates the final utterance in full.
+
 Each JSONL review contains `id`, `utterance_sha256`, `reviewer`, and `judgment`.
 The judgment has boolean `intent`, boolean `fidelity`, list-of-string `jargon`, and
 string `reason`. Generation failures receive failed scores during aggregation.

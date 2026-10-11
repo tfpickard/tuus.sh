@@ -62,7 +62,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A fragmented declaration of being overwhelmed by admiration, surprise, or distress.",
+      "gloss": "A standalone fragmented reaction expressing emotional overwhelm from admiration, surprise, or distress. Do not complete it with a verb such as apologize; that creates an ordinary inability clause instead of this reaction.",
       "functions": [
         "thanking",
         "praising",
@@ -71,7 +71,7 @@
       ],
       "examples": [
         {
-          "text": "You covered my shift; I can't even. Thank you.",
+          "text": "I can't even.",
           "kind": "constructed",
           "source_id": null
         },
@@ -86,7 +86,8 @@
         "tumblr_guide",
         "tumblr_even"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "fragment"
     },
     {
       "id": "tumblr_what_air",
@@ -104,7 +105,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "An exaggerated expression of breathless excitement or laughter.",
+      "gloss": "A standalone rhetorical reaction expressing breathless excitement or laughter, rather than an actual inquiry about air or breathing.",
       "functions": [
         "praising",
         "thanking",
@@ -112,7 +113,7 @@
       ],
       "examples": [
         {
-          "text": "You brought every printout. What is air? Thank you.",
+          "text": "What is air?",
           "kind": "constructed",
           "source_id": null
         },
@@ -126,7 +127,8 @@
       "source_ids": [
         "tumblr_guide"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "fragment"
     },
     {
       "id": "tumblr_gpoy",
@@ -152,7 +154,7 @@
       ],
       "examples": [
         {
-          "text": "GPOY: still waiting for the printouts. Could we begin at two?",
+          "text": "GPOY.",
           "kind": "constructed",
           "source_id": null
         },
@@ -162,11 +164,26 @@
           "source_id": "tumblr_guide"
         }
       ],
-      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "tumblr_guide"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "describe myself",
+        "describe me",
+        "self-description",
+        "selfie",
+        "selfies",
+        "self-portrait",
+        "my mood",
+        "my feelings",
+        "how I feel",
+        "I am",
+        "I'm",
+        "relatable",
+        "me when"
+      ]
     },
     {
       "id": "tumblr_keysmash",
@@ -182,7 +199,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A conventional keyboard-smash expression of overwhelming excitement in early Tumblr captions.",
+      "gloss": "A conventional standalone keyboard-smash reaction expressing overwhelming excitement in early Tumblr captions; separate it from the neighboring speech-act sentence.",
       "functions": [
         "thanking",
         "praising",
@@ -190,7 +207,7 @@
       ],
       "examples": [
         {
-          "text": ";alksjdf;lksfd thank you for covering my shift!",
+          "text": ";alksjdf;lksfd",
           "kind": "constructed",
           "source_id": null
         },
@@ -204,7 +221,8 @@
       "source_ids": [
         "tumblr_guide"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "fragment"
     },
     {
       "id": "tumblr_feels_entry",
@@ -234,7 +252,7 @@
       ],
       "examples": [
         {
-          "text": "All the feels. Thank you for covering my shift.",
+          "text": "All the feels.",
           "kind": "constructed",
           "source_id": null
         },
@@ -273,7 +291,7 @@
       ],
       "examples": [
         {
-          "text": "You are a life ruiner with those perfect printouts; thank you.",
+          "text": "A life ruiner.",
           "kind": "constructed",
           "source_id": null
         },
@@ -283,11 +301,28 @@
           "source_id": "tumblr_guide"
         }
       ],
-      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist.",
+      "rationale": "The 2012 guide attests this as pervasive Tumblr vernacular and records that the register already prompted parody. The signature represents that bounded expression cluster, not the birth or death of the platform. Onset and peak are estimates surrounding the attestation; fade is an estimated loss of novelty, not a measured last use. Older precursor constructions may exist. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "tumblr_guide"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "admire",
+        "admired",
+        "admiration",
+        "idol",
+        "idols",
+        "celebrity",
+        "celebrities",
+        "actor",
+        "actress",
+        "singer",
+        "band",
+        "artist",
+        "crush",
+        "favorite person",
+        "favourite person"
+      ]
     },
     {
       "id": "tumblr_all_things",
@@ -305,7 +340,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A hyperbolic snowclone for enthusiastically attempting an entire category of tasks.",
+      "gloss": "A hyperbolic action/category snowclone for enthusiastically attempting an entire explicitly stated category of tasks or objects. Retain the actual requested objects; do not use it as an adjective meaning excellent or as a label for a person.",
       "functions": [
         "requesting",
         "hyping",
@@ -313,7 +348,7 @@
       ],
       "examples": [
         {
-          "text": "Collect all the things! Could you bring the printouts to the meeting?",
+          "text": "Do all the things!",
           "kind": "constructed",
           "source_id": null
         },

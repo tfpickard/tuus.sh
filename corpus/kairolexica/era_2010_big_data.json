@@ -39,8 +39,7 @@
       "id": "big_data",
       "surface": "big data",
       "variants": [
-        "Big Data",
-        "big-data"
+        "Big Data"
       ],
       "kairolexica": [
         "era_2010_big_data"
@@ -61,65 +60,39 @@
       ],
       "examples": [
         {
-          "text": "Could you bring the printouts so we can unlock the big data in this meeting?",
-          "kind": "constructed",
-          "source_id": null
+          "text": "big data became everyone's most hated buzzword in 2013",
+          "kind": "attested",
+          "source_id": "bigdata_guardian"
         },
         {
-          "text": "big data became everyone's most hated buzzword in 2013",
+          "text": "big data endeavours",
           "kind": "attested",
           "source_id": "bigdata_guardian"
         }
       ],
-      "rationale": "The Guardian identifies 2013 as the breakthrough year for awareness and widespread misuse. The 2015 chart retirement and contemporary parody support the declining promotional phase. The onset is an estimated uptake boundary and 2017 an estimated fade; big data remains a valid technical field.",
+      "rationale": "The Guardian identifies 2013 as the breakthrough year for awareness and widespread misuse. The 2015 chart retirement and contemporary parody support the declining promotional phase. The onset is an estimated uptake boundary and 2017 an estimated fade; big data remains a valid technical field. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "bigdata_guardian",
         "bigdata_hype",
         "bigdata_mock"
       ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "big_data_service",
-      "surface": "big data-as-a-service",
-      "variants": [
-        "big-data-as-a-service",
-        "BDaaS"
-      ],
-      "kairolexica": [
-        "era_2010_big_data"
-      ],
-      "signature": {
-        "onset": 2013,
-        "peak": 2014,
-        "fade": 2018,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "A promotional promise of outsourced big-data capability as an accessible service.",
-      "functions": [
-        "hyping",
-        "requesting",
-        "informing"
-      ],
-      "examples": [
-        {
-          "text": "Let us provision these printouts as big data-as-a-service for the review.",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
-          "text": "Big data-as-a-service will become a big deal",
-          "kind": "attested",
-          "source_id": "bigdata_guardian"
-        }
-      ],
-      "rationale": "The Guardian says the idea began to creep into the latter parts of 2013 and forecasts expansion in 2014. The peak and fade are estimated within the broader big-data promotional cluster; the service concept continues and this does not establish an independent annual frequency series.",
-      "source_ids": [
-        "bigdata_guardian",
-        "bigdata_hype"
-      ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "data",
+        "database",
+        "databases",
+        "dataset",
+        "datasets",
+        "records",
+        "analytics",
+        "analysis",
+        "analyze",
+        "analyse",
+        "analyzing",
+        "analysing",
+        "statistics",
+        "statistical"
+      ]
     }
   ]
 }

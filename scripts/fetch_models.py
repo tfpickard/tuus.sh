@@ -23,9 +23,12 @@ def sha256(path):
 
 def main():
     manifest_path = ROOT / "artifacts/models.json"
-    expected = json.loads(manifest_path.read_text()) if manifest_path.exists() else {}
-    manifest = {}
+    expected = json.loads(manifest_path.read_text())
+    if set(expected) != set(FILES):
+        raise ValueError("Pinned model manifest does not match the declared artifacts")
     for relative, url in FILES.items():
+        if expected[relative]["url"] != url:
+            raise ValueError(f"Model revision differs from pinned manifest: {relative}")
         path = ROOT / relative
         path.parent.mkdir(parents=True, exist_ok=True)
         path.parent.chmod(0o755)
@@ -35,15 +38,14 @@ def main():
             with urllib.request.urlopen(url, timeout=120) as response, temporary.open("wb") as out:
                 for block in iter(lambda: response.read(1024 * 1024), b""):
                     out.write(block)
+            if sha256(temporary) != expected[relative]["sha256"]:
+                raise ValueError(f"Downloaded model checksum mismatch: {relative}")
             temporary.replace(path)
         checksum = sha256(path)
         path.chmod(0o644)
-        if relative in expected and expected[relative]["sha256"] != checksum:
+        if expected[relative]["sha256"] != checksum or expected[relative]["bytes"] != path.stat().st_size:
             raise ValueError(f"Model checksum mismatch: {relative}")
-        manifest[relative] = {"url": url, "sha256": checksum, "bytes": path.stat().st_size}
-        manifest_path.write_text(json.dumps(manifest, indent=2) + "\n")
         print(f"Verified {relative}: {path.stat().st_size} bytes", flush=True)
-    manifest_path.write_text(json.dumps(manifest, indent=2) + "\n")
 
 
 if __name__ == "__main__":

@@ -32,7 +32,7 @@ class Source(Record):
     id: str = Field(pattern=r"^[a-z][a-z0-9_]*$")
     title: str = Field(min_length=3)
     url: str = Field(pattern=r"^https?://")
-    published: str = Field(min_length=4)
+    published: str | None = Field(min_length=4)
     accessed: str
     note: str = Field(min_length=12)
 
@@ -57,6 +57,9 @@ class Entry(Record):
     signature: Signature
     gloss: str = Field(min_length=10)
     functions: list[Function] = Field(min_length=1)
+    context_terms: list[str] = Field(default_factory=list)
+    context_exclusions: list[str] = Field(default_factory=list)
+    usage_role: Literal["phrase", "fragment", "closing", "address"] = "phrase"
     examples: list[Example] = Field(min_length=1)
     rationale: str = Field(min_length=30)
     source_ids: list[str] = Field(min_length=1)

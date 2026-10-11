@@ -46,9 +46,7 @@
     {
       "id": "information_superhighway",
       "surface": "information superhighway",
-      "variants": [
-        "information highway"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_information_highway"
       ],
@@ -76,51 +74,28 @@
       "source_ids": [
         "solomon_highway"
       ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "surfing_the_web",
-      "surface": "surfing the Web",
-      "variants": [
-        "surfing the Net",
-        "surfing the Internet"
-      ],
-      "kairolexica": [
-        "era_1990_information_highway"
-      ],
-      "signature": {
-        "onset": 1992,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "Browsing represented as adventurous motion rather than routine access.",
-      "functions": [
-        "requesting",
-        "informing",
-        "hyping"
-      ],
-      "examples": [
-        {
-          "text": "While you are surfing the Web, could you locate the schedule?",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Polly attests the metaphor in 1992; Oxford identifies its dated affirmative register. Annual peak and fade are inferred, not frequency measurements.",
-      "source_ids": [
-        "polly_surfing",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "network",
+        "networks",
+        "networked",
+        "internet",
+        "web",
+        "website",
+        "websites",
+        "digital",
+        "online",
+        "email",
+        "electronic",
+        "computer",
+        "computers",
+        "data transfer"
+      ]
     },
     {
       "id": "road_kill_highway",
       "surface": "road kill on the information superhighway",
-      "variants": [
-        "roadkill on the information superhighway"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_information_highway"
       ],
@@ -154,7 +129,22 @@
         "lat_highway",
         "solomon_highway"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "network",
+        "networks",
+        "networked",
+        "internet",
+        "web",
+        "website",
+        "websites",
+        "digital",
+        "online",
+        "email",
+        "electronic",
+        "computer",
+        "computers"
+      ]
     },
     {
       "id": "merging_electronic_traffic",
@@ -193,7 +183,22 @@
         "lat_highway",
         "solomon_highway"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "network",
+        "networks",
+        "networked",
+        "internet",
+        "web",
+        "website",
+        "websites",
+        "digital",
+        "online",
+        "email",
+        "electronic",
+        "computer",
+        "computers"
+      ]
     }
   ]
 }

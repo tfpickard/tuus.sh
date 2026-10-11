@@ -46,9 +46,7 @@
     {
       "id": "new_economy",
       "surface": "new economy",
-      "variants": [
-        "New Economy"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_dotcom_valuation"
       ],
@@ -75,14 +73,33 @@
       "source_ids": [
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "economy",
+        "economic",
+        "business",
+        "businesses",
+        "company",
+        "companies",
+        "startup",
+        "startups",
+        "market",
+        "markets",
+        "commerce",
+        "commercial",
+        "internet",
+        "digital",
+        "online",
+        "investment",
+        "investments",
+        "investor",
+        "investors"
+      ]
     },
     {
       "id": "get_big_fast",
       "surface": "get big fast",
-      "variants": [
-        "GBF"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_dotcom_valuation"
       ],
@@ -109,14 +126,35 @@
       "source_ids": [
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "business",
+        "businesses",
+        "company",
+        "companies",
+        "startup",
+        "startups",
+        "growth",
+        "grow",
+        "growing",
+        "scale",
+        "scaling",
+        "expand",
+        "expanding",
+        "expansion",
+        "market share",
+        "acquire customers",
+        "customer acquisition",
+        "investment",
+        "investments",
+        "investor",
+        "investors"
+      ]
     },
     {
       "id": "mind_share",
       "surface": "mind share",
-      "variants": [
-        "mindshare"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_dotcom_valuation"
       ],
@@ -144,14 +182,32 @@
       "source_ids": [
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "attention",
+        "awareness",
+        "brand",
+        "brands",
+        "branding",
+        "marketing",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "campaign",
+        "campaigns",
+        "promotion",
+        "publicity",
+        "visibility",
+        "recognition"
+      ]
     },
     {
       "id": "monetizing_eyeballs",
       "surface": "monetizing eyeballs",
-      "variants": [
-        "monetize eyeballs"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_dotcom_valuation"
       ],
@@ -179,7 +235,30 @@
         "wadhwa_eyeballs",
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "traffic",
+        "visitors",
+        "website",
+        "websites",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "marketing",
+        "monetize",
+        "monetizing",
+        "monetization",
+        "revenue",
+        "revenues",
+        "income",
+        "profit",
+        "profits",
+        "valuation",
+        "valuations"
+      ]
     },
     {
       "id": "eyeballs",
@@ -213,7 +292,26 @@
         "wadhwa_eyeballs",
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "audience",
+        "audiences",
+        "traffic",
+        "visitors",
+        "website",
+        "websites",
+        "views",
+        "viewers",
+        "readers",
+        "advertise",
+        "advertising",
+        "advertisement",
+        "advertisements",
+        "marketing",
+        "monetization",
+        "valuation",
+        "valuations"
+      ]
     },
     {
       "id": "stickiness",
@@ -247,13 +345,33 @@
         "wadhwa_eyeballs",
         "crain_dotcom"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "retention",
+        "retain",
+        "retaining",
+        "returning users",
+        "returning visitors",
+        "repeat visits",
+        "repeat customers",
+        "engagement",
+        "engaged",
+        "website",
+        "websites",
+        "visitor",
+        "visitors",
+        "subscriber",
+        "subscribers",
+        "subscription",
+        "subscriptions",
+        "customer loyalty",
+        "user loyalty"
+      ]
     },
     {
       "id": "friction_free",
       "surface": "friction free",
       "variants": [
-        "friction-free",
         "frictionless commerce"
       ],
       "kairolexica": [
@@ -284,7 +402,32 @@
         "wired_bingo",
         "steinfield_hype"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "commercial",
+        "market",
+        "markets",
+        "transaction",
+        "transactions",
+        "purchase",
+        "purchases",
+        "buying",
+        "selling",
+        "supply chain",
+        "suppliers",
+        "customer",
+        "customers",
+        "workflow",
+        "workflows",
+        "process",
+        "processes",
+        "coordination",
+        "handoff",
+        "handoffs",
+        "integration",
+        "ordering"
+      ]
     },
     {
       "id": "death_of_distance",
@@ -317,7 +460,29 @@
         "wired_bingo",
         "steinfield_hype"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "distance",
+        "remote",
+        "remotely",
+        "distributed",
+        "location",
+        "locations",
+        "office",
+        "offices",
+        "international",
+        "global",
+        "geographic",
+        "geographical",
+        "online",
+        "network",
+        "networks",
+        "networked",
+        "internet",
+        "virtual",
+        "video call",
+        "video meeting"
+      ]
     },
     {
       "id": "disintermediation",
@@ -350,39 +515,29 @@
         "wired_bingo",
         "steinfield_hype"
       ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "econosphere",
-      "surface": "econosphere",
-      "variants": [],
-      "kairolexica": [
-        "era_1990_dotcom_valuation"
-      ],
-      "signature": {
-        "onset": 1996,
-        "peak": 1998,
-        "fade": 2003,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "The networked commercial environment presented as an expansive new sphere.",
-      "functions": [
-        "hyping",
-        "informing"
-      ],
-      "examples": [
-        {
-          "text": "The revised workflow will carry us into the econosphere.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "The 1998 bingo card attests contemporary rhetorical saturation. Onset, peak, and fade are explicit curation estimates; no annual counts exist.",
-      "source_ids": [
-        "wired_bingo"
-      ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "intermediary",
+        "intermediaries",
+        "middleman",
+        "middlemen",
+        "broker",
+        "brokers",
+        "brokerage",
+        "bypass",
+        "bypassing",
+        "direct sales",
+        "direct selling",
+        "direct purchase",
+        "direct purchasing",
+        "direct transaction",
+        "direct transactions",
+        "directly",
+        "supplier",
+        "suppliers",
+        "distribution",
+        "supply chain"
+      ]
     }
   ]
 }

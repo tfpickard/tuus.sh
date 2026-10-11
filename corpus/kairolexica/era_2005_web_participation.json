@@ -75,24 +75,35 @@
       ],
       "examples": [
         {
-          "text": "Could you give these printouts the Web 2.0 treatment and share them with the team?",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "Tracking Web 2.0",
           "kind": "attested",
           "source_id": "web2_death"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "website",
+        "websites",
+        "web",
+        "internet",
+        "online",
+        "network",
+        "networks",
+        "software",
+        "participation",
+        "participate",
+        "platform",
+        "platforms",
+        "application",
+        "applications"
+      ]
     },
     {
       "id": "architecture_participation",
@@ -116,31 +127,41 @@
       ],
       "examples": [
         {
-          "text": "Thank you for bringing an architecture of participation to our shift coverage.",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "architecture of participation",
           "kind": "attested",
           "source_id": "web2_sterling"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "knowledge",
+        "ideas",
+        "ideation",
+        "brainstorm",
+        "brainstorming",
+        "collaboration",
+        "collaborate",
+        "participation",
+        "participate",
+        "contribution",
+        "contributions",
+        "contribute",
+        "community",
+        "collective",
+        "shared knowledge"
+      ]
     },
     {
       "id": "harness_collective",
       "surface": "harnessing collective intelligence",
-      "variants": [
-        "harness collective intelligence"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_2005_web_participation"
       ],
@@ -159,24 +180,36 @@
       ],
       "examples": [
         {
-          "text": "Let us harness collective intelligence and arrange coverage for Friday.",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "Harnessing Collective Intelligence",
           "kind": "attested",
           "source_id": "web2_fowler"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "knowledge",
+        "ideas",
+        "ideation",
+        "brainstorm",
+        "brainstorming",
+        "collaboration",
+        "collaborate",
+        "participation",
+        "participate",
+        "contribution",
+        "contributions",
+        "contribute",
+        "community",
+        "collective",
+        "shared knowledge"
+      ]
     },
     {
       "id": "data_intel_inside",
@@ -199,24 +232,30 @@
       ],
       "examples": [
         {
-          "text": "Data is the next Intel Inside; could you bring the printouts to the meeting?",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "Data is the Next Intel Inside",
           "kind": "attested",
           "source_id": "web2_fowler"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "data",
+        "database",
+        "databases",
+        "dataset",
+        "datasets",
+        "records",
+        "information",
+        "analytics",
+        "analysis"
+      ]
     },
     {
       "id": "web_platform",
@@ -242,24 +281,35 @@
       ],
       "examples": [
         {
-          "text": "Let us use the web as platform and schedule the review together.",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "The Web As Platform",
           "kind": "attested",
           "source_id": "web2_fowler"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "website",
+        "websites",
+        "web",
+        "internet",
+        "online",
+        "network",
+        "networks",
+        "software",
+        "participation",
+        "participate",
+        "platform",
+        "platforms",
+        "application",
+        "applications"
+      ]
     },
     {
       "id": "perpetual_beta",
@@ -283,7 +333,7 @@
       ],
       "examples": [
         {
-          "text": "The schedule remains in perpetual beta; could we defer the review until Friday?",
+          "text": "Still in perpetual beta.",
           "kind": "constructed",
           "source_id": null
         },
@@ -293,7 +343,7 @@
           "source_id": "web2_reference"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
@@ -301,7 +351,29 @@
         "web2_sterling",
         "web2_reference"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "revision",
+        "revisions",
+        "revise",
+        "revising",
+        "revised",
+        "testing",
+        "test",
+        "tests",
+        "prototype",
+        "prototypes",
+        "draft",
+        "drafts",
+        "experiment",
+        "experiments",
+        "iteration",
+        "iterations",
+        "iterating",
+        "iterative",
+        "beta",
+        "development"
+      ]
     },
     {
       "id": "tagging_not_taxonomy",
@@ -324,24 +396,44 @@
       ],
       "examples": [
         {
-          "text": "Tagging not taxonomy: could you label these printouts for the team?",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "Tagging not taxonomy.",
           "kind": "attested",
           "source_id": "web2_sterling"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "organize",
+        "organizing",
+        "organization",
+        "organise",
+        "organising",
+        "organisation",
+        "label",
+        "labels",
+        "labeling",
+        "labelling",
+        "tag",
+        "tags",
+        "tagging",
+        "categorize",
+        "categorizing",
+        "categorise",
+        "categorising",
+        "category",
+        "categories",
+        "classification",
+        "classify",
+        "classifying",
+        "taxonomy"
+      ]
     },
     {
       "id": "end_release_cycle",
@@ -365,24 +457,33 @@
       ],
       "examples": [
         {
-          "text": "This marks the end of the software release cycle; we will revise the schedule continuously.",
-          "kind": "constructed",
-          "source_id": null
-        },
-        {
           "text": "End of the Software Release Cycle",
           "kind": "attested",
           "source_id": "web2_fowler"
         }
       ],
-      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use. Context terms restrict retrieval to the attested semantic domain; these lexical hints do not alter historical dating or establish new usage evidence.",
       "source_ids": [
         "web2_oreilly",
         "web2_fowler",
         "web2_death",
         "web2_sterling"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "software",
+        "release",
+        "releases",
+        "deployment",
+        "deploy",
+        "deploying",
+        "version",
+        "versions",
+        "update",
+        "updates",
+        "application",
+        "applications"
+      ]
     }
   ]
 }

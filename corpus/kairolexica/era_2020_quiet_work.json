@@ -59,7 +59,22 @@
         "npr_banished_2023",
         "bbc_hustle_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "quiet quitting",
+        "unpaid",
+        "overtime",
+        "extra work",
+        "weekend work",
+        "work boundaries",
+        "job duties",
+        "working hours",
+        "contracted duties",
+        "workload",
+        "work-life",
+        "after hours",
+        "after-hours"
+      ]
     }
   ]
 }

@@ -37,9 +37,9 @@
       "id": "marketing_brafton",
       "title": "8 Content Marketing Buzzwords To Nix Once And For All",
       "url": "https://www.brafton.com/blog/distribution/8-content-marketing-buzzwords-to-nix-in-the-new-year/",
-      "published": "2024-04-03",
+      "published": "2023-09-27",
       "accessed": "2026-10-11",
-      "note": "Retrospective identifies growth hacking as a dated 2010 trend and documents continuing rejection of snackable content."
+      "note": "Published 2023-09-27 and updated 2024-04-03, confirmed by source metadata. Retrospective identifies growth hacking as a dated 2010 trend and documents continuing rejection of snackable content."
     },
     {
       "id": "marketing_solomock",
@@ -79,8 +79,7 @@
       "id": "marketing_growth_hacking",
       "surface": "growth hacking",
       "variants": [
-        "growth hacker",
-        "growth-hacking"
+        "growth hacker"
       ],
       "kairolexica": [
         "era_2010_social_marketing"
@@ -92,7 +91,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A startup marketing identity emphasizing experimental, technical routes to rapid expansion.",
+      "gloss": "A startup marketing identity emphasizing experimental, technical routes to rapid expansion or acquisition. Merely announcing an opening does not establish a growth-hacking strategy.",
       "functions": [
         "hyping",
         "informing",
@@ -100,7 +99,7 @@
       ],
       "examples": [
         {
-          "text": "Could we apply some growth hacking to attendance at Friday's review?",
+          "text": "A growth hacker.",
           "kind": "constructed",
           "source_id": null
         },
@@ -116,7 +115,24 @@
         "marketing_collective",
         "marketing_brafton"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "growth hacking",
+        "growth hacker",
+        "marketing",
+        "customer acquisition",
+        "user acquisition",
+        "acquire customers",
+        "acquire users",
+        "acquiring customers",
+        "acquiring users",
+        "startup growth",
+        "start-up growth",
+        "conversion",
+        "conversions",
+        "marketing experiment",
+        "marketing experiments"
+      ]
     },
     {
       "id": "marketing_snackable",
@@ -132,7 +148,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A marketing metaphor for short, easily consumed media fragments.",
+      "gloss": "A marketing metaphor for media that is already explicitly short or easily consumed. Do not infer that arbitrary printouts or an unspecified draft have this format.",
       "functions": [
         "hyping",
         "requesting",
@@ -140,7 +156,7 @@
       ],
       "examples": [
         {
-          "text": "Could you make these printouts snackable content for the review?",
+          "text": "Short, snackable content.",
           "kind": "constructed",
           "source_id": null
         },
@@ -156,14 +172,30 @@
         "marketing_collective",
         "marketing_brafton"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "snackable",
+        "short content",
+        "brief content",
+        "short video",
+        "short videos",
+        "bite-sized",
+        "bitesize",
+        "readability",
+        "readable",
+        "digestible",
+        "social media content",
+        "short article",
+        "short articles",
+        "brief article",
+        "brief articles"
+      ]
     },
     {
       "id": "marketing_solomo",
       "surface": "SoLoMo",
       "variants": [
-        "social-local-mobile",
-        "social, local, mobile"
+        "social-local-mobile"
       ],
       "kairolexica": [
         "era_2010_social_marketing"
@@ -175,7 +207,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A compressed marketing designation for convergence of social, local, and mobile activity.",
+      "gloss": "A compressed marketing designation for actual convergence of social, local, and mobile activity. A generic meeting or physical room change does not establish that convergence; do not invent location-sharing or phone-joining tasks.",
       "functions": [
         "hyping",
         "informing",
@@ -183,7 +215,7 @@
       ],
       "examples": [
         {
-          "text": "Let us make the meeting SoLoMo: share the location and join from your phone.",
+          "text": "SoLoMo.",
           "kind": "constructed",
           "source_id": null
         },
@@ -199,7 +231,27 @@
         "marketing_solodead",
         "marketing_wordstream"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "SoLoMo",
+        "social-local-mobile",
+        "social local mobile",
+        "social, local, and mobile",
+        "social, local and mobile",
+        "social, local, mobile",
+        "social mobile local",
+        "social local mobile marketing",
+        "location-sharing",
+        "location sharing",
+        "share the location",
+        "share our location",
+        "share my location",
+        "share your location",
+        "location-based marketing",
+        "local mobile marketing",
+        "geolocation",
+        "geotargeting"
+      ]
     },
     {
       "id": "marketing_uber_of",
@@ -217,7 +269,7 @@
         "fade_status": "estimated",
         "confidence": "medium"
       },
-      "gloss": "A startup-pitch template presenting an offering as on-demand intermediation for another domain.",
+      "gloss": "A startup-pitch template presenting an actual on-demand intermediary offering in another domain. It is not a generic synonym for excellent, and does not by itself license inventing a marketplace or service capability.",
       "functions": [
         "hyping",
         "praising",
@@ -225,7 +277,7 @@
       ],
       "examples": [
         {
-          "text": "This printout service is the Uber of meeting preparation.",
+          "text": "The Uber of on-demand matching.",
           "kind": "constructed",
           "source_id": null
         },
@@ -239,15 +291,26 @@
       "source_ids": [
         "marketing_collective"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "on-demand",
+        "on demand",
+        "intermediary",
+        "intermediation",
+        "marketplace",
+        "match buyers",
+        "match customers",
+        "connect customers",
+        "connect buyers",
+        "connect users",
+        "match users"
+      ]
     },
     {
       "id": "marketing_break_internet",
       "surface": "break the Internet",
       "variants": [
-        "break the internet",
-        "breaking the Internet",
-        "broke the Internet"
+        "break the internet"
       ],
       "kairolexica": [
         "era_2010_social_marketing"
@@ -267,7 +330,7 @@
       ],
       "examples": [
         {
-          "text": "These printouts will break the Internet; bring them to Friday's review.",
+          "text": "Break the Internet!",
           "kind": "constructed",
           "source_id": null
         },
@@ -305,7 +368,7 @@
       ],
       "examples": [
         {
-          "text": "You brought the printouts, bae. Thank you.",
+          "text": "Welcome, bae.",
           "kind": "constructed",
           "source_id": null
         },
@@ -319,7 +382,8 @@
       "source_ids": [
         "marketing_ban2015"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "usage_role": "address"
     },
     {
       "id": "marketing_swag",
@@ -345,7 +409,7 @@
       ],
       "examples": [
         {
-          "text": "Those printouts have swag; thank you for bringing them.",
+          "text": "That has swag.",
           "kind": "constructed",
           "source_id": null
         },
@@ -364,9 +428,7 @@
     {
       "id": "marketing_giving_life",
       "surface": "giving me life",
-      "variants": [
-        "gives me life"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_2010_social_marketing"
       ],
@@ -385,7 +447,7 @@
       ],
       "examples": [
         {
-          "text": "Your shift coverage is giving me life. Thank you.",
+          "text": "This is giving me life!",
           "kind": "constructed",
           "source_id": null
         },

@@ -5,7 +5,7 @@ import secrets
 from contextlib import asynccontextmanager
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import FileResponse, JSONResponse, RedirectResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import Field
@@ -54,6 +54,9 @@ def create_app(root: Path = ROOT, runtime=None, mounts: tuple[str, ...] | None =
     async def index():
         return FileResponse(web / "index.html")
 
+    async def redirect_to_index(request: Request):
+        return RedirectResponse(request.url.path.rstrip("/") + "/")
+
     for prefix in prefixes:
         if prefix and (not prefix.startswith("/") or prefix.endswith("/")):
             raise ValueError("Base path must be empty or begin with / and have no trailing slash")
@@ -61,7 +64,7 @@ def create_app(root: Path = ROOT, runtime=None, mounts: tuple[str, ...] | None =
         app.add_api_route(prefix + "/api/health", health, methods=["GET"])
         app.add_api_route(prefix + "/", index, methods=["GET"])
         if prefix:
-            app.add_api_route(prefix, lambda path=prefix: RedirectResponse(path + "/"), methods=["GET"])
+            app.add_api_route(prefix, redirect_to_index, methods=["GET"])
         if web.exists():
             app.mount(prefix + "/assets", StaticFiles(directory=web / "assets"))
     return app

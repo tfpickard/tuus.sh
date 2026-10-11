@@ -8,6 +8,7 @@ import unicodedata
 from pathlib import Path
 
 from .schema import Entry, Kairolexicon
+from .lexical import contains
 
 ROOT = Path(os.getenv("TUUS_ROOT", str(Path(__file__).resolve().parents[2])))
 
@@ -17,7 +18,8 @@ def canonical(text: str) -> str:
 
 
 def load_corpus(root: Path = ROOT, *, candidates: bool = False) -> list[Kairolexicon]:
-    paths = sorted((root / "corpus/kairolexica").glob("*.json"))
+    directory = "candidates" if candidates else "kairolexica"
+    paths = sorted((root / "corpus" / directory).glob("*.json"))
     if not paths:
         raise ValueError("No kairolexica found")
     corpora = [Kairolexicon.model_validate_json(path.read_text()) for path in paths]
@@ -45,6 +47,9 @@ def load_corpus(root: Path = ROOT, *, candidates: bool = False) -> list[Kairolex
                 raise ValueError(f"{entry.id}: unknown source reference")
             if not candidates and entry.review_status != "accepted":
                 raise ValueError(f"{entry.id}: unaccepted entry in corpus")
+            for example in entry.examples:
+                if not any(contains(example.text, form) for form in [entry.surface, *entry.variants]):
+                    raise ValueError(f"{entry.id}: example omits all declared lexical forms")
             for form in [entry.surface, *entry.variants]:
                 key = canonical(form)
                 if not key:

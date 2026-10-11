@@ -88,11 +88,17 @@ for (const prefix of ['', '/tuus']) {
     await expect(page.locator('#output-state')).toHaveText('SYNTHESIS COMPLETE', { timeout: 110_000 });
     const output = await page.locator('#output').innerText();
     expect(output).toContain('Morgan');
+    expect(output).toMatch(/\bcollect(?:s|ed|ing)?\b/i);
+    expect(output).not.toMatch(/\bfrom Morgan\b/);
     expect(output).toMatch(/15:00|3\s*(?:p\.?m\.?|PM)/);
     await page.locator('#copy').click();
     expect(await page.evaluate(() => navigator.clipboard.readText())).toBe(output);
     await page.locator('#resample').click();
     await expect(page.locator('#output-state')).toHaveText('SYNTHESIS COMPLETE', { timeout: 110_000 });
+    const resampled = await page.locator('#output').innerText();
+    expect(resampled).toContain('Morgan');
+    expect(resampled).toMatch(/\bcollect(?:s|ed|ing)?\b/i);
+    expect(resampled).not.toMatch(/\bfrom Morgan\b/);
     expect(failed).toEqual([]);
     await page.screenshot({ path: `../reports/synthesis-${prefix ? 'subpath' : 'root'}.png`, fullPage: true });
   });

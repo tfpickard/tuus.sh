@@ -30,9 +30,7 @@
     {
       "id": "cybermall",
       "surface": "cybermall",
-      "variants": [
-        "cyber-mall"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_affirmative_cyber"
       ],
@@ -60,14 +58,32 @@
         "stefanowitsch_cyber",
         "oup_cyber"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "purchase",
+        "purchases",
+        "buy",
+        "buying",
+        "shop",
+        "shops",
+        "shopping",
+        "store",
+        "stores",
+        "retail",
+        "retailer",
+        "retailers",
+        "order",
+        "ordering",
+        "supplies",
+        "supplier",
+        "suppliers"
+      ]
     },
     {
       "id": "cybercommerce",
       "surface": "cybercommerce",
-      "variants": [
-        "cyber-commerce"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_affirmative_cyber"
       ],
@@ -94,256 +110,29 @@
       "source_ids": [
         "oup_cyber"
       ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cybershop",
-      "surface": "cybershop",
-      "variants": [
-        "cyber-shop"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1993,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "An online store presented as a virtual counterpart to a shop.",
-      "functions": [
-        "requesting",
-        "informing"
-      ],
-      "examples": [
-        {
-          "text": "Please order the supplies from the cybershop.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cybersurf",
-      "surface": "cybersurf",
-      "variants": [
-        "cyber-surf",
-        "cybersurfing"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1993,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "Browse online under a futuristic surfing description.",
-      "functions": [
-        "requesting",
-        "informing"
-      ],
-      "examples": [
-        {
-          "text": "Could you cybersurf for the revised opening hours?",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cybersurfer",
-      "surface": "cybersurfer",
-      "variants": [
-        "cyber-surfer"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1993,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "An online browser figured as an explorer.",
-      "functions": [
-        "praising",
-        "thanking",
-        "greeting"
-      ],
-      "examples": [
-        {
-          "text": "Thank you, cybersurfer, for locating those references.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cyberworld",
-      "surface": "cyberworld",
-      "variants": [
-        "cyber-world"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1991,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "Online activity represented as a separate virtual world.",
-      "functions": [
-        "informing",
-        "hyping",
-        "requesting"
-      ],
-      "examples": [
-        {
-          "text": "Please circulate the announcement across the cyberworld.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cyberage",
-      "surface": "cyberage",
-      "variants": [
-        "cyber-age"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1992,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "An epoch defined by newly ubiquitous network technology.",
-      "functions": [
-        "hyping",
-        "informing"
-      ],
-      "examples": [
-        {
-          "text": "This filing process is ready for the cyberage.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cybercommunity",
-      "surface": "cybercommunity",
-      "variants": [
-        "cyber-community"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1993,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "A networked group presented as a new kind of community.",
-      "functions": [
-        "thanking",
-        "greeting",
-        "requesting"
-      ],
-      "examples": [
-        {
-          "text": "Thank you to our cybercommunity for covering the shift.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "cybersnob",
-      "surface": "cybersnob",
-      "variants": [
-        "cyber-snob"
-      ],
-      "kairolexica": [
-        "era_1990_affirmative_cyber"
-      ],
-      "signature": {
-        "onset": 1994,
-        "peak": 1996,
-        "fade": 2002,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "A person displaying online sophistication as social superiority.",
-      "functions": [
-        "apologizing",
-        "declining"
-      ],
-      "examples": [
-        {
-          "text": "I did not mean to sound like a cybersnob; I can explain the steps again.",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Oxford documents displacement of affirmative cyber formations. The lexical onset follows reported OED attestation; 1996 peak and 2002 fade are curation estimates, not individual frequency observations.",
-      "source_ids": [
-        "stefanowitsch_cyber",
-        "oup_cyber"
-      ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "commerce",
+        "commercial",
+        "purchase",
+        "purchases",
+        "buy",
+        "buying",
+        "shop",
+        "shops",
+        "shopping",
+        "store",
+        "stores",
+        "retail",
+        "retailer",
+        "retailers",
+        "sales",
+        "selling",
+        "order",
+        "ordering",
+        "transaction",
+        "transactions"
+      ]
     }
   ]
 }

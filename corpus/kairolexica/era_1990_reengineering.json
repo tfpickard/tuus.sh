@@ -31,7 +31,6 @@
       "id": "reengineering",
       "surface": "reengineering",
       "variants": [
-        "re-engineering",
         "business process reengineering",
         "BPR"
       ],
@@ -53,7 +52,7 @@
       ],
       "examples": [
         {
-          "text": "Could you help reengineer the printout collection process?",
+          "text": "Could you help with reengineering the printout collection process?",
           "kind": "constructed",
           "source_id": null
         }
@@ -63,14 +62,31 @@
         "hammer_obliterate",
         "kleiner_reengineering"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "workflow",
+        "workflows",
+        "process",
+        "processes",
+        "redesign",
+        "redesigning",
+        "management",
+        "restructure",
+        "restructuring",
+        "organization",
+        "organisations",
+        "organizations",
+        "system",
+        "systems",
+        "automation",
+        "automate",
+        "efficiency"
+      ]
     },
     {
       "id": "dont_automate_obliterate",
       "surface": "don't automate, obliterate",
-      "variants": [
-        "do not automate, obliterate"
-      ],
+      "variants": [],
       "kairolexica": [
         "era_1990_reengineering"
       ],
@@ -94,7 +110,7 @@
           "source_id": null
         },
         {
-          "text": "Don't Automate, Obliterate",
+          "text": "Don’t Automate, Obliterate",
           "kind": "attested",
           "source_id": "hammer_obliterate"
         }
@@ -104,42 +120,23 @@
         "hammer_obliterate",
         "kleiner_reengineering"
       ],
-      "review_status": "accepted"
-    },
-    {
-      "id": "blank_sheet_paper",
-      "surface": "blank sheet of paper",
-      "variants": [
-        "blank-sheet approach"
-      ],
-      "kairolexica": [
-        "era_1990_reengineering"
-      ],
-      "signature": {
-        "onset": 1991,
-        "peak": 1994,
-        "fade": 1999,
-        "fade_status": "estimated",
-        "confidence": "medium"
-      },
-      "gloss": "Begin redesign without preserving inherited processes.",
-      "functions": [
-        "requesting",
-        "hyping",
-        "deferring"
-      ],
-      "examples": [
-        {
-          "text": "Could we approach next week's schedule with a blank sheet of paper?",
-          "kind": "constructed",
-          "source_id": null
-        }
-      ],
-      "rationale": "Kleiner identifies this phrase as the movement's radical-redesign prescription. Signature estimates refer specifically to that management sense.",
-      "source_ids": [
-        "kleiner_reengineering"
-      ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "workflow",
+        "workflows",
+        "process",
+        "processes",
+        "redesign",
+        "redesigning",
+        "management",
+        "restructure",
+        "restructuring",
+        "system",
+        "systems",
+        "automation",
+        "automate",
+        "efficiency"
+      ]
     }
   ]
 }

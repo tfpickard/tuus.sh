@@ -29,7 +29,7 @@
     {
       "year": 2012,
       "sample_coverage": 1.0,
-      "center_coverage": 0.9919,
+      "center_coverage": 0.9994,
       "fallback_fraction": 0.0
     },
     {
@@ -50,6 +50,19 @@
     "observed_first_fraction": 0.254,
     "tolerance": 0.02,
     "integral": 1.0000000000000002
+  },
+  "retrieved_era_mixture": {
+    "centers": [
+      1976,
+      1996
+    ],
+    "weights": [
+      1,
+      3
+    ],
+    "expected_cb_fraction": 0.25,
+    "observed_cb_fraction": 0.2445,
+    "tolerance": 0.02
   },
   "axis_probe_count": 1000,
   "empty_retrievals": 0,

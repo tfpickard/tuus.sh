@@ -15,7 +15,7 @@ is retained. Re-sampling and copying operate on the resulting μ-utterance.
 
 ## Local operation
 
-Python 3.11 or later and Node.js 20 or later are required. Model artifacts are
+Python 3.11 or later and Node.js 22.12 or later are required. Model artifacts are
 retrieved separately and checked against pinned revisions and checksums.
 
 ```sh
@@ -32,8 +32,11 @@ Start a `llama.cpp` server with the approved small model:
 
 ```sh
 llama-server -m models/Qwen3-4B-Instruct-2507-Q4_K_M.gguf \
-  --alias Qwen3-4B-Instruct-2507 --port 8081 -c 4096 -t 3
+  --alias Qwen3-4B-Instruct-2507 --port 8081 -c 4096 -t 2 -tb 2
 ```
+
+On Linux x64, `uv run python scripts/fetch_llama.py` retrieves the pinned,
+checksum-verified inference binary and prints its location.
 
 In a second terminal:
 
@@ -63,8 +66,13 @@ npm --prefix web test
 
 The coverage report records temporal density, distinct kairolexicon support,
 communicative-function coverage, and semantic proximity. Uncovered temporal
-regions resolve to the nearest supported material. Generation prompts and
+regions, including gaps in compatible communicative material, resolve to the
+nearest supported material. Generation prompts and
 evaluation cases are versioned independently of the runtime artifacts.
+The fixed evaluation grid contains 288 cases. Generation checkpoints include
+corpus, prompt, implementation and model-artifact fingerprints. Independent
+review artifacts are checked against the exact utterance before scoring with
+`tuus evaluate --reviewed`; `tuus evaluate` uses the local offline judge.
 
 Deployment configuration is supplied in `deploy/`. The runtime uses ordinary
 HTTP and immutable local artifacts; serving is independent of the hosting provider.

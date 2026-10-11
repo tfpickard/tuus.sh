@@ -1,0 +1,609 @@
+{
+  "schema_version": 1,
+  "id": "era_1970_cb_craze",
+  "name": "Citizens-band popularization",
+  "window": {
+    "start": 1973,
+    "end": 1982
+  },
+  "description": "Mainstream appropriation of citizens-band conversational ritual during the mid-1970s public radio craze; exact forms distinguish historical teaching artifacts from continuing specialist usage.",
+  "cause_of_death": "Crowded channels and anticipated novelty fatigue are contemporaneously documented. The mainstream fade is estimated; professional and specialist use persisted.",
+  "sources": [
+    {
+      "id": "cb_gateway_sleeve",
+      "title": "Everything You Need to Know to Operate a CB Radio: Gateway Records sleeve",
+      "url": "https://archive.org/details/everything-you-need-to-know-to-operate-a-cb-radio",
+      "published": "1976",
+      "accessed": "2026-10-11",
+      "note": "Primary commercial teaching artifact. Rear sleeve was visually inspected: dictionary, greetings and closings, track titles, and printed 1976 copyright. Headwords attest forms; constructed adaptations are not quotations."
+    },
+    {
+      "id": "cb_press_gazette",
+      "title": "Ham Operators Ride Out CB Craze: Green Bay Press Gazette",
+      "url": "https://archive.org/details/101076HamOperatorsRideOutCBCraze",
+      "published": "1976-10-10",
+      "accessed": "2026-10-11",
+      "note": "Contemporaneous newspaper clipping and OCR inspected. Reports a big craze, crowded channels, and anticipated abandonment. Does not establish an observed fade date."
+    },
+    {
+      "id": "cb_world",
+      "title": "CB Radio Code, Lingo and Slang",
+      "url": "https://www.wearecb.com/cb-radio-lingo.html",
+      "published": "undated",
+      "accessed": "2026-10-11",
+      "note": "Specialist glossary and operating guidance inspected. Confirms meanings and continuing specialist usage; not independent evidence of term-specific peaks or decline."
+    },
+    {
+      "id": "cb_chilton_revised",
+      "title": "Chilton's CB Handbook: 40 Channel, Revised Edition",
+      "url": "https://archive.org/details/chiltons-cb-handbook-40-channel-guide-to-choosing-installing-and-operating-citiz",
+      "published": "1977",
+      "accessed": "2026-10-11",
+      "note": "Public scan OCR inspected, including copyright/cataloging page, introduction and glossary pages 151–152. Although archive metadata labels the item 1976, the scanned revised edition has 1977 cataloging and copyright 1977, 1976. Introduction relates public adoption to the 1973–74 fuel crisis and 1974 truckers strike; glossary attests hammer down and eyeball as visual contact."
+    }
+  ],
+  "entries": [
+    {
+      "id": "cb_break_for_a_short",
+      "surface": "break for a short short",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Request a brief turn in a conversation.",
+      "functions": [
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Break for a short short: may I speak?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'BREAK FOR A SHORT SHORT' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. The channel-request function can precede a brief informative transmission; the marker solicits the conversational floor rather than carrying the report itself. The historical headword contains the repeated short; an unattested shortened form is not retained as a variant.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_come_on_back",
+      "surface": "come on back",
+      "variants": [
+        "come back"
+      ],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Invite a response or repeat communication.",
+      "functions": [
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Come on back with your reply.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'COME ON BACK (COME BACK)' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. The expression invites a response or repetition; it does not independently welcome a participant. Context hints restrict preferential retrieval to utterances supporting the attested sense; they are lexical matching aids, not frequency evidence. The 1976 sleeve specifically defines COME ON BACK as repeating the last transmission. Current CB World defines Come Back as either requesting an unheard transmission or inviting the other driver to talk; this supports the broader response invitation in the gloss, while distinguishing its source from the narrower historical definition.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "reply",
+        "response",
+        "respond",
+        "repeat",
+        "answer"
+      ]
+    },
+    {
+      "id": "cb_come_on_breaker",
+      "surface": "come on breaker",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Acknowledge a caller and invite them to speak.",
+      "functions": [
+        "greeting",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Come on breaker; I am listening.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'COME ON BREAKER' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. Context hints restrict preferential retrieval to utterances supporting the attested sense; they are lexical matching aids, not frequency evidence.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "caller",
+        "calling",
+        "call",
+        "response",
+        "respond",
+        "reply"
+      ]
+    },
+    {
+      "id": "cb_break",
+      "surface": "break",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Request a conversational opening, also acknowledging interruption.",
+      "functions": [
+        "requesting",
+        "apologizing",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Break: may I speak?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'BREAKER' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. The channel-request function can precede a brief informative transmission; the marker solicits the conversational floor rather than carrying the report itself. The sleeve headword BREAKER is not a quotation of the bare surface break. Bare break and its floor-request/apology role are directly attested in the current CB World operating guidance; the sleeve also attests the related historical formula BREAK FOR A SHORT SHORT.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_ears",
+      "surface": "got your ears on?",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "low"
+      },
+      "gloss": "Ask whether a recipient is listening.",
+      "functions": [
+        "greeting",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Got your ears on?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected current CB World glossary directly attests 'Got Your Ears On?' as a question asking whether the recipient is listening. The 1976 Gateway sleeve attests EARS as citizens-band radio, but does not print GOT EARS or this complete question. Chilton's revised 1977 glossary likewise records Ears as being equipped with CB. The exact question's first use and its term-specific 1970s prevalence are unverified. The 1973 onset, 1976 peak and 1982 estimated fade are low-confidence hypotheses assigning the question to the public CB appropriation, not observations of its annual frequency or disappearance. Specialist use persists. The unsupported reduced canonical form got ears has been removed.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world",
+        "cb_chilton_revised"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_eyeball",
+      "surface": "eyeball",
+      "variants": [
+        "having an eyeball"
+      ],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Meet or inspect something in person.",
+      "functions": [
+        "scheduling",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Let us have an eyeball.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'EYEBALL' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. Context hints restrict preferential retrieval to utterances supporting the attested sense; they are lexical matching aids, not frequency evidence. The sleeve headword concerns having something in sight and its track list includes HAVING AN EYEBALL. Chilton's revised 1977 glossary corroborates Eyeball as visual contact. In-person meeting or inspection is a contextual use of that visual-contact sense, not a claim that every meeting is visual.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world",
+        "cb_chilton_revised"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "meet",
+        "meeting",
+        "inspect",
+        "inspection",
+        "review",
+        "look",
+        "see"
+      ]
+    },
+    {
+      "id": "cb_channel_roll",
+      "surface": "let the channel roll",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Permit others to join or participate in the conversation.",
+      "functions": [
+        "deferring",
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "Let the channel roll; I will not take part.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'LET THE CHANNEL ROLL' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. The sleeve defines the expression as permitting others to join the conversation. It opens participation rather than merely reporting that existing speech continues.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_hammer_down",
+      "surface": "drop the hammer",
+      "variants": [
+        "hammer down"
+      ],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Urge rapid progress or energetic action.",
+      "functions": [
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Drop the hammer!",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints DROP THE HAMMER, defined as running at increased speed; it does not print HAMMER DOWN. Chilton's inspected revised 1977 glossary independently attests Hammer down as cruising above the speed limit, and the current CB World glossary also attests Hammer Down. The latter is therefore a supported related variant, not an invented abbreviation. The more general energetic-action gloss is a figurative adaptation of the acceleration sense. The 1973 onset, 1976 peak and 1982 fade describe mainstream fad appropriation rather than invention or specialist extinction; these parameters and the fade remain estimated. The unattested construction put the hammer down is not retained as a stored variant.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world",
+        "cb_chilton_revised"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_back_it_down",
+      "surface": "back it down",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Ask for reduced speed or intensity.",
+      "functions": [
+        "deferring",
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "Back it down.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'BACK IT DOWN' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_clean_shot",
+      "surface": "clear shot",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Report that the road or route ahead is clear.",
+      "functions": [
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "We have a clear shot.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'CLEAR SHOT' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. Context hints restrict preferential retrieval to utterances supporting the attested sense; they are lexical matching aids, not frequency evidence. The sleeve defines the expression as all clear ahead. The previously transcribed clean shot is not an attested variant.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "clear",
+        "cleared",
+        "route",
+        "road",
+        "safe",
+        "path"
+      ]
+    },
+    {
+      "id": "cb_ratchet_jaw",
+      "surface": "ratchet jaw",
+      "variants": [
+        "ratchet-jaw"
+      ],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A speaker who talks continuously.",
+      "functions": [
+        "apologizing",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "I have been a ratchet jaw.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'RATCHET-JAW' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. Context hints restrict preferential retrieval to utterances supporting the attested sense; they are lexical matching aids, not frequency evidence. The historical sleeve uses a hyphenated headword and defines it as a nonstop talker. Current CB World directly attests the spaced ratchet jaw form, which is retained as canonical.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "talk",
+        "talking",
+        "talked",
+        "speaking",
+        "chat",
+        "chatting",
+        "interrupting"
+      ]
+    },
+    {
+      "id": "cb_good_truckin",
+      "surface": "good truckin'",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Wish the recipient safe onward travel; a closing equivalent to drive safely.",
+      "functions": [
+        "thanking",
+        "greeting",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Good truckin'.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints \"GOOD TRUCKIN'\" in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. Compatibility with praise denotes an onward closing wish after the praise, never a description of the completed work. The sleeve prints the apostrophe and defines the formula as drive safely. Broader onward-progress use is figurative; it must remain a wish, not praise describing completed work.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_fine_day",
+      "surface": "have a fine day and a better day tomorrow",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Offer an expansive farewell wish.",
+      "functions": [
+        "thanking",
+        "greeting"
+      ],
+      "examples": [
+        {
+          "text": "Have a fine day and a better day tomorrow.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'HAVE A FINE DAY AND A BETTER DAY TOMORROW' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_stack_eights",
+      "surface": "stack them eights",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Close a conversation with a cordial best-regards farewell.",
+      "functions": [
+        "greeting",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Stack them eights.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints 'STACK THEM EIGHTS' in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary. The sleeve specifically defines this formula as best regards; the separate double eighty-eights entry carries the love-and-kisses sense, which is not assigned here.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "cb_down_gone",
+      "surface": "we're down, we're gone, bye bye",
+      "variants": [],
+      "kairolexica": [
+        "era_1970_cb_craze"
+      ],
+      "signature": {
+        "onset": 1973,
+        "peak": 1976,
+        "fade": 1982,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Announce departure and close a conversation.",
+      "functions": [
+        "greeting",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "We're down, we're gone, bye bye.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The inspected 1976 Gateway sleeve prints \"WE'RE DOWN, WE'RE GONE, BYE BYE\" in its popular-language dictionary or closing formulas. The contemporary Press Gazette clipping establishes the public CB craze and crowded-channel criticism in 1976. The 1973 onset, 1976 peak and 1982 fade model mainstream fad appropriation, not first use or disappearance from trucking. The annual parameters and fade are estimated; specialist persistence is acknowledged by the current CB World glossary.",
+      "source_ids": [
+        "cb_gateway_sleeve",
+        "cb_press_gazette",
+        "cb_world"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

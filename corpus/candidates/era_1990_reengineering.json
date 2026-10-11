@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_reengineering",
+  "name": "Reengineering evangelism",
+  "window": {
+    "start": 1990,
+    "end": 2000
+  },
+  "description": "Radical process-redesign rhetoric associated with the early-1990s consulting expansion.",
+  "cause_of_death": "Public apologies, implementation failures, and identification with layoffs produced documented backlash.",
+  "sources": [
+    {
+      "id": "hammer_obliterate",
+      "title": "Reengineering Work: Don't Automate, Obliterate",
+      "url": "https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate",
+      "published": "1990-07",
+      "accessed": "2026-10-11",
+      "note": "Original article title establishes the movement's destructive-redesign slogan; paywall limits inspected material."
+    },
+    {
+      "id": "kleiner_reengineering",
+      "title": "Revisiting Reengineering",
+      "url": "https://www.strategy-business.com/article/19570",
+      "published": "2000-07-01",
+      "accessed": "2026-10-11",
+      "note": "Retrospective describes fast consulting adoption followed by public apologies and workforce backlash from 1995."
+    }
+  ],
+  "entries": [
+    {
+      "id": "blank_sheet_paper",
+      "surface": "blank sheet of paper",
+      "variants": [
+        "blank-sheet approach"
+      ],
+      "kairolexica": [
+        "era_1990_reengineering"
+      ],
+      "signature": {
+        "onset": 1991,
+        "peak": 1994,
+        "fade": 1999,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Begin redesign without preserving inherited processes.",
+      "functions": [
+        "requesting",
+        "hyping",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "Could we approach next week's schedule with a blank sheet of paper?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Kleiner identifies this phrase as the movement's radical-redesign prescription. Signature estimates refer specifically to that management sense.",
+      "source_ids": [
+        "kleiner_reengineering"
+      ],
+      "review_status": "candidate"
+    }
+  ]
+}

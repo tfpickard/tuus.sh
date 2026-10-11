@@ -49,11 +49,26 @@
           "source_id": null
         }
       ],
-      "rationale": "Britannica records possible print appearance in 1980, the 1984 year-of-the-yuppie declaration, and the 1991 death declaration following negative associations and the 1987 crash. Peak 1984 is an editorial prominence anchor; fade 1992 is estimated and does not imply the word vanished. Expansion variants belong to this entry rather than inflating the corpus.",
+      "rationale": "Britannica records possible print appearance in 1980, the 1984 year-of-the-yuppie declaration, and the 1991 death declaration following negative associations and the 1987 crash. Peak 1984 is an editorial prominence anchor; fade 1992 is estimated and does not imply the word vanished. Expansion variants belong to this entry rather than inflating the corpus. Context hints require an explicit compatible demographic or materialist reference. Generic person, team, workplace, praise and request wording do not license assigning a yuppie identity to an otherwise unspecified participant. Professional references use phrases rather than the ambiguous adjective professional by itself; these hints restrict retrieval and are not dating evidence.",
       "source_ids": [
         "yuppie_britannica"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "yuppie",
+        "yuppies",
+        "young urban professional",
+        "young urban professionals",
+        "young upwardly mobile professional",
+        "young upwardly mobile professionals",
+        "urban professionals",
+        "upwardly mobile professionals",
+        "status-conscious professional",
+        "status-conscious professionals",
+        "materialist",
+        "materialists",
+        "materialistic professionals"
+      ]
     }
   ]
 }

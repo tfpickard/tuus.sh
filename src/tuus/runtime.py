@@ -12,7 +12,7 @@ from .corpus import digest, entries_of, load_corpus
 from .embedding import Encoder
 from .generation import SmallModel, detect_function, material
 from .generation import ModelUnavailable
-from .lexical import known_violations, used_markers
+from .lexical import address_recipient, detail_violations, known_violations, material_violations, used_markers
 from .prior import Prior
 from .retrieval import Retriever
 
@@ -33,7 +33,7 @@ class Runtime:
                 raise ValueError("Query encoder differs from offline artifact")
         self.retriever = Retriever(self.corpora, np.load(root / "artifacts/embeddings.npy"))
         self.encoder = Encoder(root / "models/e5-small-v2")
-        self.model = SmallModel(model_url, root / "prompts/generation_v1.txt")
+        self.model = SmallModel(model_url, root / "prompts/generation_v7.txt")
 
     def generate(self, intent: str, prior: Prior, seed: int) -> dict:
         start = time.perf_counter()
@@ -41,15 +41,27 @@ class Runtime:
         query = self.encoder.query(intent)
         function = detect_function(intent)
         anchors = [prior.sample(rng)[0] for _ in range(3)]
-        selections = [self.retriever.select(year, query, rng, function) for year in anchors]
+        selections = [self.retriever.select(year, query, rng, function, count=1, intent=intent)
+                      for year in anchors]
         records = material(selections)
         retrieval_ms = (time.perf_counter() - start) * 1000
-        output = self.model.synthesize(intent, records, seed)
+        output = address_recipient(self.model.synthesize(intent, records, seed), intent)
         violations = known_violations(output, intent, records, self.retriever.entries)
-        if violations or not used_markers(output, records):
-            output = self.model.synthesize(intent, records, seed + 1, excluded=violations)
-            if known_violations(output, intent, records, self.retriever.entries) or not used_markers(output, records):
-                raise ModelUnavailable("Synthesis exceeded curated lexical material")
+        corrections = detail_violations(output, intent, records) + material_violations(output, records)
+        if not used_markers(output, records):
+            corrections.append("Include at least one supplied dated expression in the utterance.")
+        if violations or corrections or not used_markers(output, records):
+            output = address_recipient(self.model.synthesize(intent, records, seed + 1,
+                                       excluded=violations, corrections=corrections), intent)
+            if (known_violations(output, intent, records, self.retriever.entries)
+                    or detail_violations(output, intent, records) or material_violations(output, records)
+                    or not used_markers(output, records)):
+                raise ModelUnavailable("Synthesis exceeded curated lexical material", diagnostics={
+                    "utterance": output, "material": records,
+                    "detail_violations": detail_violations(output, intent, records),
+                    "material_violations": material_violations(output, records),
+                    "lexical_violations": known_violations(output, intent, records, self.retriever.entries),
+                    "used_markers": used_markers(output, records)})
         return {"utterance": output, "material": records,
                 "selections": [{"sampled_year": selection.sampled_year,
                                 "resolved_year": selection.resolved_year,

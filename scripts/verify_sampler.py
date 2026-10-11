@@ -32,11 +32,19 @@ def main():
     years = np.linspace(1970, 2030, 12001)
     integral = float(np.trapezoid([mixture.density(float(year)) for year in years], years))
     assert abs(integral - 1) < 1e-6
+    separated = Prior(components=[Component(mean=1976, sigma=0.5, weight=1),
+                                  Component(mean=1996, sigma=0.5, weight=3)])
+    era_samples = [retriever.select(separated.sample(rng)[0], query, rng) for _ in range(10000)]
+    cb_fraction = sum(selection.kairolexicon == "era_1970_cb_craze" for selection in era_samples) / len(era_samples)
+    assert abs(cb_fraction - 0.25) < 0.02
     missing = [retriever.select(year, query, rng) for year in np.linspace(1970, 2030, 1000)]
     assert all(selection.entries for selection in missing)
     report = {"seed": 314159, "draws_per_case": 10000, "tight_prior_results": results,
               "boundary_mixture": {"expected_first_fraction": 0.25, "observed_first_fraction": first,
                                    "tolerance": 0.02, "integral": integral},
+              "retrieved_era_mixture": {"centers": [1976, 1996], "weights": [1, 3],
+                                        "expected_cb_fraction": 0.25, "observed_cb_fraction": cb_fraction,
+                                        "tolerance": 0.02},
               "axis_probe_count": len(missing), "empty_retrievals": 0,
               "sparse_population_checks": "Independent synthetic 1:100 and 1:10 fixtures in tests/test_retrieval.py"}
     (ROOT / "reports/sampling.json").write_text(json.dumps(report, indent=2) + "\n")

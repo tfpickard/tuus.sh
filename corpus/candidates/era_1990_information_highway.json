@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_information_highway",
+  "name": "Information-highway rhetoric",
+  "window": {
+    "start": 1991,
+    "end": 2002
+  },
+  "description": "Exploratory road and surfing metaphors used during public introduction of networked communication.",
+  "cause_of_death": "Documented media decline and contemporaneous irritation with repeated transportation metaphors.",
+  "sources": [
+    {
+      "id": "solomon_highway",
+      "title": "What Happened to the Information Superhighway",
+      "url": "https://fair.org/media-beat-column/what-happened-to-the-quotinformation-superhighwayquot/",
+      "published": "2000-01-06",
+      "accessed": "2026-10-11",
+      "note": "Contemporary Nexis counts show newspaper references dropping from 4562 in 1995 to 842 in 1999."
+    },
+    {
+      "id": "polly_surfing",
+      "title": "Surfing the Internet: An Introduction Version 2.0.2",
+      "url": "https://www.gutenberg.org/cache/epub/49/pg49-images.html",
+      "published": "1992-12-15",
+      "accessed": "2026-10-11",
+      "note": "Preserves Jean Armour Polly's contemporary nontechnical guide and its surfing metaphor."
+    },
+    {
+      "id": "oup_cyber",
+      "title": "Where does the word cyber come from?",
+      "url": "https://blog.oup.com/2015/03/cyber-word-origins/",
+      "published": "2015-03-28",
+      "accessed": "2026-10-11",
+      "note": "Oxford Dictionaries retrospective distinguishes displaced affirmative formations from continuing security terminology."
+    },
+    {
+      "id": "lat_highway",
+      "title": "Merging Into Electronic Traffic on Superhighway Is Causing Some Anxiety",
+      "url": "https://www.latimes.com/archives/la-xpm-1994-04-10-fi-44580-story.html",
+      "published": "1994-04-10",
+      "accessed": "2026-10-11",
+      "note": "Contemporary report records irritation with highway puns. Only short lexical fragments retained."
+    }
+  ],
+  "entries": [
+    {
+      "id": "surfing_the_web",
+      "surface": "surfing the Web",
+      "variants": [
+        "surfing the Net",
+        "surfing the Internet"
+      ],
+      "kairolexica": [
+        "era_1990_information_highway"
+      ],
+      "signature": {
+        "onset": 1992,
+        "peak": 1996,
+        "fade": 2002,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Browsing represented as adventurous motion rather than routine access.",
+      "functions": [
+        "requesting",
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "While you are surfing the Web, could you locate the schedule?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Polly attests the metaphor in 1992; Oxford identifies its dated affirmative register. Annual peak and fade are inferred, not frequency measurements.",
+      "source_ids": [
+        "polly_surfing",
+        "oup_cyber"
+      ],
+      "review_status": "candidate"
+    }
+  ]
+}

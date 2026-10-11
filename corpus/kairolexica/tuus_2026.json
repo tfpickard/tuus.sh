@@ -57,7 +57,24 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "synthesis",
+        "synthesize",
+        "synthesizer",
+        "tuus",
+        "lexical tool",
+        "language tool",
+        "utterance tool",
+        "procedure",
+        "corpus",
+        "corpora",
+        "kairolexicon",
+        "kairolexica",
+        "tool",
+        "tools",
+        "instrument"
+      ]
     },
     {
       "id": "tuus_full_name",
@@ -89,7 +106,24 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "synthesis",
+        "synthesize",
+        "synthesizer",
+        "tuus",
+        "lexical tool",
+        "language tool",
+        "utterance tool",
+        "procedure",
+        "corpus",
+        "corpora",
+        "kairolexicon",
+        "kairolexica",
+        "tool",
+        "tools",
+        "instrument"
+      ]
     },
     {
       "id": "telechronistic",
@@ -115,7 +149,7 @@
       ],
       "examples": [
         {
-          "text": "Please calibrate this telechronistic to the present intent.",
+          "text": "Please apply telechronistic synthesis to this historical wording.",
           "kind": "constructed",
           "source_id": null
         }
@@ -124,7 +158,26 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "temporal",
+        "historical",
+        "history",
+        "era",
+        "eras",
+        "across time",
+        "across eras",
+        "time travel",
+        "temporal distance",
+        "different years",
+        "another era",
+        "earlier era",
+        "later era",
+        "timeline"
+      ],
+      "context_exclusions": [
+        "on time"
+      ]
     },
     {
       "id": "greek_utterance",
@@ -159,7 +212,16 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "sentence",
+        "phrase",
+        "utterance",
+        "message",
+        "wording",
+        "text",
+        "language"
+      ]
     },
     {
       "id": "micro_utterance",
@@ -194,7 +256,16 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "sentence",
+        "phrase",
+        "utterance",
+        "message",
+        "wording",
+        "text",
+        "language"
+      ]
     },
     {
       "id": "temporal_prior",
@@ -229,7 +300,16 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "distribution",
+        "probability",
+        "timeline",
+        "prior",
+        "temporal",
+        "year",
+        "years"
+      ]
     },
     {
       "id": "kairolexica",
@@ -255,7 +335,7 @@
       ],
       "examples": [
         {
-          "text": "Please calibrate this kairolexica to the present intent.",
+          "text": "Please review these kairolexica.",
           "kind": "constructed",
           "source_id": null
         }
@@ -264,7 +344,16 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "vocabulary",
+        "lexicon",
+        "lexica",
+        "corpus",
+        "corpora",
+        "language",
+        "lexical"
+      ]
     },
     {
       "id": "tuus_opening",
@@ -296,7 +385,24 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "synthesis",
+        "synthesize",
+        "synthesizer",
+        "tuus",
+        "lexical tool",
+        "language tool",
+        "utterance tool",
+        "procedure",
+        "corpus",
+        "corpora",
+        "kairolexicon",
+        "kairolexica",
+        "tool",
+        "tools",
+        "instrument"
+      ]
     },
     {
       "id": "tuus_description",
@@ -328,12 +434,32 @@
       "source_ids": [
         "tuus_readme"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "synthesis",
+        "synthesize",
+        "synthesizer",
+        "tuus",
+        "lexical tool",
+        "language tool",
+        "utterance tool",
+        "procedure",
+        "corpus",
+        "corpora",
+        "kairolexicon",
+        "kairolexica",
+        "tool",
+        "tools",
+        "instrument"
+      ],
+      "usage_role": "fragment"
     },
     {
       "id": "micro_moment",
       "surface": "micro-moment",
-      "variants": [],
+      "variants": [
+        "micro-moments"
+      ],
       "kairolexica": [
         "tuus_2026"
       ],
@@ -359,7 +485,7 @@
           "source_id": "google_moments"
         },
         {
-          "text": "Please resolve this micro-moment before the next meeting.",
+          "text": "A micro-moment: please confirm receipt.",
           "kind": "constructed",
           "source_id": null
         }
@@ -368,7 +494,60 @@
       "source_ids": [
         "google_moments"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "marketing",
+        "customer",
+        "customers",
+        "consumer",
+        "consumers",
+        "purchase",
+        "shopping",
+        "search",
+        "smartphone",
+        "mobile",
+        "brief interaction",
+        "short interaction",
+        "brief request",
+        "short request",
+        "quick question",
+        "brief exchange",
+        "quick exchange",
+        "ask",
+        "request",
+        "tell",
+        "notify",
+        "confirm",
+        "question",
+        "message",
+        "reply",
+        "announce",
+        "announcement",
+        "inform"
+      ],
+      "context_exclusions": [
+        "covering a shift",
+        "covering my shift",
+        "covering the shift",
+        "covered a shift",
+        "covered my shift",
+        "covered the shift",
+        "finishing a report",
+        "finished a report",
+        "finishing the report",
+        "finished the report",
+        "finishing the quarterly report",
+        "finished the quarterly report",
+        "completing a report",
+        "completed a report",
+        "completing the report",
+        "completed the report",
+        "entire shift",
+        "full shift",
+        "all day",
+        "hours of work"
+      ],
+      "usage_role": "fragment"
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "id": "quiet_work_reframing",
+  "name": "Quiet-work media reframing",
+  "window": {
+    "start": 2022,
+    "end": 2025
+  },
+  "description": "The short media-label cycle that reframed fulfillment of contracted duties as a distinct workplace withdrawal practice.",
+  "cause_of_death": "Rapid linguistic criticism followed adoption of the label; the underlying practice predates and outlasts the media cycle.",
+  "sources": [
+    {
+      "id": "npr_banished_2023",
+      "title": "The words and phrases to banish from your vocabulary in 2023",
+      "url": "https://www.npr.org/2023/01/01/1146517288/goat-gaslighting-banished-words",
+      "published": "2023-01-01",
+      "accessed": "2026-10-11",
+      "note": "Inspected contemporary report lists quiet quitting among phrases criticized for misuse, overuse and disconnection from literal meanings."
+    },
+    {
+      "id": "bbc_hustle_2023",
+      "title": "Hustle culture: Is this the end of rise-and-grind?",
+      "url": "https://www.bbc.com/worklife/article/20230417-hustle-culture-is-this-the-end-of-rise-and-grind",
+      "published": "2023-04-20",
+      "accessed": "2026-10-11",
+      "note": "Reports diminished cultural aspiration after pandemic reprioritization; explicitly says the culture has not entirely faded and attests grindset."
+    }
+  ],
+  "entries": [
+    {
+      "id": "quiet_quitting",
+      "surface": "quiet quitting",
+      "variants": [],
+      "kairolexica": [
+        "quiet_work_reframing"
+      ],
+      "signature": {
+        "onset": 2022,
+        "peak": 2022.7,
+        "fade": 2025,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A label for fulfilling stated job requirements while withholding additional unpaid effort.",
+      "functions": [
+        "declining",
+        "informing",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "I am quiet quitting the extra weekend work and will complete my assigned tasks on Monday.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "NPR documents quiet quitting as an overused phrase at the beginning of 2023; BBC identifies it as a replacement for rise-and-grind rhetoric in April 2023. The 2022 onset and peak, and 2025 fade, are estimated boundaries of its media-label moment rather than the underlying work practice. Continued usage is possible.",
+      "source_ids": [
+        "npr_banished_2023",
+        "bbc_hustle_2023"
+      ],
+      "review_status": "accepted",
+      "context_terms": [
+        "quiet quitting",
+        "unpaid",
+        "overtime",
+        "extra work",
+        "weekend work",
+        "work boundaries",
+        "job duties",
+        "working hours",
+        "contracted duties",
+        "workload",
+        "work-life",
+        "after hours",
+        "after-hours"
+      ]
+    }
+  ]
+}

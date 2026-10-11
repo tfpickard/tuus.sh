@@ -52,6 +52,29 @@ def coverage(root: Path):
     np.fill_diagonal(similarities, -1)
     pairs = sorted(((float(similarities[i, j]), entries[i].id, entries[j].id)
                     for i in range(len(entries)) for j in range(i + 1, len(entries))), reverse=True)[:30]
+    # Connected components expose semantic concentrations without a clustering
+    # dependency. The explicit threshold is exploratory, not a corpus quality score.
+    cluster_threshold = 0.82
+    remaining = set(range(len(entries)))
+    clusters = []
+    while remaining:
+        pending = [min(remaining)]
+        members = set()
+        while pending:
+            index = pending.pop()
+            if index not in remaining:
+                continue
+            remaining.remove(index)
+            members.add(index)
+            pending.extend(int(neighbor) for neighbor in np.flatnonzero(
+                similarities[index] >= cluster_threshold) if int(neighbor) in remaining)
+        memberships = {}
+        for index in members:
+            for group in entries[index].kairolexica:
+                memberships[group] = memberships.get(group, 0) + 1
+        clusters.append({"entries": [entries[index].id for index in sorted(members)],
+                         "size": len(members), "kairolexica": memberships})
+    clusters.sort(key=lambda cluster: (-cluster["size"], cluster["entries"][0]))
     centered = vectors - vectors.mean(axis=0)
     left, singular, _ = np.linalg.svd(centered, full_matrices=False)
     coordinates = left[:, :2] * singular[:2]
@@ -63,13 +86,15 @@ def coverage(root: Path):
                                "density": [sum(likelihood(entry, year) for entry in group.entries) for year in years]}
                               for group in corpora],
               "nearest_pairs": [{"similarity": score, "entries": [first, second]} for score, first, second in pairs],
+              "semantic_clusters": {"method": "Connected components of cosine-neighbor graph",
+                                    "threshold": cluster_threshold, "clusters": clusters},
               "semantic_coordinates": [{"entry": entry.id, "x": float(position[0]), "y": float(position[1])}
                                        for entry, position in zip(entries, coordinates)]}
     directory = root / "reports"
     directory.mkdir(exist_ok=True)
     (directory / "coverage.json").write_text(json.dumps(report, indent=2) + "\n")
     with (directory / "coverage.csv").open("w", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["year", "active_entries", "likelihood_mass", "active_kairolexica", "functions"])
+        writer = csv.DictWriter(handle, fieldnames=["year", "active_entries", "likelihood_mass", "active_kairolexica", "functions"], lineterminator="\n")
         writer.writeheader()
         writer.writerows({**row, "functions": ";".join(row["functions"])} for row in yearly)
     rows = "".join(f"<tr class={'gap' if not row['active_entries'] else 'covered'}><th>{row['year']}</th>"
@@ -85,5 +110,12 @@ def coverage(root: Path):
 <h2>Per-year support</h2><table><tr><th>Year</th><th>Entries</th><th>Kairolexica</th><th>Likelihood mass</th><th>Functions</th></tr>{rows}</table>
 <h2>Semantic neighbors</h2><p>Cosine similarity identifies near-duplicate and concentrated semantic material. Coordinates and full detail accompany this report in JSON.</p><ol>
 {''.join(f'<li>{html.escape(a)} — {html.escape(b)}: {score:.3f}</li>' for score, a, b in pairs)}</ol></html>"""
+    cluster_rows = "".join(f"<tr><td>{cluster['size']}</td><td>{html.escape(', '.join(cluster['entries']))}</td>"
+                           f"<td>{html.escape(', '.join(f'{name}: {count}' for name, count in cluster['kairolexica'].items()))}</td></tr>"
+                           for cluster in clusters if cluster["size"] > 1)
+    page = page.replace("</html>", f"<h2>Semantic concentrations</h2><p>Connected components at cosine similarity ≥ {cluster_threshold}. "
+                        "A chain of neighbors does not imply equal similarity between all members. "
+                        f"{sum(cluster['size'] == 1 for cluster in clusters)} entries are isolated at this threshold.</p>"
+                        f"<table><tr><th>Entries</th><th>Members</th><th>Kairolexicon composition</th></tr>{cluster_rows}</table></html>")
     (directory / "coverage.html").write_text(page)
     return report

@@ -78,7 +78,9 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [],
+      "usage_role": "closing"
     },
     {
       "id": "nft_gm",
@@ -113,7 +115,8 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": []
     },
     {
       "id": "nft_gn",
@@ -137,7 +140,7 @@
       ],
       "examples": [
         {
-          "text": "GN; I will review the draft tomorrow morning.",
+          "text": "GN.",
           "kind": "constructed",
           "source_id": null
         }
@@ -148,14 +151,14 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [],
+      "usage_role": "closing"
     },
     {
       "id": "nft_fren",
       "surface": "fren",
-      "variants": [
-        "frens"
-      ],
+      "variants": [],
       "kairolexica": [
         "nft_community_ritual"
       ],
@@ -186,7 +189,9 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [],
+      "usage_role": "address"
     },
     {
       "id": "nft_looks_rare",
@@ -220,7 +225,8 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": []
     },
     {
       "id": "nft_probably_nothing",
@@ -257,7 +263,9 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [],
+      "usage_role": "closing"
     },
     {
       "id": "nft_diamond_hands",
@@ -294,7 +302,29 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "investment",
+        "investments",
+        "investing",
+        "investor",
+        "investors",
+        "asset",
+        "assets",
+        "stocks",
+        "portfolio",
+        "crypto",
+        "cryptocurrency",
+        "bitcoin",
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "stock market",
+        "shares",
+        "holding shares",
+        "selling shares"
+      ]
     },
     {
       "id": "nft_paper_hands",
@@ -330,7 +360,29 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "investment",
+        "investments",
+        "investing",
+        "investor",
+        "investors",
+        "asset",
+        "assets",
+        "stocks",
+        "portfolio",
+        "crypto",
+        "cryptocurrency",
+        "bitcoin",
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "stock market",
+        "shares",
+        "holding shares",
+        "selling shares"
+      ]
     },
     {
       "id": "nft_wen_moon",
@@ -365,7 +417,31 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "investment",
+        "investments",
+        "investing",
+        "asset",
+        "assets",
+        "stocks",
+        "portfolio",
+        "crypto",
+        "cryptocurrency",
+        "bitcoin",
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "valuation",
+        "returns",
+        "profit",
+        "profits",
+        "stock market",
+        "shares",
+        "market value",
+        "price increase"
+      ]
     },
     {
       "id": "nft_nfa",
@@ -401,7 +477,29 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "financial",
+        "finance",
+        "investment",
+        "investments",
+        "investing",
+        "asset",
+        "assets",
+        "stocks",
+        "portfolio",
+        "crypto",
+        "cryptocurrency",
+        "bitcoin",
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "profit",
+        "profits",
+        "stock market",
+        "shares"
+      ]
     },
     {
       "id": "nft_dyor",
@@ -442,7 +540,28 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "research",
+        "verify",
+        "verification",
+        "investment",
+        "investments",
+        "investing",
+        "asset",
+        "assets",
+        "stocks",
+        "portfolio",
+        "crypto",
+        "cryptocurrency",
+        "bitcoin",
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "stock market",
+        "shares"
+      ]
     },
     {
       "id": "nft_ser",
@@ -482,7 +601,9 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [],
+      "usage_role": "address"
     },
     {
       "id": "nft_discord_grinding",
@@ -517,7 +638,16 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "Discord",
+        "presale",
+        "allowlist",
+        "whitelist",
+        "community participation",
+        "community access",
+        "server activity"
+      ]
     },
     {
       "id": "nft_right_clicker",
@@ -550,7 +680,19 @@
         "verge_web3_2021",
         "guardian_nft_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "NFT",
+        "NFTs",
+        "token",
+        "tokens",
+        "digital ownership",
+        "digital art",
+        "digital artwork",
+        "image ownership",
+        "certified ownership",
+        "right-click"
+      ]
     }
   ]
 }

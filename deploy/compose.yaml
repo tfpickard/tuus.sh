@@ -25,7 +25,9 @@ services:
       - -c
       - "4096"
       - -t
-      - "3"
+      - "2"
+      - -tb
+      - "2"
     volumes:
       - ../models:/models:ro
     restart: unless-stopped

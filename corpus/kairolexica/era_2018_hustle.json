@@ -70,7 +70,8 @@
         "psych_hustle_2019",
         "bbc_hustle_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": []
     },
     {
       "id": "hustle_harder",
@@ -105,7 +106,8 @@
         "psych_hustle_2019",
         "bbc_hustle_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": []
     },
     {
       "id": "hustle_culture",
@@ -129,7 +131,7 @@
       ],
       "examples": [
         {
-          "text": "Thank you for completing the draft; your commitment to hustle culture is evident.",
+          "text": "Hustle culture rewards constant work.",
           "kind": "constructed",
           "source_id": null
         }
@@ -140,7 +142,26 @@
         "psych_hustle_2019",
         "bbc_hustle_2023"
       ],
-      "review_status": "accepted"
+      "review_status": "accepted",
+      "context_terms": [
+        "work",
+        "working",
+        "overwork",
+        "overworking",
+        "ambition",
+        "ambitious",
+        "productivity",
+        "productive",
+        "career",
+        "careers",
+        "workplace",
+        "hustle",
+        "burnout",
+        "overtime",
+        "unpaid",
+        "workload",
+        "work-life"
+      ]
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "corpus_sha256": "769ca1c4dec1f7ac7fb848946e270cb30641bd5382226653559dfc6b9f07502d",
-  "entry_count": 120,
-  "kairolexicon_count": 17,
+  "corpus_sha256": "db5f1bf48dafb8474c0f58f8e9b0bd47f2c7dfa15b2cd8f0b2ac464c2f4400f7",
+  "entry_count": 113,
+  "kairolexicon_count": 18,
   "years": [
     {
       "year": 1970,
@@ -294,40 +294,41 @@
     },
     {
       "year": 1992,
-      "active_entries": 5,
-      "likelihood_mass": 1.95,
+      "active_entries": 4,
+      "likelihood_mass": 1.6388888888888888,
       "active_kairolexica": 3,
       "functions": [
         "declining",
-        "deferring",
         "hyping",
         "informing",
-        "requesting"
+        "praising",
+        "requesting",
+        "thanking"
       ]
     },
     {
       "year": 1993,
-      "active_entries": 7,
-      "likelihood_mass": 3.8166666666666664,
+      "active_entries": 4,
+      "likelihood_mass": 2.6944444444444446,
       "active_kairolexica": 3,
       "functions": [
         "declining",
-        "deferring",
         "hyping",
         "informing",
-        "requesting"
+        "praising",
+        "requesting",
+        "thanking"
       ]
     },
     {
       "year": 1994,
-      "active_entries": 15,
-      "likelihood_mass": 8.483333333333333,
-      "active_kairolexica": 3,
+      "active_entries": 9,
+      "likelihood_mass": 5.55,
+      "active_kairolexica": 4,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -337,14 +338,13 @@
     },
     {
       "year": 1995,
-      "active_entries": 17,
-      "likelihood_mass": 12.05151515151515,
-      "active_kairolexica": 4,
+      "active_entries": 10,
+      "likelihood_mass": 7.3404040404040405,
+      "active_kairolexica": 5,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -354,14 +354,13 @@
     },
     {
       "year": 1996,
-      "active_entries": 23,
-      "likelihood_mass": 16.02121212121212,
-      "active_kairolexica": 4,
+      "active_entries": 18,
+      "likelihood_mass": 11.010955710955711,
+      "active_kairolexica": 5,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -371,14 +370,13 @@
     },
     {
       "year": 1997,
-      "active_entries": 26,
-      "likelihood_mass": 16.290909090909093,
-      "active_kairolexica": 4,
+      "active_entries": 20,
+      "likelihood_mass": 11.966550116550117,
+      "active_kairolexica": 5,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -388,14 +386,13 @@
     },
     {
       "year": 1998,
-      "active_entries": 25,
-      "likelihood_mass": 16.56060606060606,
-      "active_kairolexica": 4,
+      "active_entries": 19,
+      "likelihood_mass": 12.511888111888112,
+      "active_kairolexica": 5,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -405,14 +402,13 @@
     },
     {
       "year": 1999,
-      "active_entries": 24,
-      "likelihood_mass": 15.33030303030303,
-      "active_kairolexica": 4,
+      "active_entries": 19,
+      "likelihood_mass": 12.257226107226108,
+      "active_kairolexica": 5,
       "functions": [
         "apologizing",
         "declining",
         "deferring",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -422,13 +418,11 @@
     },
     {
       "year": 2000,
-      "active_entries": 21,
-      "likelihood_mass": 10.483333333333333,
-      "active_kairolexica": 3,
+      "active_entries": 15,
+      "likelihood_mass": 8.185897435897436,
+      "active_kairolexica": 4,
       "functions": [
-        "apologizing",
         "declining",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -438,13 +432,11 @@
     },
     {
       "year": 2001,
-      "active_entries": 20,
-      "likelihood_mass": 6.166666666666666,
+      "active_entries": 13,
+      "likelihood_mass": 4.894871794871795,
       "active_kairolexica": 3,
       "functions": [
-        "apologizing",
         "declining",
-        "greeting",
         "hyping",
         "informing",
         "praising",
@@ -455,9 +447,10 @@
     {
       "year": 2002,
       "active_entries": 7,
-      "likelihood_mass": 2.0166666666666666,
-      "active_kairolexica": 1,
+      "likelihood_mass": 1.9705128205128206,
+      "active_kairolexica": 2,
       "functions": [
+        "declining",
         "hyping",
         "informing",
         "praising",
@@ -622,8 +615,8 @@
     },
     {
       "year": 2014,
-      "active_entries": 21,
-      "likelihood_mass": 14.075,
+      "active_entries": 20,
+      "likelihood_mass": 13.075,
       "active_kairolexica": 4,
       "functions": [
         "apologizing",
@@ -638,8 +631,8 @@
     },
     {
       "year": 2015,
-      "active_entries": 21,
-      "likelihood_mass": 13.073809523809524,
+      "active_entries": 20,
+      "likelihood_mass": 12.323809523809524,
       "active_kairolexica": 4,
       "functions": [
         "apologizing",
@@ -654,8 +647,8 @@
     },
     {
       "year": 2016,
-      "active_entries": 18,
-      "likelihood_mass": 9.077380952380953,
+      "active_entries": 17,
+      "likelihood_mass": 8.577380952380953,
       "active_kairolexica": 5,
       "functions": [
         "apologizing",
@@ -669,9 +662,9 @@
     },
     {
       "year": 2017,
-      "active_entries": 14,
-      "likelihood_mass": 6.330952380952381,
-      "active_kairolexica": 4,
+      "active_entries": 13,
+      "likelihood_mass": 6.080952380952381,
+      "active_kairolexica": 3,
       "functions": [
         "declining",
         "hyping",
@@ -868,6 +861,8 @@
     1989,
     1990,
     1991,
+    1992,
+    1993,
     2003,
     2004,
     2020,
@@ -1084,7 +1079,7 @@
     {
       "id": "era_1990_affirmative_cyber",
       "name": "Affirmative cyber formations",
-      "entries": 9,
+      "entries": 2,
       "density": [
         0.0,
         0.0,
@@ -1108,16 +1103,16 @@
         0.0,
         0.0,
         0.0,
-        0.2,
-        0.65,
-        3.0999999999999996,
-        6.05,
-        9.0,
-        7.5,
-        6.0,
-        4.5,
-        3.0,
-        1.5,
+        0.0,
+        0.0,
+        0.6666666666666666,
+        1.3333333333333333,
+        2.0,
+        1.6666666666666667,
+        1.3333333333333333,
+        1.0,
+        0.6666666666666666,
+        0.3333333333333333,
         0.0,
         0.0,
         0.0,
@@ -1152,7 +1147,7 @@
     {
       "id": "era_1990_dotcom_valuation",
       "name": "Dot-com valuation and commercial exceptionalism",
-      "entries": 10,
+      "entries": 9,
       "density": [
         0.0,
         0.0,
@@ -1181,12 +1176,12 @@
         0.0,
         0.2,
         2.0666666666666664,
-        5.1,
-        8.133333333333333,
-        9.466666666666667,
-        6.983333333333333,
-        4.5,
-        2.0166666666666666,
+        4.6,
+        7.133333333333333,
+        8.666666666666666,
+        6.383333333333333,
+        4.1,
+        1.8166666666666667,
         0.5333333333333333,
         0.0,
         0.0,
@@ -1220,7 +1215,7 @@
     {
       "id": "era_1990_information_highway",
       "name": "Information-highway rhetoric",
-      "entries": 4,
+      "entries": 3,
       "density": [
         0.0,
         0.0,
@@ -1245,16 +1240,84 @@
         0.0,
         0.0,
         0.25,
-        0.75,
-        2.583333333333333,
-        3.5681818181818183,
-        3.287878787878788,
-        2.590909090909091,
-        1.893939393939394,
-        1.196969696969697,
         0.5,
+        2.083333333333333,
+        2.8181818181818183,
+        2.287878787878788,
+        1.7575757575757573,
+        1.2272727272727273,
+        0.696969696969697,
         0.16666666666666666,
         0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1990_mass_cultural_formulas",
+      "name": "Mass-mediated evaluative and dismissive formulas",
+      "entries": 4,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2222222222222222,
+        0.4444444444444444,
+        1.0,
+        1.5555555555555554,
+        3.58974358974359,
+        3.2423076923076923,
+        2.4846153846153847,
+        1.726923076923077,
+        0.9692307692307693,
+        0.46153846153846156,
+        0.15384615384615385,
         0.0,
         0.0,
         0.0,
@@ -1288,7 +1351,7 @@
     {
       "id": "era_1990_reengineering",
       "name": "Reengineering evangelism",
-      "entries": 3,
+      "entries": 2,
       "density": [
         0.0,
         0.0,
@@ -1312,13 +1375,13 @@
         0.0,
         0.0,
         0.5833333333333333,
-        1.5,
-        2.4166666666666665,
-        2.8,
-        2.2333333333333334,
-        1.6666666666666665,
-        1.1,
-        0.5333333333333333,
+        1.1666666666666665,
+        1.75,
+        1.8,
+        1.4333333333333333,
+        1.0666666666666667,
+        0.7,
+        0.3333333333333333,
         0.16666666666666666,
         0.0,
         0.0,
@@ -1424,7 +1487,7 @@
     {
       "id": "era_2010_big_data",
       "name": "Big-data promotional saturation",
-      "entries": 2,
+      "entries": 1,
       "density": [
         0.0,
         0.0,
@@ -1470,10 +1533,10 @@
         0.0,
         0.5,
         1.0,
-        1.75,
-        1.25,
         0.75,
+        0.5,
         0.25,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -2036,816 +2099,933 @@
   ],
   "nearest_pairs": [
     {
-      "similarity": 0.9496116638183594,
+      "similarity": 0.9473004341125488,
       "entries": [
         "greek_utterance",
         "micro_utterance"
       ]
     },
     {
-      "similarity": 0.9476855993270874,
+      "similarity": 0.9464781284332275,
       "entries": [
         "tuus_opening",
         "tuus_description"
       ]
     },
     {
-      "similarity": 0.9293242692947388,
-      "entries": [
-        "monetizing_eyeballs",
-        "eyeballs"
-      ]
-    },
-    {
-      "similarity": 0.9176602363586426,
-      "entries": [
-        "tuus_name",
-        "tuus_opening"
-      ]
-    },
-    {
-      "similarity": 0.9160321950912476,
-      "entries": [
-        "mind_share",
-        "eyeballs"
-      ]
-    },
-    {
-      "similarity": 0.915579080581665,
-      "entries": [
-        "cybersurf",
-        "cybersurfer"
-      ]
-    },
-    {
-      "similarity": 0.9143251180648804,
+      "similarity": 0.9328210353851318,
       "entries": [
         "cb_break_for_a_short",
         "cb_break"
       ]
     },
     {
-      "similarity": 0.9126735925674438,
+      "similarity": 0.9232171177864075,
       "entries": [
-        "cb_come_on_back",
-        "cb_ears"
+        "monetizing_eyeballs",
+        "eyeballs"
       ]
     },
     {
-      "similarity": 0.9118911027908325,
+      "similarity": 0.9205938577651978,
       "entries": [
-        "tuus_full_name",
-        "tuus_description"
+        "mind_share",
+        "eyeballs"
       ]
     },
     {
-      "similarity": 0.9101536273956299,
-      "entries": [
-        "tuus_full_name",
-        "greek_utterance"
-      ]
-    },
-    {
-      "similarity": 0.9097056984901428,
-      "entries": [
-        "cb_break",
-        "cb_ears"
-      ]
-    },
-    {
-      "similarity": 0.9091014862060547,
-      "entries": [
-        "cb_come_on_back",
-        "cb_break"
-      ]
-    },
-    {
-      "similarity": 0.9069444537162781,
+      "similarity": 0.9190292358398438,
       "entries": [
         "cb_come_on_back",
         "cb_come_on_breaker"
       ]
     },
     {
-      "similarity": 0.9062298536300659,
+      "similarity": 0.9163256287574768,
+      "entries": [
+        "tuus_name",
+        "tuus_opening"
+      ]
+    },
+    {
+      "similarity": 0.9150227308273315,
+      "entries": [
+        "cb_come_on_back",
+        "cb_ears"
+      ]
+    },
+    {
+      "similarity": 0.9129712581634521,
+      "entries": [
+        "tuus_full_name",
+        "tuus_description"
+      ]
+    },
+    {
+      "similarity": 0.9106634259223938,
+      "entries": [
+        "cb_come_on_back",
+        "cb_break"
+      ]
+    },
+    {
+      "similarity": 0.9105813503265381,
       "entries": [
         "tuus_full_name",
         "tuus_opening"
       ]
     },
     {
-      "similarity": 0.9060618877410889,
-      "entries": [
-        "cybermall",
-        "cybershop"
-      ]
-    },
-    {
-      "similarity": 0.9053866863250732,
-      "entries": [
-        "cb_hammer_down",
-        "cb_back_it_down"
-      ]
-    },
-    {
-      "similarity": 0.9049021005630493,
-      "entries": [
-        "big_data",
-        "big_data_service"
-      ]
-    },
-    {
-      "similarity": 0.9016878604888916,
-      "entries": [
-        "cb_good_truckin",
-        "cb_fine_day"
-      ]
-    },
-    {
-      "similarity": 0.9007517099380493,
-      "entries": [
-        "information_superhighway",
-        "road_kill_highway"
-      ]
-    },
-    {
-      "similarity": 0.9002678990364075,
-      "entries": [
-        "tuus_name",
-        "tuus_full_name"
-      ]
-    },
-    {
-      "similarity": 0.8992257118225098,
-      "entries": [
-        "valley_major_cool",
-        "valley_mondo_cool"
-      ]
-    },
-    {
-      "similarity": 0.8985797166824341,
-      "entries": [
-        "nft_gm",
-        "nft_ser"
-      ]
-    },
-    {
-      "similarity": 0.897936999797821,
-      "entries": [
-        "cb_back_it_down",
-        "cb_down_gone"
-      ]
-    },
-    {
-      "similarity": 0.8957819938659668,
+      "similarity": 0.9095726609230042,
       "entries": [
         "tuus_full_name",
-        "telechronistic"
+        "greek_utterance"
       ]
     },
     {
-      "similarity": 0.8948123455047607,
+      "similarity": 0.9072052836418152,
       "entries": [
-        "cb_break",
-        "cb_down_gone"
+        "cb_come_on_breaker",
+        "cb_break"
       ]
     },
     {
-      "similarity": 0.8947963714599609,
-      "entries": [
-        "telechronistic",
-        "tuus_description"
-      ]
-    },
-    {
-      "similarity": 0.8946780562400818,
-      "entries": [
-        "cybershop",
-        "cyberworld"
-      ]
-    },
-    {
-      "similarity": 0.8945705890655518,
+      "similarity": 0.9042433500289917,
       "entries": [
         "eyeballs",
         "stickiness"
       ]
     },
     {
-      "similarity": 0.8935775756835938,
+      "similarity": 0.9032012820243835,
       "entries": [
-        "cb_eyeball",
-        "monetizing_eyeballs"
+        "tuus_name",
+        "tuus_full_name"
       ]
     },
     {
-      "similarity": 0.8933889865875244,
+      "similarity": 0.9006283283233643,
       "entries": [
-        "cybercommerce",
-        "cybershop"
+        "cb_break",
+        "cb_down_gone"
+      ]
+    },
+    {
+      "similarity": 0.9003651142120361,
+      "entries": [
+        "cb_hammer_down",
+        "cb_back_it_down"
+      ]
+    },
+    {
+      "similarity": 0.9002081751823425,
+      "entries": [
+        "valley_major_cool",
+        "valley_mondo_cool"
+      ]
+    },
+    {
+      "similarity": 0.898930549621582,
+      "entries": [
+        "uncertain_times",
+        "pandemic_unprecedented"
+      ]
+    },
+    {
+      "similarity": 0.8987365365028381,
+      "entries": [
+        "cb_break",
+        "cb_ears"
+      ]
+    },
+    {
+      "similarity": 0.8980906009674072,
+      "entries": [
+        "information_superhighway",
+        "road_kill_highway"
+      ]
+    },
+    {
+      "similarity": 0.8971134424209595,
+      "entries": [
+        "cb_stack_eights",
+        "cb_down_gone"
+      ]
+    },
+    {
+      "similarity": 0.89656662940979,
+      "entries": [
+        "telechronistic",
+        "tuus_description"
+      ]
+    },
+    {
+      "similarity": 0.8963671922683716,
+      "entries": [
+        "web_20",
+        "web_platform"
+      ]
+    },
+    {
+      "similarity": 0.8962927460670471,
+      "entries": [
+        "nft_gm",
+        "nft_ser"
+      ]
+    },
+    {
+      "similarity": 0.8956171274185181,
+      "entries": [
+        "tuus_full_name",
+        "micro_utterance"
+      ]
+    },
+    {
+      "similarity": 0.8950666189193726,
+      "entries": [
+        "cb_back_it_down",
+        "cb_down_gone"
+      ]
+    },
+    {
+      "similarity": 0.8928583860397339,
+      "entries": [
+        "tuus_full_name",
+        "telechronistic"
+      ]
+    },
+    {
+      "similarity": 0.8899554014205933,
+      "entries": [
+        "eyeballs",
+        "nft_probably_nothing"
+      ]
+    },
+    {
+      "similarity": 0.8896915912628174,
+      "entries": [
+        "cb_break",
+        "on_mute"
       ]
     }
   ],
+  "semantic_clusters": {
+    "method": "Connected components of cosine-neighbor graph",
+    "threshold": 0.82,
+    "clusters": [
+      {
+        "entries": [
+          "cb_break_for_a_short",
+          "cb_come_on_back",
+          "cb_come_on_breaker",
+          "cb_break",
+          "cb_ears",
+          "cb_eyeball",
+          "cb_channel_roll",
+          "cb_hammer_down",
+          "cb_back_it_down",
+          "cb_clean_shot",
+          "cb_ratchet_jaw",
+          "cb_good_truckin",
+          "cb_fine_day",
+          "cb_stack_eights",
+          "cb_down_gone",
+          "valley_fer_shurr",
+          "valley_maximum_brilliant",
+          "valley_major_cool",
+          "valley_mondo_cool",
+          "valley_rilly_killer",
+          "valley_kiss_my_tuna",
+          "valley_im_shurr",
+          "valley_joanie",
+          "valley_bitchen",
+          "valley_tubular",
+          "valley_grody_max",
+          "valley_gag_spoon",
+          "yuppie_label",
+          "cybermall",
+          "cybercommerce",
+          "new_economy",
+          "get_big_fast",
+          "mind_share",
+          "monetizing_eyeballs",
+          "eyeballs",
+          "stickiness",
+          "friction_free",
+          "death_of_distance",
+          "disintermediation",
+          "information_superhighway",
+          "road_kill_highway",
+          "merging_electronic_traffic",
+          "all_that_bag_chips",
+          "da_bomb",
+          "as_if_formula",
+          "talk_to_hand",
+          "reengineering",
+          "dont_automate_obliterate",
+          "web_20",
+          "architecture_participation",
+          "harness_collective",
+          "data_intel_inside",
+          "web_platform",
+          "perpetual_beta",
+          "tagging_not_taxonomy",
+          "end_release_cycle",
+          "big_data",
+          "marketing_snackable",
+          "marketing_solomo",
+          "marketing_uber_of",
+          "marketing_break_internet",
+          "marketing_bae",
+          "marketing_swag",
+          "marketing_giving_life",
+          "tumblr_cant_even",
+          "tumblr_what_air",
+          "tumblr_gpoy",
+          "tumblr_keysmash",
+          "tumblr_feels_entry",
+          "tumblr_life_ruiner",
+          "tumblr_all_things",
+          "workplace_rockstar",
+          "workplace_ninja",
+          "workplace_guru",
+          "workplace_wizard",
+          "workplace_jedi",
+          "rise_and_grind",
+          "hustle_harder",
+          "hustle_culture",
+          "nft_wagmi",
+          "nft_gm",
+          "nft_gn",
+          "nft_fren",
+          "nft_looks_rare",
+          "nft_probably_nothing",
+          "nft_diamond_hands",
+          "nft_paper_hands",
+          "nft_wen_moon",
+          "nft_nfa",
+          "nft_dyor",
+          "nft_ser",
+          "nft_discord_grinding",
+          "nft_right_clicker",
+          "all_in_together",
+          "abundance_caution",
+          "uncertain_times",
+          "pandemic_pivot",
+          "pandemic_unprecedented",
+          "pandemic_new_normal",
+          "on_mute",
+          "supply_chain_issues",
+          "quiet_quitting",
+          "tuus_name",
+          "tuus_full_name",
+          "telechronistic",
+          "greek_utterance",
+          "micro_utterance",
+          "temporal_prior",
+          "kairolexica",
+          "tuus_opening",
+          "tuus_description",
+          "micro_moment"
+        ],
+        "size": 112,
+        "kairolexica": {
+          "era_1970_cb_craze": 15,
+          "era_1980_valley_girl": 12,
+          "era_1980_yuppie": 1,
+          "era_1990_affirmative_cyber": 2,
+          "era_1990_dotcom_valuation": 9,
+          "era_1990_information_highway": 3,
+          "era_1990_mass_cultural_formulas": 4,
+          "era_1990_reengineering": 2,
+          "era_2005_web_participation": 8,
+          "era_2010_big_data": 1,
+          "era_2010_social_marketing": 7,
+          "era_2010_tumblr_reactions": 7,
+          "era_2010_workplace_titles": 5,
+          "hustle_aspiration": 3,
+          "nft_community_ritual": 14,
+          "pandemic_messaging": 8,
+          "quiet_work_reframing": 1,
+          "tuus_2026": 10
+        }
+      },
+      {
+        "entries": [
+          "marketing_growth_hacking"
+        ],
+        "size": 1,
+        "kairolexica": {
+          "era_2010_social_marketing": 1
+        }
+      }
+    ]
+  },
   "semantic_coordinates": [
     {
       "entry": "cb_break_for_a_short",
-      "x": -0.040568187832832336,
-      "y": 0.17904315888881683
+      "x": 0.2049582153558731,
+      "y": -0.025012342259287834
     },
     {
       "entry": "cb_come_on_back",
-      "x": -0.05135904997587204,
-      "y": 0.17270326614379883
+      "x": 0.1754385232925415,
+      "y": 0.007894272916018963
     },
     {
       "entry": "cb_come_on_breaker",
-      "x": -0.07277651131153107,
-      "y": 0.20786923170089722
+      "x": 0.21928216516971588,
+      "y": -0.014757839031517506
     },
     {
       "entry": "cb_break",
-      "x": -0.10027757287025452,
-      "y": 0.1911095231771469
+      "x": 0.20457151532173157,
+      "y": -0.06309086084365845
     },
     {
       "entry": "cb_ears",
-      "x": -0.037696003913879395,
-      "y": 0.14689508080482483
+      "x": 0.13274706900119781,
+      "y": -0.03082088753581047
     },
     {
       "entry": "cb_eyeball",
-      "x": -0.00029113286291249096,
-      "y": -0.00033355082268826663
+      "x": 0.01541149988770485,
+      "y": -0.01717250607907772
     },
     {
       "entry": "cb_channel_roll",
-      "x": -0.05009843036532402,
-      "y": 0.23761285841464996
+      "x": 0.21255868673324585,
+      "y": 0.06045006588101387
     },
     {
       "entry": "cb_hammer_down",
-      "x": -0.03443006053566933,
-      "y": 0.06371740996837616
+      "x": 0.07637951523065567,
+      "y": -0.003389861900359392
     },
     {
       "entry": "cb_back_it_down",
-      "x": -0.00868478137999773,
-      "y": 0.20864425599575043
+      "x": 0.18732614815235138,
+      "y": 0.02795674093067646
     },
     {
       "entry": "cb_clean_shot",
-      "x": -0.08108720928430557,
-      "y": 0.08223771303892136
+      "x": 0.07690659910440445,
+      "y": -0.004326771013438702
     },
     {
       "entry": "cb_ratchet_jaw",
-      "x": -0.04835829138755798,
-      "y": 0.022651270031929016
+      "x": 0.045800741761922836,
+      "y": -0.060242265462875366
     },
     {
       "entry": "cb_good_truckin",
-      "x": -0.15290795266628265,
-      "y": 0.04819908365607262
+      "x": 0.02744007110595703,
+      "y": -0.08955881744623184
     },
     {
       "entry": "cb_fine_day",
-      "x": -0.1059224084019661,
-      "y": 0.07289683073759079
+      "x": 0.1261749416589737,
+      "y": -0.09731673449277878
     },
     {
       "entry": "cb_stack_eights",
-      "x": -0.1617068648338318,
-      "y": 0.14449270069599152
+      "x": 0.16610786318778992,
+      "y": -0.10174770653247833
     },
     {
       "entry": "cb_down_gone",
-      "x": -0.06962458789348602,
-      "y": 0.24461737275123596
+      "x": 0.21745793521404266,
+      "y": -0.04549959674477577
     },
     {
       "entry": "valley_fer_shurr",
-      "x": -0.17469896376132965,
-      "y": -0.041592616587877274
+      "x": -0.0009288444416597486,
+      "y": -0.15299159288406372
     },
     {
       "entry": "valley_maximum_brilliant",
-      "x": -0.19075921177864075,
-      "y": -0.09267965704202652
+      "x": -0.08114924281835556,
+      "y": -0.18272976577281952
     },
     {
       "entry": "valley_major_cool",
-      "x": -0.08167900145053864,
-      "y": -0.10088924318552017
+      "x": -0.09950115531682968,
+      "y": -0.10587890446186066
     },
     {
       "entry": "valley_mondo_cool",
-      "x": -0.10464537888765335,
-      "y": -0.12762314081192017
+      "x": -0.12653759121894836,
+      "y": -0.11322197318077087
     },
     {
       "entry": "valley_rilly_killer",
-      "x": -0.12338600307703018,
-      "y": -0.02846692129969597
+      "x": -0.009067288599908352,
+      "y": -0.11487323045730591
     },
     {
       "entry": "valley_kiss_my_tuna",
-      "x": -0.0811784416437149,
-      "y": 0.0919293463230133
+      "x": 0.12742547690868378,
+      "y": -0.028249209746718407
     },
     {
       "entry": "valley_im_shurr",
-      "x": -0.13173839449882507,
-      "y": 0.04413296654820442
+      "x": 0.10731381922960281,
+      "y": -0.10129863768815994
     },
     {
       "entry": "valley_joanie",
-      "x": -0.017995724454522133,
-      "y": 0.05443382263183594
+      "x": 0.03842982277274132,
+      "y": -0.02735963463783264
     },
     {
       "entry": "valley_bitchen",
-      "x": -0.14638400077819824,
-      "y": -0.06808257102966309
+      "x": -0.057120513170957565,
+      "y": -0.13729597628116608
     },
     {
       "entry": "valley_tubular",
-      "x": -0.1270655244588852,
-      "y": -0.05677785351872444
+      "x": -0.05423225089907646,
+      "y": -0.1270776242017746
     },
     {
       "entry": "valley_grody_max",
-      "x": -0.037747181951999664,
-      "y": 0.042215634137392044
+      "x": 0.050851695239543915,
+      "y": -0.027231212705373764
     },
     {
       "entry": "valley_gag_spoon",
-      "x": -0.11297141760587692,
-      "y": 0.06812864542007446
+      "x": 0.09953738003969193,
+      "y": -0.08199525624513626
     },
     {
       "entry": "yuppie_label",
-      "x": -0.058560896664857864,
-      "y": -0.16628877818584442
+      "x": -0.15093523263931274,
+      "y": -0.08045393228530884
     },
     {
       "entry": "cybermall",
-      "x": 0.1882779598236084,
-      "y": -0.04223475232720375
+      "x": -0.03594440221786499,
+      "y": 0.13264450430870056
     },
     {
       "entry": "cybercommerce",
-      "x": 0.23358407616615295,
-      "y": -0.023636095225811005
-    },
-    {
-      "entry": "cybershop",
-      "x": 0.20477411150932312,
-      "y": -0.046766046434640884
-    },
-    {
-      "entry": "cybersurf",
-      "x": 0.1728954166173935,
-      "y": 0.05046965554356575
-    },
-    {
-      "entry": "cybersurfer",
-      "x": 0.08878953754901886,
-      "y": -0.07643207907676697
-    },
-    {
-      "entry": "cyberworld",
-      "x": 0.1964210867881775,
-      "y": -0.03975407034158707
-    },
-    {
-      "entry": "cyberage",
-      "x": 0.17142599821090698,
-      "y": -0.052813880145549774
-    },
-    {
-      "entry": "cybercommunity",
-      "x": 0.08948687463998795,
-      "y": -0.051142409443855286
-    },
-    {
-      "entry": "cybersnob",
-      "x": 0.07348933070898056,
-      "y": -0.127205029129982
+      "x": -0.04303191229701042,
+      "y": 0.18572966754436493
     },
     {
       "entry": "new_economy",
-      "x": 0.18341754376888275,
-      "y": 0.08123861253261566
+      "x": 0.018363885581493378,
+      "y": 0.20039339363574982
     },
     {
       "entry": "get_big_fast",
-      "x": 0.04674709215760231,
-      "y": 0.09580899029970169
+      "x": 0.034826647490262985,
+      "y": 0.11136355251073837
     },
     {
       "entry": "mind_share",
-      "x": 0.007657650858163834,
-      "y": -0.046850502490997314
+      "x": -0.053603120148181915,
+      "y": 0.030719755217432976
     },
     {
       "entry": "monetizing_eyeballs",
-      "x": 0.09496770799160004,
-      "y": 0.015935761854052544
+      "x": -0.022375063970685005,
+      "y": 0.12689605355262756
     },
     {
       "entry": "eyeballs",
-      "x": -0.01885012537240982,
-      "y": -0.0024387200828641653
+      "x": -0.022417765110731125,
+      "y": 0.022961365059018135
     },
     {
       "entry": "stickiness",
-      "x": 0.03862901031970978,
-      "y": -0.020484013482928276
+      "x": -0.030450841411948204,
+      "y": 0.08381094038486481
     },
     {
       "entry": "friction_free",
-      "x": 0.06888482719659805,
-      "y": 0.10998689383268356
+      "x": 0.06902129203081131,
+      "y": 0.12774549424648285
     },
     {
       "entry": "death_of_distance",
-      "x": 0.07307936251163483,
-      "y": 0.15117451548576355
+      "x": 0.12839147448539734,
+      "y": 0.12128197401762009
     },
     {
       "entry": "disintermediation",
-      "x": 0.16456735134124756,
-      "y": 0.07001763582229614
-    },
-    {
-      "entry": "econosphere",
-      "x": 0.13405747711658478,
-      "y": -0.049491509795188904
+      "x": 0.030522486194968224,
+      "y": 0.20710940659046173
     },
     {
       "entry": "information_superhighway",
-      "x": 0.07342886179685593,
-      "y": -0.012003254145383835
-    },
-    {
-      "entry": "surfing_the_web",
-      "x": 0.10935856401920319,
-      "y": 0.015393807552754879
+      "x": -0.025019589811563492,
+      "y": 0.08346694707870483
     },
     {
       "entry": "road_kill_highway",
-      "x": 0.06865689903497696,
-      "y": 0.050285954028367996
+      "x": 0.04099739342927933,
+      "y": 0.10681374371051788
     },
     {
       "entry": "merging_electronic_traffic",
-      "x": 0.1322375237941742,
-      "y": -0.006015857681632042
+      "x": -0.04109431803226471,
+      "y": 0.14750632643699646
+    },
+    {
+      "entry": "all_that_bag_chips",
+      "x": -0.08444560319185257,
+      "y": -0.1220548152923584
+    },
+    {
+      "entry": "da_bomb",
+      "x": -0.07605011016130447,
+      "y": -0.16237269341945648
+    },
+    {
+      "entry": "as_if_formula",
+      "x": 0.14993184804916382,
+      "y": -0.04883218929171562
+    },
+    {
+      "entry": "talk_to_hand",
+      "x": 0.22315406799316406,
+      "y": -0.05813319981098175
     },
     {
       "entry": "reengineering",
-      "x": 0.0557795874774456,
-      "y": 0.0017043331172317266
+      "x": -0.02463461086153984,
+      "y": 0.06834233552217484
     },
     {
       "entry": "dont_automate_obliterate",
-      "x": 0.06165633723139763,
-      "y": 0.1062171459197998
-    },
-    {
-      "entry": "blank_sheet_paper",
-      "x": 0.03115702234208584,
-      "y": 0.17293678224086761
+      "x": 0.06349670886993408,
+      "y": 0.12020473182201385
     },
     {
       "entry": "web_20",
-      "x": 0.19751495122909546,
-      "y": -0.1338687539100647
+      "x": -0.1769002377986908,
+      "y": 0.19058921933174133
     },
     {
       "entry": "architecture_participation",
-      "x": 0.06354963779449463,
-      "y": -0.07769151031970978
+      "x": -0.12833434343338013,
+      "y": 0.09084772318601608
     },
     {
       "entry": "harness_collective",
-      "x": 0.06876623630523682,
-      "y": -0.13775332272052765
+      "x": -0.16831378638744354,
+      "y": 0.0836564227938652
     },
     {
       "entry": "data_intel_inside",
-      "x": 0.1307457834482193,
-      "y": -0.08777496218681335
+      "x": -0.1345871090888977,
+      "y": 0.14808446168899536
     },
     {
       "entry": "web_platform",
-      "x": 0.17743948101997375,
-      "y": -0.08544135093688965
+      "x": -0.12164165824651718,
+      "y": 0.16524210572242737
     },
     {
       "entry": "perpetual_beta",
-      "x": 0.09205566346645355,
-      "y": 0.023765169084072113
+      "x": -0.07455005496740341,
+      "y": 0.1236092820763588
     },
     {
       "entry": "tagging_not_taxonomy",
-      "x": 0.12555499374866486,
-      "y": -0.029952894896268845
+      "x": -0.07081649452447891,
+      "y": 0.14573542773723602
     },
     {
       "entry": "end_release_cycle",
-      "x": 0.12266625463962555,
-      "y": 0.06797284632921219
+      "x": 0.009333569556474686,
+      "y": 0.18266183137893677
     },
     {
       "entry": "big_data",
-      "x": 0.058484263718128204,
-      "y": -0.11000183969736099
-    },
-    {
-      "entry": "big_data_service",
-      "x": 0.15062642097473145,
-      "y": -0.09791308641433716
+      "x": -0.13234086334705353,
+      "y": 0.04776908457279205
     },
     {
       "entry": "marketing_growth_hacking",
-      "x": 0.13832350075244904,
-      "y": -0.07874485850334167
+      "x": -0.09033138304948807,
+      "y": 0.15713408589363098
     },
     {
       "entry": "marketing_snackable",
-      "x": 0.04084090143442154,
-      "y": -0.09902550280094147
+      "x": -0.12718433141708374,
+      "y": 0.07456697523593903
     },
     {
       "entry": "marketing_solomo",
-      "x": 0.06813059747219086,
-      "y": -0.09507200121879578
+      "x": -0.08076009154319763,
+      "y": 0.08393591642379761
     },
     {
       "entry": "marketing_uber_of",
-      "x": 0.07521290332078934,
-      "y": -0.07592101395130157
+      "x": -0.13149181008338928,
+      "y": 0.09907518327236176
     },
     {
       "entry": "marketing_break_internet",
-      "x": 0.10535695403814316,
-      "y": -0.049458809196949005
+      "x": -0.04241251200437546,
+      "y": 0.11985126882791519
     },
     {
       "entry": "marketing_bae",
-      "x": -0.1408325433731079,
-      "y": -0.10632842779159546
+      "x": -0.061859458684921265,
+      "y": -0.14855487644672394
     },
     {
       "entry": "marketing_swag",
-      "x": -0.11834697425365448,
-      "y": -0.20619428157806396
+      "x": -0.17572951316833496,
+      "y": -0.14045658707618713
     },
     {
       "entry": "marketing_giving_life",
-      "x": -0.15334120392799377,
-      "y": -0.055665235966444016
+      "x": -0.04794340580701828,
+      "y": -0.14448924362659454
     },
     {
       "entry": "tumblr_cant_even",
-      "x": -0.17903299629688263,
-      "y": -0.06456455588340759
+      "x": 0.025983484461903572,
+      "y": -0.15568183362483978
     },
     {
       "entry": "tumblr_what_air",
-      "x": -0.11491021513938904,
-      "y": -0.08496305346488953
+      "x": -0.028796633705496788,
+      "y": -0.12370840460062027
     },
     {
       "entry": "tumblr_gpoy",
-      "x": -0.03118371032178402,
-      "y": -0.10570894926786423
+      "x": -0.0873732715845108,
+      "y": -0.06338703632354736
     },
     {
       "entry": "tumblr_keysmash",
-      "x": -0.10548961162567139,
-      "y": -0.0836917832493782
+      "x": -0.04276655241847038,
+      "y": -0.08413375914096832
     },
     {
       "entry": "tumblr_feels_entry",
-      "x": -0.153809055685997,
-      "y": -0.11935888975858688
+      "x": -0.07674335688352585,
+      "y": -0.16372336447238922
     },
     {
       "entry": "tumblr_life_ruiner",
-      "x": -0.07470953464508057,
-      "y": -0.15346631407737732
+      "x": -0.1289774775505066,
+      "y": -0.08079922199249268
     },
     {
       "entry": "tumblr_all_things",
-      "x": -0.039889901876449585,
-      "y": -0.007478829473257065
+      "x": -0.04059862345457077,
+      "y": -0.04164322838187218
     },
     {
       "entry": "workplace_rockstar",
-      "x": -0.07574622333049774,
-      "y": -0.14309246838092804
+      "x": -0.1726301610469818,
+      "y": -0.06774915754795074
     },
     {
       "entry": "workplace_ninja",
-      "x": -0.035818979144096375,
-      "y": -0.16686731576919556
+      "x": -0.16037490963935852,
+      "y": -0.05287781357765198
     },
     {
       "entry": "workplace_guru",
-      "x": -0.07153269648551941,
-      "y": -0.17232930660247803
+      "x": -0.18738269805908203,
+      "y": -0.057097338140010834
     },
     {
       "entry": "workplace_wizard",
-      "x": -0.06410263478755951,
-      "y": -0.13710589706897736
+      "x": -0.11784660816192627,
+      "y": -0.08485213667154312
     },
     {
       "entry": "workplace_jedi",
-      "x": -0.04587152600288391,
-      "y": -0.1474662721157074
+      "x": -0.1573210209608078,
+      "y": -0.08487515896558762
     },
     {
       "entry": "rise_and_grind",
-      "x": -0.06793464720249176,
-      "y": -0.02629278227686882
+      "x": -0.051785945892333984,
+      "y": -0.0408455990254879
     },
     {
       "entry": "hustle_harder",
-      "x": -0.04282020032405853,
-      "y": -0.029793279245495796
+      "x": -0.06195307895541191,
+      "y": -0.0009430595091544092
     },
     {
       "entry": "hustle_culture",
-      "x": 0.006867138668894768,
-      "y": -0.08368849009275436
+      "x": -0.12965163588523865,
+      "y": 0.061372607946395874
     },
     {
       "entry": "nft_wagmi",
-      "x": -0.14500637352466583,
-      "y": -0.0605887696146965
+      "x": -0.0667368546128273,
+      "y": -0.11525312066078186
     },
     {
       "entry": "nft_gm",
-      "x": -0.0697690024971962,
-      "y": 0.007156550418585539
+      "x": 0.018321657553315163,
+      "y": -0.07395464181900024
     },
     {
       "entry": "nft_gn",
-      "x": -0.12177492678165436,
-      "y": 0.06687965989112854
+      "x": 0.08903127163648605,
+      "y": -0.08771730214357376
     },
     {
       "entry": "nft_fren",
-      "x": -0.159713014960289,
-      "y": -0.03795931488275528
+      "x": -0.011971496976912022,
+      "y": -0.14904138445854187
     },
     {
       "entry": "nft_looks_rare",
-      "x": -0.05066162720322609,
-      "y": -0.03948533535003662
+      "x": -0.05628360062837601,
+      "y": -0.03783427178859711
     },
     {
       "entry": "nft_probably_nothing",
-      "x": -0.04976332560181618,
-      "y": -0.00487465038895607
+      "x": -0.007348829880356789,
+      "y": -0.030808929353952408
     },
     {
       "entry": "nft_diamond_hands",
-      "x": -0.08022874593734741,
-      "y": 0.024766743183135986
+      "x": 0.038909487426280975,
+      "y": -0.06263341009616852
     },
     {
       "entry": "nft_paper_hands",
-      "x": -0.009823608212172985,
-      "y": 0.08180361986160278
+      "x": 0.08532065898180008,
+      "y": 0.029264941811561584
     },
     {
       "entry": "nft_wen_moon",
-      "x": 0.01783205382525921,
-      "y": 0.07360109686851501
+      "x": 0.027131980285048485,
+      "y": 0.03246055170893669
     },
     {
       "entry": "nft_nfa",
-      "x": 0.02372903935611248,
-      "y": 0.11907122284173965
+      "x": 0.09519583731889725,
+      "y": 0.06560338288545609
     },
     {
       "entry": "nft_dyor",
-      "x": 0.06265608966350555,
-      "y": 0.08432941138744354
+      "x": 0.05209331586956978,
+      "y": 0.08908287435770035
     },
     {
       "entry": "nft_ser",
-      "x": -0.06956319510936737,
-      "y": -0.0516793355345726
+      "x": -0.023046912625432014,
+      "y": -0.07469925284385681
     },
     {
       "entry": "nft_discord_grinding",
-      "x": 0.016991108655929565,
-      "y": 0.013671296648681164
+      "x": 0.01588844135403633,
+      "y": 0.04136490449309349
     },
     {
       "entry": "nft_right_clicker",
-      "x": 0.10549583286046982,
-      "y": 0.0016081681242212653
+      "x": -0.009849905036389828,
+      "y": 0.14915037155151367
     },
     {
       "entry": "all_in_together",
-      "x": -0.04791959375143051,
-      "y": -0.002324949251487851
+      "x": 0.01608477346599102,
+      "y": -0.03632532060146332
     },
     {
       "entry": "abundance_caution",
-      "x": -0.05125028267502785,
-      "y": 0.0758892372250557
+      "x": 0.021340910345315933,
+      "y": -0.03205008804798126
     },
     {
       "entry": "uncertain_times",
-      "x": -0.05727463960647583,
-      "y": 0.09746354073286057
+      "x": 0.10054938495159149,
+      "y": -0.053224362432956696
     },
     {
       "entry": "pandemic_pivot",
-      "x": 0.028816135600209236,
-      "y": 0.13146455585956573
+      "x": 0.08567692339420319,
+      "y": 0.07257266342639923
     },
     {
       "entry": "pandemic_unprecedented",
-      "x": -0.05963342636823654,
-      "y": 0.04500993341207504
+      "x": 0.03905816003680229,
+      "y": -0.05682580918073654
     },
     {
       "entry": "pandemic_new_normal",
-      "x": 0.04823833703994751,
-      "y": 0.08727184683084488
+      "x": 0.0741700753569603,
+      "y": 0.05997151508927345
     },
     {
       "entry": "on_mute",
-      "x": 0.012176825664937496,
-      "y": 0.11675137281417847
+      "x": 0.15682047605514526,
+      "y": 0.025275327265262604
     },
     {
       "entry": "supply_chain_issues",
-      "x": 0.031198125332593918,
-      "y": 0.061594583094120026
+      "x": 0.04786989092826843,
+      "y": 0.05468648299574852
     },
     {
       "entry": "quiet_quitting",
-      "x": -0.07789379358291626,
-      "y": 0.073337122797966
+      "x": 0.07974651455879211,
+      "y": -0.02260720729827881
     },
     {
       "entry": "tuus_name",
-      "x": 0.0638648048043251,
-      "y": -0.0026742015033960342
+      "x": -0.0008659333689138293,
+      "y": 0.05141742527484894
     },
     {
       "entry": "tuus_full_name",
-      "x": 0.05464315041899681,
-      "y": 0.014188848435878754
+      "x": 0.03715212270617485,
+      "y": 0.04629405960440636
     },
     {
       "entry": "telechronistic",
-      "x": 0.0384293831884861,
-      "y": 0.02949587255716324
+      "x": 0.024251308292150497,
+      "y": 0.05436794459819794
     },
     {
       "entry": "greek_utterance",
-      "x": -0.06393542140722275,
-      "y": -0.023838426917791367
+      "x": 0.019694633781909943,
+      "y": -0.08705703169107437
     },
     {
       "entry": "micro_utterance",
-      "x": -0.04336356371641159,
-      "y": -0.012229712679982185
+      "x": 0.0310533307492733,
+      "y": -0.06917207688093185
     },
     {
       "entry": "temporal_prior",
-      "x": 0.03209134191274643,
-      "y": 0.013307866640388966
+      "x": -0.01590717025101185,
+      "y": 0.040968749672174454
     },
     {
       "entry": "kairolexica",
-      "x": -0.0322265550494194,
-      "y": -0.10526170581579208
+      "x": -0.10269609838724136,
+      "y": -0.05251132696866989
     },
     {
       "entry": "tuus_opening",
-      "x": 0.0658656656742096,
-      "y": 0.06425345689058304
+      "x": 0.049505192786455154,
+      "y": 0.09382183849811554
     },
     {
       "entry": "tuus_description",
-      "x": 0.09739390760660172,
-      "y": 0.0652155801653862
+      "x": 0.04982258379459381,
+      "y": 0.11279190331697464
     },
     {
       "entry": "micro_moment",
-      "x": 0.04363951459527016,
-      "y": -0.010974537581205368
+      "x": -0.018186336383223534,
+      "y": 0.036000628024339676
     }
   ]
 }

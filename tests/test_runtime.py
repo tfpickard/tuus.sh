@@ -14,7 +14,7 @@ from tuus.runtime import Runtime
 class FixedModel:
     def synthesize(self, intent, records, seed):
         assert records
-        return f"Please collect the printouts, {records[0]['surface']}."
+        return "Please collect the printouts. " + ". ".join(record["surface"] for record in records) + "."
 
 
 def test_request_path_never_encodes_corpus_or_calls_other_model(monkeypatch):
@@ -43,6 +43,8 @@ def test_root_and_subpath_identical_build_and_generation(tmp_path):
     with TestClient(create_app(tmp_path, runtime=runtime, mounts=("", "/tuus"))) as client:
         assert client.get("/").content == client.get("/tuus/").content
         assert client.get("/assets/app.js").content == client.get("/tuus/assets/app.js").content
+        redirect = client.get("/tuus?path=https://example.org", follow_redirects=False)
+        assert redirect.headers["location"] == "/tuus/"
         for prefix in ("", "/tuus"):
             response = client.post(prefix + "/api/synthesize", json={"intent": "collect printouts", "prior": default_prior().model_dump()})
             assert response.status_code == 200

@@ -10,7 +10,7 @@ def make_entry():
                      kairolexica=[group], signature=Signature(onset=onset, peak=peak, fade=fade,
                                                              fade_status="estimated", confidence="medium"),
                      gloss="A curated expression of encouragement.", functions=["praising", "requesting"],
-                     examples=[Example(text="Please proceed with this expression.", kind="constructed")],
+                     examples=[Example(text=f"Please proceed with {identifier.replace('_', ' ')}.", kind="constructed")],
                      rationale="Temporal parameters are estimated for a bounded test moment.",
                      source_ids=["source"], review_status="accepted")
     return make

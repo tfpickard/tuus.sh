@@ -11,17 +11,20 @@ def test_entire_corpus_validates():
     assert len(entries_of(corpora)) >= 80
 
 
-@pytest.mark.parametrize("mutation", ["membership", "source", "duplicate", "unreviewed"])
+@pytest.mark.parametrize("mutation", ["membership", "source", "duplicate", "unreviewed", "example"])
 def test_validation_rejects_corrupt_corpus(tmp_path, make_entry, make_group, mutation):
     group = make_group("small", [make_entry()]).model_dump()
     if mutation == "membership": group["entries"][0]["kairolexica"] = ["missing"]
     if mutation == "source": group["entries"][0]["source_ids"] = ["missing"]
     if mutation == "duplicate": group["entries"].append(group["entries"][0].copy())
     if mutation == "unreviewed": group["entries"][0]["review_status"] = "candidate"
+    if mutation == "example": group["entries"][0]["examples"][0]["text"] = "An unrelated quotation."
     directory = tmp_path / "corpus/kairolexica"
     directory.mkdir(parents=True)
     (directory / "small.json").write_text(json.dumps(group))
-    with pytest.raises(ValueError):
+    errors = {"membership": "undeclared", "source": "unknown source", "duplicate": "Duplicate entry",
+              "unreviewed": "unaccepted", "example": "example omits"}
+    with pytest.raises(ValueError, match=errors[mutation]):
         load_corpus(tmp_path)
 
 
