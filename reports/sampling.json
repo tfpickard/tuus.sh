@@ -1,0 +1,57 @@
+{
+  "seed": 314159,
+  "draws_per_case": 10000,
+  "tight_prior_results": [
+    {
+      "year": 1976,
+      "sample_coverage": 1.0,
+      "center_coverage": 1.0,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 1982,
+      "sample_coverage": 1.0,
+      "center_coverage": 0.9752,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 1996,
+      "sample_coverage": 1.0,
+      "center_coverage": 1.0,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 2007,
+      "sample_coverage": 1.0,
+      "center_coverage": 0.9972,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 2012,
+      "sample_coverage": 1.0,
+      "center_coverage": 0.9919,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 2021,
+      "sample_coverage": 1.0,
+      "center_coverage": 0.9641,
+      "fallback_fraction": 0.0
+    },
+    {
+      "year": 2026,
+      "sample_coverage": 0.9999,
+      "center_coverage": 0.995,
+      "fallback_fraction": 0.0001
+    }
+  ],
+  "boundary_mixture": {
+    "expected_first_fraction": 0.25,
+    "observed_first_fraction": 0.254,
+    "tolerance": 0.02,
+    "integral": 1.0000000000000002
+  },
+  "axis_probe_count": 1000,
+  "empty_retrievals": 0,
+  "sparse_population_checks": "Independent synthetic 1:100 and 1:10 fixtures in tests/test_retrieval.py"
+}

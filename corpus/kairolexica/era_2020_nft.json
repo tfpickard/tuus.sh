@@ -1,0 +1,556 @@
+{
+  "schema_version": 1,
+  "id": "nft_community_ritual",
+  "name": "Speculative NFT community ritual",
+  "window": {
+    "start": 2020.5,
+    "end": 2024
+  },
+  "description": "The greeting, encouragement, appraisal, and disclaimer repertoire of the 2021–2022 speculative NFT community expansion.",
+  "cause_of_death": "Ownership criticism and subsequent speculative-collection collapse displaced the universal-success narrative; several expressions persist in narrower communities.",
+  "sources": [
+    {
+      "id": "decrypt_slang_2022",
+      "title": "GM, WAGMI, GN: Decrypt Ultimate Guide to Bitcoin and NFT Slang",
+      "url": "https://decrypt.co/99724/gm-wagmi-gn-decrypts-ultimate-guide-to-bitcoin-and-nft-slang",
+      "published": "2022-05-08",
+      "accessed": "2026-10-11",
+      "note": "Inspected contemporary glossary with explicit meanings and usage examples; it notes that some vocabulary predates the NFT moment."
+    },
+    {
+      "id": "verge_web3_2021",
+      "title": "Jack Dorsey says VCs really own Web3",
+      "url": "https://www.theverge.com/2021/12/21/22848162/jack-dorsey-web3-criticism-a16z-ownership-venture-capital-twitter",
+      "published": "2021-12-21",
+      "accessed": "2026-10-11",
+      "note": "Inspected contemporary account of Web3 ownership criticism; directly attests right-clicker mentality and disputes booster claims."
+    },
+    {
+      "id": "moxie_web3_2022",
+      "title": "My first impressions of web3",
+      "url": "https://moxie.org/2022/01/07/web3-first-impressions.html",
+      "published": "2022-01-07",
+      "accessed": "2026-10-11",
+      "note": "Inspected contemporary technical critique; attests NFT drop and analyzes centralized infrastructure beneath decentralization claims."
+    },
+    {
+      "id": "guardian_nft_2023",
+      "title": "The vast majority of NFTs are now worthless, new report shows",
+      "url": "https://www.theguardian.com/technology/2023/sep/22/nfts-worthless-price",
+      "published": "2023-09-22",
+      "accessed": "2026-10-11",
+      "note": "Reports post-2021 collapse in speculative NFT collections. This is era-level displacement evidence, not a measurement of each phrase frequency."
+    }
+  ],
+  "entries": [
+    {
+      "id": "nft_wagmi",
+      "surface": "WAGMI",
+      "variants": [
+        "we're all gonna make it"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Collective encouragement expressing confidence that all participants will succeed.",
+      "functions": [
+        "hyping",
+        "praising",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "WAGMI; thank you for carrying the review to completion.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_gm",
+      "surface": "GM",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A community greeting expressing morning goodwill and group affiliation.",
+      "functions": [
+        "greeting",
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "GM; please send the revised schedule before noon.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_gn",
+      "surface": "GN",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An evening farewell indicating that the speaker is concluding participation.",
+      "functions": [
+        "greeting",
+        "deferring",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "GN; I will review the draft tomorrow morning.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_fren",
+      "surface": "fren",
+      "variants": [
+        "frens"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A familiar community address for a friend or supportive participant.",
+      "functions": [
+        "greeting",
+        "requesting",
+        "thanking",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Thank you, fren, for covering my shift.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_looks_rare",
+      "surface": "looks rare",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2021,
+        "peak": 2021.8,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A formula of appraisal referring to distinctive traits or perceived scarcity.",
+      "functions": [
+        "praising",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Your finished presentation looks rare; thank you for preparing it.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_probably_nothing",
+      "surface": "probably nothing",
+      "variants": [
+        "probably something"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2021,
+        "peak": 2021.8,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An understated signal that an announcement or achievement warrants attention.",
+      "functions": [
+        "hyping",
+        "praising",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "The presentation is complete ahead of schedule. Probably nothing.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_diamond_hands",
+      "surface": "diamond hands",
+      "variants": [
+        "diamond-handing"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.5,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Persistence in retaining a commitment despite pressure to abandon it.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Thank you for your diamond hands through the final review.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_paper_hands",
+      "surface": "paper hands",
+      "variants": [
+        "paper-handing"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.5,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A label for withdrawing a commitment early in response to uncertainty.",
+      "functions": [
+        "declining",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "I have paper hands on this proposal and must decline.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_wen_moon",
+      "surface": "wen moon",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A compressed question asking when a hoped-for dramatic improvement will occur.",
+      "functions": [
+        "requesting",
+        "scheduling",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Wen moon for the revised presentation? Please send it by noon.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_nfa",
+      "surface": "not financial advice",
+      "variants": [
+        "NFA"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A disclaimer distancing a speaker from responsibility for a recommendation.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Please consider the revised plan; not financial advice.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_dyor",
+      "surface": "do your own research",
+      "variants": [
+        "DYOR"
+      ],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2020.5,
+        "peak": 2021.75,
+        "fade": 2024,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An instruction to verify a claim independently before acting on it.",
+      "functions": [
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Please do your own research and review the figures before approval.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Not financial advice. Do your own research.",
+          "kind": "attested",
+          "source_id": "decrypt_slang_2022"
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_ser",
+      "surface": "ser",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2021,
+        "peak": 2021.8,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A stylized respectful community address for another participant.",
+      "functions": [
+        "greeting",
+        "requesting",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Thank you, ser, for delivering the printouts.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "gm ser",
+          "kind": "attested",
+          "source_id": "decrypt_slang_2022"
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_discord_grinding",
+      "surface": "Discord grinding",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2021,
+        "peak": 2021.8,
+        "fade": 2023.5,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Repeated community participation performed to secure access or recognition.",
+      "functions": [
+        "informing",
+        "requesting",
+        "praising"
+      ],
+      "examples": [
+        {
+          "text": "Thank you for the Discord grinding that kept the review active.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The May 2022 Decrypt glossary directly attests the surface and community meaning. Contemporary criticism in 2021–2022 and the reported 2023 NFT market collapse bound the speculative community moment. Dates estimate salience in that moment, not first use or total disappearance; no per-phrase frequency series has been established.",
+      "source_ids": [
+        "decrypt_slang_2022",
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "nft_right_clicker",
+      "surface": "right-clicker mentality",
+      "variants": [],
+      "kairolexica": [
+        "nft_community_ritual"
+      ],
+      "signature": {
+        "onset": 2021,
+        "peak": 2021.8,
+        "fade": 2023,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A community characterization of skepticism about digitally certified ownership.",
+      "functions": [
+        "declining",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "My right-clicker mentality prevents me from endorsing this proposal.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The December 2021 Verge account directly attests the expression as a response to NFT skeptics. The 2023 reported NFT collapse bounds the booster moment; onset, peak and fade are estimated, with no claim that skepticism or the expression became extinct.",
+      "source_ids": [
+        "verge_web3_2021",
+        "guardian_nft_2023"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

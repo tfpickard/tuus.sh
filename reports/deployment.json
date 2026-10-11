@@ -1,0 +1,12 @@
+{
+  "frontend_build": "single Vite build with relative asset paths",
+  "local_origins": [
+    "http://127.0.0.1:8000/",
+    "http://127.0.0.1:8000/tuus/"
+  ],
+  "container_image": "tuus:verification",
+  "container_health": "HTTP 200 at /tuus/api/health",
+  "container_page": "HTTP 200 at /tuus/",
+  "container_runs_as_uid": 10001,
+  "public_deployment": "Not performed; VPS and DNS access are not configured."
+}

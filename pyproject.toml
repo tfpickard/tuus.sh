@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling>=1.25,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tuus"
+version = "0.1.0"
+description = "Telechronistic micro-utterance synthesis from user-defined temporal priors over curated kairolexica."
+requires-python = ">=3.11"
+license = "MPL-2.0"
+license-files = ["LICENSE"]
+dependencies = [
+  "fastapi>=0.115,<1", "pydantic>=2.10,<3", "uvicorn>=0.30,<1", "numpy>=1.26,<3",
+  "httpx>=0.27,<1", "onnxruntime>=1.19,<2", "tokenizers>=0.20,<1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+tuus = "tuus.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tuus"]

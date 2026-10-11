@@ -1,0 +1,388 @@
+{
+  "schema_version": 1,
+  "id": "era_2005_web_participation",
+  "name": "Participatory-web promotional principles",
+  "window": {
+    "start": 2004,
+    "end": 2011
+  },
+  "description": "The conference and startup vocabulary that presented the participatory web as a distinct technological phase.",
+  "cause_of_death": "Semantic diffusion, saturation, and documented loss of promotional novelty by 2009; the technologies continued.",
+  "sources": [
+    {
+      "id": "web2_oreilly",
+      "title": "What Is Web 2.0",
+      "url": "https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html",
+      "published": "2005-09-30",
+      "accessed": "2026-10-11",
+      "note": "Primary statement of the promotional framework; not evidence that each slogan was newly coined."
+    },
+    {
+      "id": "web2_fowler",
+      "title": "Web2.0",
+      "url": "https://martinfowler.com/bliki/Web2.0.html",
+      "published": "2006-12-14",
+      "accessed": "2026-10-11",
+      "note": "Contemporary list of named principles and discussion of semantic diffusion."
+    },
+    {
+      "id": "web2_death",
+      "title": "The Death Of \"Web 2.0\"",
+      "url": "https://techcrunch.com/2009/02/14/the-death-of-web-20/",
+      "published": "2009-02-14",
+      "accessed": "2026-10-11",
+      "note": "Contemporary report describes Google Trends growth during 2005 through end-2007 and decline thereafter."
+    },
+    {
+      "id": "web2_sterling",
+      "title": "What Bruce Sterling Actually Said About Web 2.0 at Webstock 09",
+      "url": "https://www.wired.com/2009/03/what-bruce-ster/",
+      "published": "2009-03-01",
+      "accessed": "2026-10-11",
+      "note": "Speech transcript reports lost novelty and interrogates slogans including architecture of participation and folksonomy."
+    },
+    {
+      "id": "web2_reference",
+      "title": "Web 2.0",
+      "url": "https://en.wikipedia.org/wiki/Web_2.0",
+      "published": "2026-10-07",
+      "accessed": "2026-10-11",
+      "note": "Retrospective reference explicitly lists perpetual beta; exact historical dating relies on contemporary sources elsewhere."
+    }
+  ],
+  "entries": [
+    {
+      "id": "web_20",
+      "surface": "Web 2.0",
+      "variants": [
+        "web 2.0"
+      ],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional designation for the participatory web as a new cultural and commercial phase.",
+      "functions": [
+        "hyping",
+        "informing",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Could you give these printouts the Web 2.0 treatment and share them with the team?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Tracking Web 2.0",
+          "kind": "attested",
+          "source_id": "web2_death"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "architecture_participation",
+      "surface": "architecture of participation",
+      "variants": [],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A Web 2.0 slogan presenting contributions from users as the organizing principle.",
+      "functions": [
+        "requesting",
+        "praising",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Thank you for bringing an architecture of participation to our shift coverage.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "architecture of participation",
+          "kind": "attested",
+          "source_id": "web2_sterling"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "harness_collective",
+      "surface": "harnessing collective intelligence",
+      "variants": [
+        "harness collective intelligence"
+      ],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional appeal to pooling user contributions into superior collective results.",
+      "functions": [
+        "requesting",
+        "praising",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Let us harness collective intelligence and arrange coverage for Friday.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Harnessing Collective Intelligence",
+          "kind": "attested",
+          "source_id": "web2_fowler"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "data_intel_inside",
+      "surface": "data is the next Intel Inside",
+      "variants": [],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A Web 2.0 slogan treating ownership of a distinctive database as strategic advantage.",
+      "functions": [
+        "hyping",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Data is the next Intel Inside; could you bring the printouts to the meeting?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Data is the Next Intel Inside",
+          "kind": "attested",
+          "source_id": "web2_fowler"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "web_platform",
+      "surface": "the web as platform",
+      "variants": [
+        "web as platform"
+      ],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional principle moving software and interaction onto the network.",
+      "functions": [
+        "informing",
+        "hyping",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Let us use the web as platform and schedule the review together.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "The Web As Platform",
+          "kind": "attested",
+          "source_id": "web2_fowler"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "perpetual_beta",
+      "surface": "perpetual beta",
+      "variants": [],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A Web 2.0 slogan for services undergoing continuous revision rather than finished releases.",
+      "functions": [
+        "apologizing",
+        "deferring",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "The schedule remains in perpetual beta; could we defer the review until Friday?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "perpetual beta",
+          "kind": "attested",
+          "source_id": "web2_reference"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling",
+        "web2_reference"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "tagging_not_taxonomy",
+      "surface": "tagging not taxonomy",
+      "variants": [],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A Web 2.0 promotional preference for user tags over centrally imposed classifications.",
+      "functions": [
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Tagging not taxonomy: could you label these printouts for the team?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Tagging not taxonomy.",
+          "kind": "attested",
+          "source_id": "web2_sterling"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "end_release_cycle",
+      "surface": "end of the software release cycle",
+      "variants": [],
+      "kairolexica": [
+        "era_2005_web_participation"
+      ],
+      "signature": {
+        "onset": 2004,
+        "peak": 2007,
+        "fade": 2011,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A Web 2.0 principle presenting continuous service changes as the end of packaged release cadence.",
+      "functions": [
+        "hyping",
+        "informing",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "This marks the end of the software release cycle; we will revise the schedule continuously.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "End of the Software Release Cycle",
+          "kind": "attested",
+          "source_id": "web2_fowler"
+        }
+      ],
+      "rationale": "The term is curated as a promotional slogan of the Web 2.0 moment, not as a claim that its underlying practice vanished. Contemporary 2005/2006 statements attest the form; 2009 criticism establishes saturation and lost novelty. Onset and peak interpolate the 2004 conference-to-2007 publicity interval; the 2011 fade is an estimated register boundary, not a measured last use.",
+      "source_ids": [
+        "web2_oreilly",
+        "web2_fowler",
+        "web2_death",
+        "web2_sterling"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

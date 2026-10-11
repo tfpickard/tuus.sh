@@ -1,0 +1,405 @@
+{
+  "schema_version": 1,
+  "id": "era_2010_social_marketing",
+  "name": "Social-mobile promotional saturation",
+  "window": {
+    "start": 2010,
+    "end": 2021
+  },
+  "description": "Compressed marketing labels, startup-pitch comparisons, and reaction expressions absorbed into the mid-2010s promotional register.",
+  "cause_of_death": "Public banishment lists and professional criticism identify saturation; subsequent ordinary or community use is not erased.",
+  "sources": [
+    {
+      "id": "marketing_vb",
+      "title": "Hyperdata, growth hacker, and other awful buzzwords that will rule in 2014",
+      "url": "https://venturebeat.com/business/hyperdata-growth-hacker-other-awful-buzzwords-that-will-rule-in-2014",
+      "published": "2013-12-25",
+      "accessed": "2026-10-11",
+      "note": "Contemporary growth-hacker uptake and criticism; forecasts for other terms are not proof that those forecasts came true."
+    },
+    {
+      "id": "marketing_wordstream",
+      "title": "The Ultimate A-Z Marketing Buzzwords Bible",
+      "url": "https://www.wordstream.com/blog/ws/2015/02/23/marketing-buzzwords",
+      "published": "2015-02-23; updated 2023-11-14",
+      "accessed": "2026-10-11",
+      "note": "Period URL and updated article define snackable content and SoLoMo with explicit criticism; revisions may affect current wording."
+    },
+    {
+      "id": "marketing_collective",
+      "title": "The Business Buzzwords That Should be Banned",
+      "url": "https://collectivehub.com/2017/08/the-business-buzzwords-that-should-be-banned/",
+      "published": "2017-08-25",
+      "accessed": "2026-10-11",
+      "note": "Contemporary backlash against snackable content, growth hacking, and The Uber of constructions."
+    },
+    {
+      "id": "marketing_brafton",
+      "title": "8 Content Marketing Buzzwords To Nix Once And For All",
+      "url": "https://www.brafton.com/blog/distribution/8-content-marketing-buzzwords-to-nix-in-the-new-year/",
+      "published": "2024-04-03",
+      "accessed": "2026-10-11",
+      "note": "Retrospective identifies growth hacking as a dated 2010 trend and documents continuing rejection of snackable content."
+    },
+    {
+      "id": "marketing_solomock",
+      "title": "You Say SoLoMo, I Say I Hate My Life",
+      "url": "https://techcrunch.com/2012/03/24/die-solomo-die/",
+      "published": "2012-03-24",
+      "accessed": "2026-10-11",
+      "note": "Contemporary criticism of the social-local-mobile acronym and startup buzzword inflation."
+    },
+    {
+      "id": "marketing_solodead",
+      "title": "SoLoMo is Dead. Long Live Snapchat!",
+      "url": "https://www.huffpost.com/entry/solomo-is-dead-long-live_b_9470740",
+      "published": "2016-03-29",
+      "accessed": "2026-10-11",
+      "note": "An advocate of the 2011 manifesto describes the era ending in 2016; contributor opinion, not frequency measurement."
+    },
+    {
+      "id": "marketing_ban2015",
+      "title": "10 Words and Phrases That Should Be Banished In 2015",
+      "url": "https://patch.com/michigan/dearborn/bae-polar-vortex-and-other-words-should-be-banished-0",
+      "published": "2014-12-31",
+      "accessed": "2026-10-11",
+      "note": "Reports public nominations criticizing saturation of bae and swag. Its acronym etymology for bae is not adopted."
+    },
+    {
+      "id": "marketing_ban2016",
+      "title": "Banish these words in 2016, school says",
+      "url": "https://edition.cnn.com/2016/01/01/living/2016-banished-words-feat/index.html",
+      "published": "2016-01-01",
+      "accessed": "2026-10-11",
+      "note": "Dates break the Internet popularization to November 2014 and reports backlash against it and giving me life."
+    }
+  ],
+  "entries": [
+    {
+      "id": "marketing_growth_hacking",
+      "surface": "growth hacking",
+      "variants": [
+        "growth hacker",
+        "growth-hacking"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2014,
+        "fade": 2021,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A startup marketing identity emphasizing experimental, technical routes to rapid expansion.",
+      "functions": [
+        "hyping",
+        "informing",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Could we apply some growth hacking to attendance at Friday's review?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Growth hacking",
+          "kind": "attested",
+          "source_id": "marketing_collective"
+        }
+      ],
+      "rationale": "The 2013 VentureBeat article records rapid uptake and contemporary rejection. Brafton retrospectively calls it an antiquated 2010 trend. A 2014 peak and 2021 fade are inferred, not counts; the underlying marketing practice continues.",
+      "source_ids": [
+        "marketing_vb",
+        "marketing_collective",
+        "marketing_brafton"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_snackable",
+      "surface": "snackable content",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2012,
+        "peak": 2015,
+        "fade": 2020,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A marketing metaphor for short, easily consumed media fragments.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Could you make these printouts snackable content for the review?",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Snackable content",
+          "kind": "attested",
+          "source_id": "marketing_collective"
+        }
+      ],
+      "rationale": "The period WordStream URL documents the expression with Vine as its example; the text was later updated. Collective Hub explicitly rejects it in 2017 and Brafton still critiques it in 2024. The signature is an estimated mid-2010s promotional flare, not technical obsolescence.",
+      "source_ids": [
+        "marketing_wordstream",
+        "marketing_collective",
+        "marketing_brafton"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_solomo",
+      "surface": "SoLoMo",
+      "variants": [
+        "social-local-mobile",
+        "social, local, mobile"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2012,
+        "fade": 2017,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A compressed marketing designation for convergence of social, local, and mobile activity.",
+      "functions": [
+        "hyping",
+        "informing",
+        "requesting"
+      ],
+      "examples": [
+        {
+          "text": "Let us make the meeting SoLoMo: share the location and join from your phone.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "social-local-mobile",
+          "kind": "attested",
+          "source_id": "marketing_solodead"
+        }
+      ],
+      "rationale": "TechCrunch explicitly ridicules SoLoMo in March 2012. A manifesto author's March 2016 retrospective identifies a 2011 manifesto and describes the era as ending. The exact peak and 2017 endpoint are inferred; the underlying capabilities became ordinary.",
+      "source_ids": [
+        "marketing_solomock",
+        "marketing_solodead",
+        "marketing_wordstream"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_uber_of",
+      "surface": "the Uber of",
+      "variants": [
+        "The Uber of"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2013,
+        "peak": 2015,
+        "fade": 2019,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A startup-pitch template presenting an offering as on-demand intermediation for another domain.",
+      "functions": [
+        "hyping",
+        "praising",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "This printout service is the Uber of meeting preparation.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "The Uber of",
+          "kind": "attested",
+          "source_id": "marketing_collective"
+        }
+      ],
+      "rationale": "Collective Hub documents frequent use and explicit rejection in August 2017. The 2013 onset, 2015 peak, and 2019 fade are an estimated pitch-register envelope rather than independently measured frequencies.",
+      "source_ids": [
+        "marketing_collective"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_break_internet",
+      "surface": "break the Internet",
+      "variants": [
+        "break the internet",
+        "breaking the Internet",
+        "broke the Internet"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2014,
+        "peak": 2015,
+        "fade": 2018,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A promotional claim that extraordinary attention will overwhelm the entire network.",
+      "functions": [
+        "hyping",
+        "praising",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "These printouts will break the Internet; bring them to Friday's review.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "break the Internet",
+          "kind": "attested",
+          "source_id": "marketing_ban2016"
+        }
+      ],
+      "rationale": "CNN dates the popularizing Paper cover to November 2014 and reports the January 2016 banishment backlash. The 2015 peak and 2018 fade interpolate that short publicity cycle; continuing figurative uses remain possible.",
+      "source_ids": [
+        "marketing_ban2016"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_bae",
+      "surface": "bae",
+      "variants": [],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2011,
+        "peak": 2014,
+        "fade": 2017,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A clipped term of affection extended to objects and promotional enthusiasm during a brief mainstream flare.",
+      "functions": [
+        "thanking",
+        "praising",
+        "greeting"
+      ],
+      "examples": [
+        {
+          "text": "You brought the printouts, bae. Thank you.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "bae",
+          "kind": "attested",
+          "source_id": "marketing_ban2015"
+        }
+      ],
+      "rationale": "The December 2014 banishment report records the label extending to food and intense overuse complaints. Dating describes that mainstream promotional flare, not its origin in Black English. Onset and fade are estimated; the article's before-anyone-else explanation is not treated as verified etymology.",
+      "source_ids": [
+        "marketing_ban2015"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_swag",
+      "surface": "swag",
+      "variants": [
+        "swaggy"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2010,
+        "peak": 2013,
+        "fade": 2016,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A period promotional expression of conspicuous confidence and fashionable appeal.",
+      "functions": [
+        "praising",
+        "hyping",
+        "thanking"
+      ],
+      "examples": [
+        {
+          "text": "Those printouts have swag; thank you for bringing them.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "swaggy",
+          "kind": "attested",
+          "source_id": "marketing_ban2015"
+        }
+      ],
+      "rationale": "The December 2014 report records public complaints that swag and swaggy had become overused and semantically diffuse. The signature estimates the 2010s mainstream flare, not the origin of the older word or promotional merchandise sense.",
+      "source_ids": [
+        "marketing_ban2015"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "marketing_giving_life",
+      "surface": "giving me life",
+      "variants": [
+        "gives me life"
+      ],
+      "kairolexica": [
+        "era_2010_social_marketing"
+      ],
+      "signature": {
+        "onset": 2013,
+        "peak": 2015,
+        "fade": 2018,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "An emphatic expression that something positive supplies overwhelming vitality or pleasure.",
+      "functions": [
+        "praising",
+        "thanking",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Your shift coverage is giving me life. Thank you.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "giving me life!",
+          "kind": "attested",
+          "source_id": "marketing_ban2016"
+        }
+      ],
+      "rationale": "CNN records public backlash against this specific positive-reaction expression in January 2016. Boundaries estimate the mid-2010s mainstream flare rather than its origins in earlier queer and Black speech communities; no extinction is claimed.",
+      "source_ids": [
+        "marketing_ban2016"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

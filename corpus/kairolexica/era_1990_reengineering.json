@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "id": "era_1990_reengineering",
+  "name": "Reengineering evangelism",
+  "window": {
+    "start": 1990,
+    "end": 2000
+  },
+  "description": "Radical process-redesign rhetoric associated with the early-1990s consulting expansion.",
+  "cause_of_death": "Public apologies, implementation failures, and identification with layoffs produced documented backlash.",
+  "sources": [
+    {
+      "id": "hammer_obliterate",
+      "title": "Reengineering Work: Don't Automate, Obliterate",
+      "url": "https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate",
+      "published": "1990-07",
+      "accessed": "2026-10-11",
+      "note": "Original article title establishes the movement's destructive-redesign slogan; paywall limits inspected material."
+    },
+    {
+      "id": "kleiner_reengineering",
+      "title": "Revisiting Reengineering",
+      "url": "https://www.strategy-business.com/article/19570",
+      "published": "2000-07-01",
+      "accessed": "2026-10-11",
+      "note": "Retrospective describes fast consulting adoption followed by public apologies and workforce backlash from 1995."
+    }
+  ],
+  "entries": [
+    {
+      "id": "reengineering",
+      "surface": "reengineering",
+      "variants": [
+        "re-engineering",
+        "business process reengineering",
+        "BPR"
+      ],
+      "kairolexica": [
+        "era_1990_reengineering"
+      ],
+      "signature": {
+        "onset": 1990,
+        "peak": 1994,
+        "fade": 2000,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A radical redesign of work presented as a transformational management intervention.",
+      "functions": [
+        "requesting",
+        "hyping",
+        "informing"
+      ],
+      "examples": [
+        {
+          "text": "Could you help reengineer the printout collection process?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "The original 1990 article anchors onset; the 1994 consulting expansion and backlash from 1995 support a bounded moment. Peak and terminal fade are estimates.",
+      "source_ids": [
+        "hammer_obliterate",
+        "kleiner_reengineering"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "dont_automate_obliterate",
+      "surface": "don't automate, obliterate",
+      "variants": [
+        "do not automate, obliterate"
+      ],
+      "kairolexica": [
+        "era_1990_reengineering"
+      ],
+      "signature": {
+        "onset": 1990,
+        "peak": 1993,
+        "fade": 1998,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Replace an existing process rather than improving its automation.",
+      "functions": [
+        "hyping",
+        "requesting",
+        "declining"
+      ],
+      "examples": [
+        {
+          "text": "For the filing process, don't automate, obliterate; let us start again.",
+          "kind": "constructed",
+          "source_id": null
+        },
+        {
+          "text": "Don't Automate, Obliterate",
+          "kind": "attested",
+          "source_id": "hammer_obliterate"
+        }
+      ],
+      "rationale": "Exact 1990 article-title slogan. Its curve is inferred from the associated movement and backlash, not measured slogan counts.",
+      "source_ids": [
+        "hammer_obliterate",
+        "kleiner_reengineering"
+      ],
+      "review_status": "accepted"
+    },
+    {
+      "id": "blank_sheet_paper",
+      "surface": "blank sheet of paper",
+      "variants": [
+        "blank-sheet approach"
+      ],
+      "kairolexica": [
+        "era_1990_reengineering"
+      ],
+      "signature": {
+        "onset": 1991,
+        "peak": 1994,
+        "fade": 1999,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "Begin redesign without preserving inherited processes.",
+      "functions": [
+        "requesting",
+        "hyping",
+        "deferring"
+      ],
+      "examples": [
+        {
+          "text": "Could we approach next week's schedule with a blank sheet of paper?",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Kleiner identifies this phrase as the movement's radical-redesign prescription. Signature estimates refer specifically to that management sense.",
+      "source_ids": [
+        "kleiner_reengineering"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

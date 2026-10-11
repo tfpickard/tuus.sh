@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "era_1980_yuppie",
+  "name": "Yuppie demographic designation",
+  "window": {
+    "start": 1980,
+    "end": 1992
+  },
+  "description": "Rapid circulation and repudiation of an aspirational urban-professional demographic label in 1980s consumer and political discourse.",
+  "cause_of_death": "Materialism and gentrification associations turned the label pejorative; the 1987 crash preceded a reported 1991 public death declaration.",
+  "sources": [
+    {
+      "id": "yuppie_britannica",
+      "title": "Yuppie: Definition, History, Characteristics, and Gentrification",
+      "url": "https://www.britannica.com/topic/yuppie",
+      "published": "2026-10-01",
+      "accessed": "2026-10-11",
+      "note": "Emily Kendall article inspected. Gives possible 1980 print appearance, Newsweek 1984 prominence, negative connotations, and TIME 1991 death declaration. Dates are event anchors, not frequencies."
+    }
+  ],
+  "entries": [
+    {
+      "id": "yuppie_label",
+      "surface": "yuppie",
+      "variants": [
+        "yuppies",
+        "young urban professional",
+        "young upwardly mobile professional"
+      ],
+      "kairolexica": [
+        "era_1980_yuppie"
+      ],
+      "signature": {
+        "onset": 1980,
+        "peak": 1984,
+        "fade": 1992,
+        "fade_status": "estimated",
+        "confidence": "medium"
+      },
+      "gloss": "A fashionable label for an ambitious urban professional associated with material consumption.",
+      "functions": [
+        "informing",
+        "hyping"
+      ],
+      "examples": [
+        {
+          "text": "Let us give the yuppies a presentation they will remember.",
+          "kind": "constructed",
+          "source_id": null
+        }
+      ],
+      "rationale": "Britannica records possible print appearance in 1980, the 1984 year-of-the-yuppie declaration, and the 1991 death declaration following negative associations and the 1987 crash. Peak 1984 is an editorial prominence anchor; fade 1992 is estimated and does not imply the word vanished. Expansion variants belong to this entry rather than inflating the corpus.",
+      "source_ids": [
+        "yuppie_britannica"
+      ],
+      "review_status": "accepted"
+    }
+  ]
+}

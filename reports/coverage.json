@@ -1,0 +1,2851 @@
+{
+  "corpus_sha256": "769ca1c4dec1f7ac7fb848946e270cb30641bd5382226653559dfc6b9f07502d",
+  "entry_count": 120,
+  "kairolexicon_count": 17,
+  "years": [
+    {
+      "year": 1970,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 1971,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 1972,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 1973,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 1974,
+      "active_entries": 15,
+      "likelihood_mass": 5.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1975,
+      "active_entries": 15,
+      "likelihood_mass": 10.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1976,
+      "active_entries": 15,
+      "likelihood_mass": 15.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1977,
+      "active_entries": 15,
+      "likelihood_mass": 12.5,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1978,
+      "active_entries": 15,
+      "likelihood_mass": 10.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1979,
+      "active_entries": 17,
+      "likelihood_mass": 8.166666666666666,
+      "active_kairolexica": 2,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1980,
+      "active_entries": 17,
+      "likelihood_mass": 6.333333333333333,
+      "active_kairolexica": 2,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1981,
+      "active_entries": 18,
+      "likelihood_mass": 4.75,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1982,
+      "active_entries": 13,
+      "likelihood_mass": 7.715686274509647,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1983,
+      "active_entries": 13,
+      "likelihood_mass": 10.718992248062115,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1984,
+      "active_entries": 11,
+      "likelihood_mass": 7.976744186046585,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1985,
+      "active_entries": 11,
+      "likelihood_mass": 5.5261627906977235,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1986,
+      "active_entries": 11,
+      "likelihood_mass": 3.0755813953488618,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1987,
+      "active_entries": 1,
+      "likelihood_mass": 0.625,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing"
+      ]
+    },
+    {
+      "year": 1988,
+      "active_entries": 1,
+      "likelihood_mass": 0.5,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing"
+      ]
+    },
+    {
+      "year": 1989,
+      "active_entries": 1,
+      "likelihood_mass": 0.375,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing"
+      ]
+    },
+    {
+      "year": 1990,
+      "active_entries": 1,
+      "likelihood_mass": 0.25,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing"
+      ]
+    },
+    {
+      "year": 1991,
+      "active_entries": 3,
+      "likelihood_mass": 0.7083333333333333,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "requesting"
+      ]
+    },
+    {
+      "year": 1992,
+      "active_entries": 5,
+      "likelihood_mass": 1.95,
+      "active_kairolexica": 3,
+      "functions": [
+        "declining",
+        "deferring",
+        "hyping",
+        "informing",
+        "requesting"
+      ]
+    },
+    {
+      "year": 1993,
+      "active_entries": 7,
+      "likelihood_mass": 3.8166666666666664,
+      "active_kairolexica": 3,
+      "functions": [
+        "declining",
+        "deferring",
+        "hyping",
+        "informing",
+        "requesting"
+      ]
+    },
+    {
+      "year": 1994,
+      "active_entries": 15,
+      "likelihood_mass": 8.483333333333333,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1995,
+      "active_entries": 17,
+      "likelihood_mass": 12.05151515151515,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1996,
+      "active_entries": 23,
+      "likelihood_mass": 16.02121212121212,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1997,
+      "active_entries": 26,
+      "likelihood_mass": 16.290909090909093,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1998,
+      "active_entries": 25,
+      "likelihood_mass": 16.56060606060606,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 1999,
+      "active_entries": 24,
+      "likelihood_mass": 15.33030303030303,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2000,
+      "active_entries": 21,
+      "likelihood_mass": 10.483333333333333,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2001,
+      "active_entries": 20,
+      "likelihood_mass": 6.166666666666666,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2002,
+      "active_entries": 7,
+      "likelihood_mass": 2.0166666666666666,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing",
+        "praising",
+        "requesting"
+      ]
+    },
+    {
+      "year": 2003,
+      "active_entries": 3,
+      "likelihood_mass": 0.5333333333333333,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing",
+        "praising",
+        "requesting"
+      ]
+    },
+    {
+      "year": 2004,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 2005,
+      "active_entries": 8,
+      "likelihood_mass": 2.6666666666666665,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2006,
+      "active_entries": 8,
+      "likelihood_mass": 5.333333333333333,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2007,
+      "active_entries": 8,
+      "likelihood_mass": 8.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2008,
+      "active_entries": 8,
+      "likelihood_mass": 6.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2009,
+      "active_entries": 10,
+      "likelihood_mass": 4.5,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2010,
+      "active_entries": 13,
+      "likelihood_mass": 3.8666666666666667,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2011,
+      "active_entries": 15,
+      "likelihood_mass": 7.816666666666666,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2012,
+      "active_entries": 17,
+      "likelihood_mass": 12.725,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2013,
+      "active_entries": 18,
+      "likelihood_mass": 13.4,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2014,
+      "active_entries": 21,
+      "likelihood_mass": 14.075,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2015,
+      "active_entries": 21,
+      "likelihood_mass": 13.073809523809524,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2016,
+      "active_entries": 18,
+      "likelihood_mass": 9.077380952380953,
+      "active_kairolexica": 5,
+      "functions": [
+        "apologizing",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2017,
+      "active_entries": 14,
+      "likelihood_mass": 6.330952380952381,
+      "active_kairolexica": 4,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2018,
+      "active_entries": 10,
+      "likelihood_mass": 4.817857142857143,
+      "active_kairolexica": 3,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2019,
+      "active_entries": 8,
+      "likelihood_mass": 3.9023809523809523,
+      "active_kairolexica": 3,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2020,
+      "active_entries": 4,
+      "likelihood_mass": 2.342857142857143,
+      "active_kairolexica": 2,
+      "functions": [
+        "declining",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting"
+      ]
+    },
+    {
+      "year": 2021,
+      "active_entries": 20,
+      "likelihood_mass": 11.66169590643271,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2022,
+      "active_entries": 23,
+      "likelihood_mass": 15.860823627696554,
+      "active_kairolexica": 3,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2023,
+      "active_entries": 18,
+      "likelihood_mass": 6.448416758007537,
+      "active_kairolexica": 4,
+      "functions": [
+        "apologizing",
+        "declining",
+        "deferring",
+        "greeting",
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "scheduling",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2024,
+      "active_entries": 1,
+      "likelihood_mass": 0.43478260869566077,
+      "active_kairolexica": 1,
+      "functions": [
+        "declining",
+        "deferring",
+        "informing"
+      ]
+    },
+    {
+      "year": 2025,
+      "active_entries": 10,
+      "likelihood_mass": 5.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2026,
+      "active_entries": 10,
+      "likelihood_mass": 10.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2027,
+      "active_entries": 10,
+      "likelihood_mass": 5.0,
+      "active_kairolexica": 1,
+      "functions": [
+        "hyping",
+        "informing",
+        "praising",
+        "requesting",
+        "thanking"
+      ]
+    },
+    {
+      "year": 2028,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 2029,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    },
+    {
+      "year": 2030,
+      "active_entries": 0,
+      "likelihood_mass": 0.0,
+      "active_kairolexica": 0,
+      "functions": []
+    }
+  ],
+  "gaps": [
+    1970,
+    1971,
+    1972,
+    1973,
+    2004,
+    2028,
+    2029,
+    2030
+  ],
+  "thin_years": [
+    1970,
+    1971,
+    1972,
+    1973,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    2003,
+    2004,
+    2020,
+    2024,
+    2028,
+    2029,
+    2030
+  ],
+  "kairolexica": [
+    {
+      "id": "era_1970_cb_craze",
+      "name": "Citizens-band popularization",
+      "entries": 15,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        5.0,
+        10.0,
+        15.0,
+        12.5,
+        10.0,
+        7.5,
+        5.0,
+        2.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1980_valley_girl",
+      "name": "National Valley Girl lexical fad",
+      "entries": 12,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6666666666666666,
+        1.3333333333333333,
+        2.0,
+        7.215686274509647,
+        9.968992248062115,
+        6.976744186046585,
+        4.6511627906977235,
+        2.3255813953488618,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1980_yuppie",
+      "name": "Yuppie demographic designation",
+      "entries": 1,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.5,
+        0.75,
+        1.0,
+        0.875,
+        0.75,
+        0.625,
+        0.5,
+        0.375,
+        0.25,
+        0.125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1990_affirmative_cyber",
+      "name": "Affirmative cyber formations",
+      "entries": 9,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        0.65,
+        3.0999999999999996,
+        6.05,
+        9.0,
+        7.5,
+        6.0,
+        4.5,
+        3.0,
+        1.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1990_dotcom_valuation",
+      "name": "Dot-com valuation and commercial exceptionalism",
+      "entries": 10,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2,
+        2.0666666666666664,
+        5.1,
+        8.133333333333333,
+        9.466666666666667,
+        6.983333333333333,
+        4.5,
+        2.0166666666666666,
+        0.5333333333333333,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1990_information_highway",
+      "name": "Information-highway rhetoric",
+      "entries": 4,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.75,
+        2.583333333333333,
+        3.5681818181818183,
+        3.287878787878788,
+        2.590909090909091,
+        1.893939393939394,
+        1.196969696969697,
+        0.5,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_1990_reengineering",
+      "name": "Reengineering evangelism",
+      "entries": 3,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5833333333333333,
+        1.5,
+        2.4166666666666665,
+        2.8,
+        2.2333333333333334,
+        1.6666666666666665,
+        1.1,
+        0.5333333333333333,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_2005_web_participation",
+      "name": "Participatory-web promotional principles",
+      "entries": 8,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.6666666666666665,
+        5.333333333333333,
+        8.0,
+        6.0,
+        4.0,
+        2.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_2010_big_data",
+      "name": "Big-data promotional saturation",
+      "entries": 2,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        1.0,
+        1.75,
+        1.25,
+        0.75,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_2010_social_marketing",
+      "name": "Social-mobile promotional saturation",
+      "entries": 8,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0833333333333333,
+        2.5,
+        3.55,
+        4.933333333333334,
+        6.257142857142857,
+        4.130952380952381,
+        2.338095238095238,
+        1.0785714285714285,
+        0.4857142857142857,
+        0.14285714285714285,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_2010_tumblr_reactions",
+      "name": "Early Tumblr reaction captions",
+      "entries": 7,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.5,
+        4.083333333333333,
+        6.416666666666667,
+        5.3,
+        3.6,
+        1.9,
+        0.45,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "era_2010_workplace_titles",
+      "name": "Promotional workplace title inflation",
+      "entries": 5,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        1.3666666666666667,
+        2.65,
+        3.308333333333333,
+        3.55,
+        3.7916666666666665,
+        3.666666666666667,
+        3.175,
+        2.2666666666666666,
+        1.3583333333333334,
+        0.6166666666666667,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "hustle_aspiration",
+      "name": "Platform-mediated hustle aspiration",
+      "entries": 3,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5714285714285714,
+        1.476190476190476,
+        2.380952380952381,
+        2.8,
+        2.2,
+        1.6,
+        1.0,
+        0.4,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "nft_community_ritual",
+      "name": "Speculative NFT community ritual",
+      "entries": 14,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.8000000000000003,
+        12.15322128851528,
+        4.928851540616215,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "pandemic_messaging",
+      "name": "Pandemic institutional messaging",
+      "entries": 8,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.261695906432711,
+        2.707602339181274,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "quiet_work_reframing",
+      "name": "Quiet-work media reframing",
+      "entries": 1,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.8695652173913215,
+        0.43478260869566077,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "tuus_2026",
+      "name": "Micro-formulation discourse",
+      "entries": 10,
+      "density": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        5.0,
+        10.0,
+        5.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "nearest_pairs": [
+    {
+      "similarity": 0.9496116638183594,
+      "entries": [
+        "greek_utterance",
+        "micro_utterance"
+      ]
+    },
+    {
+      "similarity": 0.9476855993270874,
+      "entries": [
+        "tuus_opening",
+        "tuus_description"
+      ]
+    },
+    {
+      "similarity": 0.9293242692947388,
+      "entries": [
+        "monetizing_eyeballs",
+        "eyeballs"
+      ]
+    },
+    {
+      "similarity": 0.9176602363586426,
+      "entries": [
+        "tuus_name",
+        "tuus_opening"
+      ]
+    },
+    {
+      "similarity": 0.9160321950912476,
+      "entries": [
+        "mind_share",
+        "eyeballs"
+      ]
+    },
+    {
+      "similarity": 0.915579080581665,
+      "entries": [
+        "cybersurf",
+        "cybersurfer"
+      ]
+    },
+    {
+      "similarity": 0.9143251180648804,
+      "entries": [
+        "cb_break_for_a_short",
+        "cb_break"
+      ]
+    },
+    {
+      "similarity": 0.9126735925674438,
+      "entries": [
+        "cb_come_on_back",
+        "cb_ears"
+      ]
+    },
+    {
+      "similarity": 0.9118911027908325,
+      "entries": [
+        "tuus_full_name",
+        "tuus_description"
+      ]
+    },
+    {
+      "similarity": 0.9101536273956299,
+      "entries": [
+        "tuus_full_name",
+        "greek_utterance"
+      ]
+    },
+    {
+      "similarity": 0.9097056984901428,
+      "entries": [
+        "cb_break",
+        "cb_ears"
+      ]
+    },
+    {
+      "similarity": 0.9091014862060547,
+      "entries": [
+        "cb_come_on_back",
+        "cb_break"
+      ]
+    },
+    {
+      "similarity": 0.9069444537162781,
+      "entries": [
+        "cb_come_on_back",
+        "cb_come_on_breaker"
+      ]
+    },
+    {
+      "similarity": 0.9062298536300659,
+      "entries": [
+        "tuus_full_name",
+        "tuus_opening"
+      ]
+    },
+    {
+      "similarity": 0.9060618877410889,
+      "entries": [
+        "cybermall",
+        "cybershop"
+      ]
+    },
+    {
+      "similarity": 0.9053866863250732,
+      "entries": [
+        "cb_hammer_down",
+        "cb_back_it_down"
+      ]
+    },
+    {
+      "similarity": 0.9049021005630493,
+      "entries": [
+        "big_data",
+        "big_data_service"
+      ]
+    },
+    {
+      "similarity": 0.9016878604888916,
+      "entries": [
+        "cb_good_truckin",
+        "cb_fine_day"
+      ]
+    },
+    {
+      "similarity": 0.9007517099380493,
+      "entries": [
+        "information_superhighway",
+        "road_kill_highway"
+      ]
+    },
+    {
+      "similarity": 0.9002678990364075,
+      "entries": [
+        "tuus_name",
+        "tuus_full_name"
+      ]
+    },
+    {
+      "similarity": 0.8992257118225098,
+      "entries": [
+        "valley_major_cool",
+        "valley_mondo_cool"
+      ]
+    },
+    {
+      "similarity": 0.8985797166824341,
+      "entries": [
+        "nft_gm",
+        "nft_ser"
+      ]
+    },
+    {
+      "similarity": 0.897936999797821,
+      "entries": [
+        "cb_back_it_down",
+        "cb_down_gone"
+      ]
+    },
+    {
+      "similarity": 0.8957819938659668,
+      "entries": [
+        "tuus_full_name",
+        "telechronistic"
+      ]
+    },
+    {
+      "similarity": 0.8948123455047607,
+      "entries": [
+        "cb_break",
+        "cb_down_gone"
+      ]
+    },
+    {
+      "similarity": 0.8947963714599609,
+      "entries": [
+        "telechronistic",
+        "tuus_description"
+      ]
+    },
+    {
+      "similarity": 0.8946780562400818,
+      "entries": [
+        "cybershop",
+        "cyberworld"
+      ]
+    },
+    {
+      "similarity": 0.8945705890655518,
+      "entries": [
+        "eyeballs",
+        "stickiness"
+      ]
+    },
+    {
+      "similarity": 0.8935775756835938,
+      "entries": [
+        "cb_eyeball",
+        "monetizing_eyeballs"
+      ]
+    },
+    {
+      "similarity": 0.8933889865875244,
+      "entries": [
+        "cybercommerce",
+        "cybershop"
+      ]
+    }
+  ],
+  "semantic_coordinates": [
+    {
+      "entry": "cb_break_for_a_short",
+      "x": -0.040568187832832336,
+      "y": 0.17904315888881683
+    },
+    {
+      "entry": "cb_come_on_back",
+      "x": -0.05135904997587204,
+      "y": 0.17270326614379883
+    },
+    {
+      "entry": "cb_come_on_breaker",
+      "x": -0.07277651131153107,
+      "y": 0.20786923170089722
+    },
+    {
+      "entry": "cb_break",
+      "x": -0.10027757287025452,
+      "y": 0.1911095231771469
+    },
+    {
+      "entry": "cb_ears",
+      "x": -0.037696003913879395,
+      "y": 0.14689508080482483
+    },
+    {
+      "entry": "cb_eyeball",
+      "x": -0.00029113286291249096,
+      "y": -0.00033355082268826663
+    },
+    {
+      "entry": "cb_channel_roll",
+      "x": -0.05009843036532402,
+      "y": 0.23761285841464996
+    },
+    {
+      "entry": "cb_hammer_down",
+      "x": -0.03443006053566933,
+      "y": 0.06371740996837616
+    },
+    {
+      "entry": "cb_back_it_down",
+      "x": -0.00868478137999773,
+      "y": 0.20864425599575043
+    },
+    {
+      "entry": "cb_clean_shot",
+      "x": -0.08108720928430557,
+      "y": 0.08223771303892136
+    },
+    {
+      "entry": "cb_ratchet_jaw",
+      "x": -0.04835829138755798,
+      "y": 0.022651270031929016
+    },
+    {
+      "entry": "cb_good_truckin",
+      "x": -0.15290795266628265,
+      "y": 0.04819908365607262
+    },
+    {
+      "entry": "cb_fine_day",
+      "x": -0.1059224084019661,
+      "y": 0.07289683073759079
+    },
+    {
+      "entry": "cb_stack_eights",
+      "x": -0.1617068648338318,
+      "y": 0.14449270069599152
+    },
+    {
+      "entry": "cb_down_gone",
+      "x": -0.06962458789348602,
+      "y": 0.24461737275123596
+    },
+    {
+      "entry": "valley_fer_shurr",
+      "x": -0.17469896376132965,
+      "y": -0.041592616587877274
+    },
+    {
+      "entry": "valley_maximum_brilliant",
+      "x": -0.19075921177864075,
+      "y": -0.09267965704202652
+    },
+    {
+      "entry": "valley_major_cool",
+      "x": -0.08167900145053864,
+      "y": -0.10088924318552017
+    },
+    {
+      "entry": "valley_mondo_cool",
+      "x": -0.10464537888765335,
+      "y": -0.12762314081192017
+    },
+    {
+      "entry": "valley_rilly_killer",
+      "x": -0.12338600307703018,
+      "y": -0.02846692129969597
+    },
+    {
+      "entry": "valley_kiss_my_tuna",
+      "x": -0.0811784416437149,
+      "y": 0.0919293463230133
+    },
+    {
+      "entry": "valley_im_shurr",
+      "x": -0.13173839449882507,
+      "y": 0.04413296654820442
+    },
+    {
+      "entry": "valley_joanie",
+      "x": -0.017995724454522133,
+      "y": 0.05443382263183594
+    },
+    {
+      "entry": "valley_bitchen",
+      "x": -0.14638400077819824,
+      "y": -0.06808257102966309
+    },
+    {
+      "entry": "valley_tubular",
+      "x": -0.1270655244588852,
+      "y": -0.05677785351872444
+    },
+    {
+      "entry": "valley_grody_max",
+      "x": -0.037747181951999664,
+      "y": 0.042215634137392044
+    },
+    {
+      "entry": "valley_gag_spoon",
+      "x": -0.11297141760587692,
+      "y": 0.06812864542007446
+    },
+    {
+      "entry": "yuppie_label",
+      "x": -0.058560896664857864,
+      "y": -0.16628877818584442
+    },
+    {
+      "entry": "cybermall",
+      "x": 0.1882779598236084,
+      "y": -0.04223475232720375
+    },
+    {
+      "entry": "cybercommerce",
+      "x": 0.23358407616615295,
+      "y": -0.023636095225811005
+    },
+    {
+      "entry": "cybershop",
+      "x": 0.20477411150932312,
+      "y": -0.046766046434640884
+    },
+    {
+      "entry": "cybersurf",
+      "x": 0.1728954166173935,
+      "y": 0.05046965554356575
+    },
+    {
+      "entry": "cybersurfer",
+      "x": 0.08878953754901886,
+      "y": -0.07643207907676697
+    },
+    {
+      "entry": "cyberworld",
+      "x": 0.1964210867881775,
+      "y": -0.03975407034158707
+    },
+    {
+      "entry": "cyberage",
+      "x": 0.17142599821090698,
+      "y": -0.052813880145549774
+    },
+    {
+      "entry": "cybercommunity",
+      "x": 0.08948687463998795,
+      "y": -0.051142409443855286
+    },
+    {
+      "entry": "cybersnob",
+      "x": 0.07348933070898056,
+      "y": -0.127205029129982
+    },
+    {
+      "entry": "new_economy",
+      "x": 0.18341754376888275,
+      "y": 0.08123861253261566
+    },
+    {
+      "entry": "get_big_fast",
+      "x": 0.04674709215760231,
+      "y": 0.09580899029970169
+    },
+    {
+      "entry": "mind_share",
+      "x": 0.007657650858163834,
+      "y": -0.046850502490997314
+    },
+    {
+      "entry": "monetizing_eyeballs",
+      "x": 0.09496770799160004,
+      "y": 0.015935761854052544
+    },
+    {
+      "entry": "eyeballs",
+      "x": -0.01885012537240982,
+      "y": -0.0024387200828641653
+    },
+    {
+      "entry": "stickiness",
+      "x": 0.03862901031970978,
+      "y": -0.020484013482928276
+    },
+    {
+      "entry": "friction_free",
+      "x": 0.06888482719659805,
+      "y": 0.10998689383268356
+    },
+    {
+      "entry": "death_of_distance",
+      "x": 0.07307936251163483,
+      "y": 0.15117451548576355
+    },
+    {
+      "entry": "disintermediation",
+      "x": 0.16456735134124756,
+      "y": 0.07001763582229614
+    },
+    {
+      "entry": "econosphere",
+      "x": 0.13405747711658478,
+      "y": -0.049491509795188904
+    },
+    {
+      "entry": "information_superhighway",
+      "x": 0.07342886179685593,
+      "y": -0.012003254145383835
+    },
+    {
+      "entry": "surfing_the_web",
+      "x": 0.10935856401920319,
+      "y": 0.015393807552754879
+    },
+    {
+      "entry": "road_kill_highway",
+      "x": 0.06865689903497696,
+      "y": 0.050285954028367996
+    },
+    {
+      "entry": "merging_electronic_traffic",
+      "x": 0.1322375237941742,
+      "y": -0.006015857681632042
+    },
+    {
+      "entry": "reengineering",
+      "x": 0.0557795874774456,
+      "y": 0.0017043331172317266
+    },
+    {
+      "entry": "dont_automate_obliterate",
+      "x": 0.06165633723139763,
+      "y": 0.1062171459197998
+    },
+    {
+      "entry": "blank_sheet_paper",
+      "x": 0.03115702234208584,
+      "y": 0.17293678224086761
+    },
+    {
+      "entry": "web_20",
+      "x": 0.19751495122909546,
+      "y": -0.1338687539100647
+    },
+    {
+      "entry": "architecture_participation",
+      "x": 0.06354963779449463,
+      "y": -0.07769151031970978
+    },
+    {
+      "entry": "harness_collective",
+      "x": 0.06876623630523682,
+      "y": -0.13775332272052765
+    },
+    {
+      "entry": "data_intel_inside",
+      "x": 0.1307457834482193,
+      "y": -0.08777496218681335
+    },
+    {
+      "entry": "web_platform",
+      "x": 0.17743948101997375,
+      "y": -0.08544135093688965
+    },
+    {
+      "entry": "perpetual_beta",
+      "x": 0.09205566346645355,
+      "y": 0.023765169084072113
+    },
+    {
+      "entry": "tagging_not_taxonomy",
+      "x": 0.12555499374866486,
+      "y": -0.029952894896268845
+    },
+    {
+      "entry": "end_release_cycle",
+      "x": 0.12266625463962555,
+      "y": 0.06797284632921219
+    },
+    {
+      "entry": "big_data",
+      "x": 0.058484263718128204,
+      "y": -0.11000183969736099
+    },
+    {
+      "entry": "big_data_service",
+      "x": 0.15062642097473145,
+      "y": -0.09791308641433716
+    },
+    {
+      "entry": "marketing_growth_hacking",
+      "x": 0.13832350075244904,
+      "y": -0.07874485850334167
+    },
+    {
+      "entry": "marketing_snackable",
+      "x": 0.04084090143442154,
+      "y": -0.09902550280094147
+    },
+    {
+      "entry": "marketing_solomo",
+      "x": 0.06813059747219086,
+      "y": -0.09507200121879578
+    },
+    {
+      "entry": "marketing_uber_of",
+      "x": 0.07521290332078934,
+      "y": -0.07592101395130157
+    },
+    {
+      "entry": "marketing_break_internet",
+      "x": 0.10535695403814316,
+      "y": -0.049458809196949005
+    },
+    {
+      "entry": "marketing_bae",
+      "x": -0.1408325433731079,
+      "y": -0.10632842779159546
+    },
+    {
+      "entry": "marketing_swag",
+      "x": -0.11834697425365448,
+      "y": -0.20619428157806396
+    },
+    {
+      "entry": "marketing_giving_life",
+      "x": -0.15334120392799377,
+      "y": -0.055665235966444016
+    },
+    {
+      "entry": "tumblr_cant_even",
+      "x": -0.17903299629688263,
+      "y": -0.06456455588340759
+    },
+    {
+      "entry": "tumblr_what_air",
+      "x": -0.11491021513938904,
+      "y": -0.08496305346488953
+    },
+    {
+      "entry": "tumblr_gpoy",
+      "x": -0.03118371032178402,
+      "y": -0.10570894926786423
+    },
+    {
+      "entry": "tumblr_keysmash",
+      "x": -0.10548961162567139,
+      "y": -0.0836917832493782
+    },
+    {
+      "entry": "tumblr_feels_entry",
+      "x": -0.153809055685997,
+      "y": -0.11935888975858688
+    },
+    {
+      "entry": "tumblr_life_ruiner",
+      "x": -0.07470953464508057,
+      "y": -0.15346631407737732
+    },
+    {
+      "entry": "tumblr_all_things",
+      "x": -0.039889901876449585,
+      "y": -0.007478829473257065
+    },
+    {
+      "entry": "workplace_rockstar",
+      "x": -0.07574622333049774,
+      "y": -0.14309246838092804
+    },
+    {
+      "entry": "workplace_ninja",
+      "x": -0.035818979144096375,
+      "y": -0.16686731576919556
+    },
+    {
+      "entry": "workplace_guru",
+      "x": -0.07153269648551941,
+      "y": -0.17232930660247803
+    },
+    {
+      "entry": "workplace_wizard",
+      "x": -0.06410263478755951,
+      "y": -0.13710589706897736
+    },
+    {
+      "entry": "workplace_jedi",
+      "x": -0.04587152600288391,
+      "y": -0.1474662721157074
+    },
+    {
+      "entry": "rise_and_grind",
+      "x": -0.06793464720249176,
+      "y": -0.02629278227686882
+    },
+    {
+      "entry": "hustle_harder",
+      "x": -0.04282020032405853,
+      "y": -0.029793279245495796
+    },
+    {
+      "entry": "hustle_culture",
+      "x": 0.006867138668894768,
+      "y": -0.08368849009275436
+    },
+    {
+      "entry": "nft_wagmi",
+      "x": -0.14500637352466583,
+      "y": -0.0605887696146965
+    },
+    {
+      "entry": "nft_gm",
+      "x": -0.0697690024971962,
+      "y": 0.007156550418585539
+    },
+    {
+      "entry": "nft_gn",
+      "x": -0.12177492678165436,
+      "y": 0.06687965989112854
+    },
+    {
+      "entry": "nft_fren",
+      "x": -0.159713014960289,
+      "y": -0.03795931488275528
+    },
+    {
+      "entry": "nft_looks_rare",
+      "x": -0.05066162720322609,
+      "y": -0.03948533535003662
+    },
+    {
+      "entry": "nft_probably_nothing",
+      "x": -0.04976332560181618,
+      "y": -0.00487465038895607
+    },
+    {
+      "entry": "nft_diamond_hands",
+      "x": -0.08022874593734741,
+      "y": 0.024766743183135986
+    },
+    {
+      "entry": "nft_paper_hands",
+      "x": -0.009823608212172985,
+      "y": 0.08180361986160278
+    },
+    {
+      "entry": "nft_wen_moon",
+      "x": 0.01783205382525921,
+      "y": 0.07360109686851501
+    },
+    {
+      "entry": "nft_nfa",
+      "x": 0.02372903935611248,
+      "y": 0.11907122284173965
+    },
+    {
+      "entry": "nft_dyor",
+      "x": 0.06265608966350555,
+      "y": 0.08432941138744354
+    },
+    {
+      "entry": "nft_ser",
+      "x": -0.06956319510936737,
+      "y": -0.0516793355345726
+    },
+    {
+      "entry": "nft_discord_grinding",
+      "x": 0.016991108655929565,
+      "y": 0.013671296648681164
+    },
+    {
+      "entry": "nft_right_clicker",
+      "x": 0.10549583286046982,
+      "y": 0.0016081681242212653
+    },
+    {
+      "entry": "all_in_together",
+      "x": -0.04791959375143051,
+      "y": -0.002324949251487851
+    },
+    {
+      "entry": "abundance_caution",
+      "x": -0.05125028267502785,
+      "y": 0.0758892372250557
+    },
+    {
+      "entry": "uncertain_times",
+      "x": -0.05727463960647583,
+      "y": 0.09746354073286057
+    },
+    {
+      "entry": "pandemic_pivot",
+      "x": 0.028816135600209236,
+      "y": 0.13146455585956573
+    },
+    {
+      "entry": "pandemic_unprecedented",
+      "x": -0.05963342636823654,
+      "y": 0.04500993341207504
+    },
+    {
+      "entry": "pandemic_new_normal",
+      "x": 0.04823833703994751,
+      "y": 0.08727184683084488
+    },
+    {
+      "entry": "on_mute",
+      "x": 0.012176825664937496,
+      "y": 0.11675137281417847
+    },
+    {
+      "entry": "supply_chain_issues",
+      "x": 0.031198125332593918,
+      "y": 0.061594583094120026
+    },
+    {
+      "entry": "quiet_quitting",
+      "x": -0.07789379358291626,
+      "y": 0.073337122797966
+    },
+    {
+      "entry": "tuus_name",
+      "x": 0.0638648048043251,
+      "y": -0.0026742015033960342
+    },
+    {
+      "entry": "tuus_full_name",
+      "x": 0.05464315041899681,
+      "y": 0.014188848435878754
+    },
+    {
+      "entry": "telechronistic",
+      "x": 0.0384293831884861,
+      "y": 0.02949587255716324
+    },
+    {
+      "entry": "greek_utterance",
+      "x": -0.06393542140722275,
+      "y": -0.023838426917791367
+    },
+    {
+      "entry": "micro_utterance",
+      "x": -0.04336356371641159,
+      "y": -0.012229712679982185
+    },
+    {
+      "entry": "temporal_prior",
+      "x": 0.03209134191274643,
+      "y": 0.013307866640388966
+    },
+    {
+      "entry": "kairolexica",
+      "x": -0.0322265550494194,
+      "y": -0.10526170581579208
+    },
+    {
+      "entry": "tuus_opening",
+      "x": 0.0658656656742096,
+      "y": 0.06425345689058304
+    },
+    {
+      "entry": "tuus_description",
+      "x": 0.09739390760660172,
+      "y": 0.0652155801653862
+    },
+    {
+      "entry": "micro_moment",
+      "x": 0.04363951459527016,
+      "y": -0.010974537581205368
+    }
+  ]
+}
